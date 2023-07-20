@@ -1,0 +1,3 @@
+URL: https://www.ebay.ca/itm/185964449103?epid=19038006943&hash=item2b4c584d4f:g:BO0AAOSwlH5knfQj&amdata=enc%3AAQAIAAAA4GMtTaGwAqVCkXsejhPaO60YBuYwTA1Ko%2B%2FvRfkxCNdHdvr8ZZgYt2ZBTEN4pT8OCmN%2BgW1XDGQtdczPp%2BqbOzUd%2BccaA7qHq6FyMvQrRU79paCq%2Bo4jFVZvF%2BYCnuBOUaRtTZrmx0CDyHx%2FFgSlraEsmUtNOwR%2FOZAyhuChU6DfLH7ZcYEIqz7i%2B9swZXT591p0v7fz184KgtQwU2FUufwDYm929m1DquEtrkSfKWpdki7vSmaqomTxV98x%2F851K0jy4W1oZxySrbO3yvw7FHnViZ0Yyq6PJB7%2F6kJwn685%7Ctkp%3ABFBM4pTk2ati
+
+Cheaper than a raspberry pi for similar performance
