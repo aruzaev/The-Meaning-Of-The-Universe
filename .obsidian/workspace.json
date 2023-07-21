@@ -4,55 +4,96 @@
     "type": "split",
     "children": [
       {
-        "id": "19849f2e1d6d519c",
+        "id": "8c459e4ae55459fa",
         "type": "tabs",
         "children": [
           {
-            "id": "70a363af621cb16c",
+            "id": "4d29dac1faf7ce8a",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           },
           {
-            "id": "d7198d95d9e30dcb",
+            "id": "df0e6337a0ed5505",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "First Principle Thinking.md",
+                "file": "Book list.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "98cde04a1b8662e0",
+            "id": "ddfa324967618c81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/Article/How to format external hard drive CLI Windows.md",
+                "file": "Mindfulness.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "9d50a9a6f0aaef8b",
+            "id": "0ec73cfa4f8078c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sources/Book/Happiness by Thich Nhat Hanh.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b07c08e2ba3dfe9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "sources/Video/Obsidian - Cool Features.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbf17eee1f57e485",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73cb926a4646fa78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cheat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,8 +150,27 @@
     "type": "split",
     "children": [
       {
+        "id": "3da102f9b1054262",
+        "type": "tabs",
+        "dimension": 14.595375722543352,
+        "children": [
+          {
+            "id": "165280d1c1c16f87",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "65a92c4c8ce3123f",
         "type": "tabs",
+        "dimension": 26.156069364161848,
         "children": [
           {
             "id": "adb85a6dab17df22",
@@ -126,7 +186,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sources/Article/How to format external hard drive CLI Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,88 +197,84 @@
             }
           },
           {
-            "id": "b027f83d51843d0b",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "sources/Article/How to format external hard drive CLI Windows.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "165280d1c1c16f87",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "f5dc157e06036aca",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sources/Article/How to format external hard drive CLI Windows.md"
-              }
+              "state": {}
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "e74a2e9b8d5e02c4",
+        "type": "tabs",
+        "dimension": 59.2485549132948,
+        "children": [
+          {
+            "id": "5bf1bacd386e5fd2",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "98cde04a1b8662e0",
+  "active": "4d29dac1faf7ce8a",
   "lastOpenFiles": [
-    "daily/2023-07-16.md",
-    "sources/Article/How to format external hard drive CLI Windows.md",
-    "sources/Post/reddit/Raspberry Pi is hugely overpriced. Here are the alternatives..md",
-    "server/hardware/Base - Dell Optiplex 7040 SFF.md",
-    "server/hardware/Base - HP EliteDesk 800 G3 TW.md",
-    "sources/Post/reddit",
-    "sources/Post",
-    "server/hardware/Base - Dell Wyse 5070.md",
-    "obsidian/Learning/Features.md",
-    "obsidian/Learning/what is obsidian.md",
-    "sources/Video/Obsidian - Cool Features.md",
-    "sources/Video/Obsidian -  Beginner's Guide.md",
-    "server/software/Proxmox.md",
-    "server/hardware",
-    "server/software",
-    "server",
+    "Mindfulness.md",
+    "Book list.md",
+    "sources/Book/Happiness by Thich Nhat Hanh.md",
+    "Self Help.md",
+    "sources/Book",
     "First Principle Thinking.md",
+    "Home.md",
+    "server/Troubleshooting.md",
+    "Changelog.md",
+    "AWS.md",
+    "Python.md",
+    "Obsidian.md",
+    "sources/Video/Obsidian - Cool Features.md",
+    "Features.md",
     "daily/2023-07-14.md",
-    "sources/Video/Obsidian Beginner's Guide 1.md",
-    "what obsidian is.md",
-    "sources/Paper/The Extended Mind by Clark and Chalmers (1998).md",
-    "The.md",
-    "sources/Paper",
-    "sources/Untitled.md",
-    "Beginners.md",
-    "sources/Video/Obsidian - How to Plan Your Day.md",
-    "reading-lists/Articles",
-    "2023-07-14.md",
-    "daily",
-    "Planner.md",
+    "Day Planners/Day Planners/Day Planner-20230720.md",
+    "Day Planners/Day Planner-20230720.md",
+    "Day Planners",
+    "daily/2023-07-20.md",
+    "server/Hardware.md",
+    "server/Server.md",
+    "sources/Post/Raspberry Pi is hugely overpriced. Here are the alternatives..md",
+    "Untitled.canvas",
+    "server/Software.md",
+    "server/software/Proxmox.md",
+    "server/hardware/Base - Dell Optiplex 7040 SFF.md",
+    "sources/Site/Markdown Cheat Sheet.md",
+    "sources/Post/A Guide On Links vs. Tags in Obsidian.md",
+    "sources/Site",
+    "obsidian/Obsidian.md",
+    "sources/Post/reddit",
+    "sources/Post/forum",
     "sources/Video",
-    "obsidian/Learning"
+    "sources/Post",
+    "sources/Paper",
+    "sources/Article",
+    "sources"
   ]
 }

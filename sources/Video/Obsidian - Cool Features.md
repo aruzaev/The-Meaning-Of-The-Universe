@@ -1,1 +1,1 @@
-obsidian has a lot of [[Features]]
+[[Features]]

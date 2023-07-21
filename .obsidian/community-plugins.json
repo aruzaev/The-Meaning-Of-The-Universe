@@ -1,4 +1,9 @@
 [
   "calendar",
-  "dataview"
+  "dataview",
+  "obsidian-day-planner",
+  "obsidian-git",
+  "obsidian-zotero-desktop-connector",
+  "obsidian-discordrpc",
+  "obsidian-vault-changelog"
 ]
