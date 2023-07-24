@@ -2,6 +2,9 @@
 
 This is my home
 
+
+[[Daily Planner]]
+
 ## Currently Studying
 
 ## Dev 

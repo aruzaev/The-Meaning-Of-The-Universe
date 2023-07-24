@@ -1,9 +1,10 @@
 [
   "calendar",
   "dataview",
-  "obsidian-day-planner",
   "obsidian-git",
   "obsidian-zotero-desktop-connector",
   "obsidian-discordrpc",
-  "obsidian-vault-changelog"
+  "obsidian-vault-changelog",
+  "templater-obsidian",
+  "obsidian-tasks-plugin"
 ]
