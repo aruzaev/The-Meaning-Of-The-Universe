@@ -1,5 +1,6 @@
 # [[EC2 On Demand]]
 
+[[EC2]]
 - pay for what you use
 	- linux or windows - billing per second, after the first minute
 	- all other os's - billing per hour

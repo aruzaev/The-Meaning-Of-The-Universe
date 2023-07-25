@@ -15,6 +15,7 @@ EC2 (Elastic Compute Cloud) is an [[AWS]] service that amazon offers which allow
 [[Security Groups]]
 [[SSH]]
 [[EC2 Instances Purchasing Options]]
+[[]]
 
 - EC2 Instance: [[AMI]] (OS) + Instance Size (CPU + RAM) + Storage + security groups + EC2 User Data
 - Security Groups: Firewall attached to the [[EC2 Instances]]
