@@ -13,28 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/EC2/EC2.md",
+                "file": "School/Technical Workplace Writ. Skills/Audience and Purpose/Audience and Purpose.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d607a60062c06f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Technical Workplace Writ. Skills/Audience and Purpose/common purposes for communication in the workplace.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1706f152571017b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Technical Workplace Writ. Skills/Audience and Purpose/Audience Analysis.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "28b0aa804910608e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "93d634c563269c70",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "adfa5f409e0597ea",
@@ -113,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "School/Technical Workplace Writ. Skills/Audience and Purpose/Audience Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,6 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School/Technical Workplace Writ. Skills/Audience and Purpose/Audience Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "School/Technical Workplace Writ. Skills/Audience and Purpose/Audience Analysis.md"
+              }
             }
           }
         ]
@@ -176,47 +192,47 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "93d634c563269c70",
+  "active": "1706f152571017b0",
   "lastOpenFiles": [
+    "Audience Types.md",
+    "Audience.md",
+    "School/Technical Workplace Writ. Skills/Audience and Purpose/Audience Analysis.md",
+    "Primary Audience.md",
+    "Secondary Audience.md",
+    "sources/principles of effective technical communication.md",
+    "School/Technical Workplace Writ. Skills/Audience and Purpose/common purposes for communication in the workplace.md",
+    "School/Technical Workplace Writ. Skills/Audience and Purpose/Audience and Purpose.md",
+    "audience.md",
+    "School/Technical Workplace Writ. Skills/Welcome Document online 220.pdf",
+    "School/Technical Workplace Writ. Skills/Audience and Purpose",
     "AWS/EC2/EC2.md",
+    "AWS/EC2/EC2 Capacity Reservations.md",
+    "School/Technical Workplace Writ. Skills/Week 1/Untitled.md",
+    "daily/2023/September/2023-09-04.md",
+    "Day Planners/Day Planner-20230721.md",
+    "Templates/day planner.md",
+    "Templates/daily note.md",
+    "Self Help.md",
+    "School/Technical Workplace Writ. Skills/Week 1",
+    "School/Technical Workplace Writ. Skills",
+    "School/Career Path Development/Week 1",
+    "School/Career Path Development",
+    "School/Globalization/Week 1",
+    "School/Globalization",
+    "School/Intro to Psychology/Week 1",
+    "School/Intro to Psychology",
+    "Python.md",
+    "Ports.md",
     "AWS/EC2/EC2 On Demand.md",
     "daily/2023/July/2023-07-24.md",
-    "Day Planners/Day Planner-20230721.md",
     "sources/Post/If application is not accessible or it has timed out, then its a security issue.md",
     "AWS/AWS.md",
     "AWS/EC2/EC2 Spot Instances.md",
     "AWS/EC2/EC2 Dedicated Hosts.md",
     "AWS/EC2/EC2 Dedicated Instances.md",
-    "AWS/EC2/Security Groups.md",
-    "AWS/EC2",
-    "AWS/EC2/EC2 Reserved Instances.md",
-    "AWS/EC2/EC2 Instances Purchasing Options.md",
     "AWS/EC2/ec2 instance purchasing options.png",
-    "AWS/EC2/EC2 Capacity Reservations.md",
-    "AWS/EC2/EC2 Savings Plans.md",
-    "AWS/EC2/EC2 Instances.md",
-    "sources/Site/BYOL - Bring Your Own License.md",
-    "BYOL - Bring your own License.md",
-    "sources/Site/Markdown Cheat Sheet.md",
-    "AWS/EC2/Tenancy.md",
-    "AWS/EC2/EC2 Instance Types.md",
-    "big data.md",
-    "Home.md",
-    "Book list.md",
-    "AWS/EC2/SSH.md",
-    "AWS/EC2/EC2 Basics.md",
-    "daily/2023/July/2023-07-23.md",
     "AWS/EC2/Security groups diagram.png",
-    "AWS",
     "Security groups diagram.png",
-    "daily/2023/July",
-    "daily/2023",
-    "daily",
-    "Templates",
-    "sources/Book",
-    "Day Planners",
-    "Untitled.canvas",
-    "sources/Site",
-    "sources/Post/reddit"
+    "Untitled.canvas"
   ]
 }

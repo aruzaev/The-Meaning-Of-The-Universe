@@ -7,7 +7,7 @@ This is my plan for the day broken into 3 main sections:
 
 ### Morning Prep
 
-- [x] 08:00 Brush teeth,
+- [ ] 08:00 Brush teeth,
 - [x] 08:05 wash face
 - [x] 08:10 Prepare desk
 - [x] 08:20 Review past notes
