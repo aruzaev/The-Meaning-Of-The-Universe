@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "228f381acd59c6ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Technical Workplace Writ. Skills/Audience and Purpose/Audience and Purpose.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0d607a60062c06f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Technical Workplace Writ. Skills/Audience and Purpose/common purposes for communication in the workplace.md",
+                "file": "School/Globalization/Globalization.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "adfa5f409e0597ea",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Technical Workplace Writ. Skills/Audience and Purpose/Audience and Purpose.md",
+                "file": "School/Globalization/Globalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Technical Workplace Writ. Skills/Audience and Purpose/Audience and Purpose.md",
+                "file": "School/Globalization/Globalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Technical Workplace Writ. Skills/Audience and Purpose/Audience and Purpose.md"
+                "file": "School/Globalization/Globalization.md"
               }
             }
           }
@@ -192,19 +178,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "228f381acd59c6ca",
+  "active": "0d607a60062c06f1",
   "lastOpenFiles": [
-    "Changelog.md",
-    "School/Technical Workplace Writ. Skills/Audience and Purpose/Audience and Purpose.md",
+    "sources/Book/Globalization - A Very Short Introduction.md",
+    "sources/Book/Happiness by Thich Nhat Hanh.md",
+    "School/Globalization/Globalization.md",
+    "School/Technical Workplace Writ. Skills/Audience and Purpose/common purposes for communication in the workplace.md",
+    "School/Globalization",
+    "daily/2023/September/2023-09-13.md",
     "School/Technical Workplace Writ. Skills/Audience and Purpose/Audience Analysis.md",
+    "School/Technical Workplace Writ. Skills/Audience and Purpose/Audience and Purpose.md",
+    "School/Technical Workplace Writ. Skills/Welcome Document online 220.pdf",
+    "daily/2023/September/2023-09-12.md",
+    "Changelog.md",
     "Audience Types.md",
     "Audience.md",
     "Primary Audience.md",
     "Secondary Audience.md",
     "sources/principles of effective technical communication.md",
-    "School/Technical Workplace Writ. Skills/Audience and Purpose/common purposes for communication in the workplace.md",
     "audience.md",
-    "School/Technical Workplace Writ. Skills/Welcome Document online 220.pdf",
     "School/Technical Workplace Writ. Skills/Audience and Purpose",
     "AWS/EC2/EC2.md",
     "AWS/EC2/EC2 Capacity Reservations.md",
@@ -221,15 +213,9 @@
     "School/Globalization/Week 1",
     "School/Globalization",
     "School/Intro to Psychology/Week 1",
-    "School/Intro to Psychology",
     "Python.md",
     "Ports.md",
     "AWS/EC2/EC2 On Demand.md",
-    "daily/2023/July/2023-07-24.md",
-    "sources/Post/If application is not accessible or it has timed out, then its a security issue.md",
-    "AWS/AWS.md",
-    "AWS/EC2/EC2 Spot Instances.md",
-    "AWS/EC2/EC2 Dedicated Hosts.md",
     "AWS/EC2/ec2 instance purchasing options.png",
     "AWS/EC2/Security groups diagram.png",
     "Security groups diagram.png",
