@@ -1,7 +1,7 @@
 # [[Globalization]]
 
 
-Chapter 1: [[What is globalization?]]
+Chapter 1: [[What is globalization]]?
 Chapter 2: [[Globalization in history]]
 
 ---

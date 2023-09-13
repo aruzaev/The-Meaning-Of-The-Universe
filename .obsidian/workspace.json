@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Globalization/Globalization.md",
+                "file": "What is globalization.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Globalization/Globalization.md",
+                "file": "What is globalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Globalization/Globalization.md",
+                "file": "What is globalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Globalization/Globalization.md"
+                "file": "What is globalization.md"
               }
             }
           }
@@ -180,9 +180,12 @@
   },
   "active": "0d607a60062c06f1",
   "lastOpenFiles": [
+    "Information revolution.md",
+    "sources/Site/Wiki - Information revolution.md",
+    "What is globalization.md",
+    "School/Globalization/Globalization.md",
     "sources/Book/Globalization - A Very Short Introduction.md",
     "sources/Book/Happiness by Thich Nhat Hanh.md",
-    "School/Globalization/Globalization.md",
     "School/Technical Workplace Writ. Skills/Audience and Purpose/common purposes for communication in the workplace.md",
     "School/Globalization",
     "daily/2023/September/2023-09-13.md",
@@ -213,9 +216,6 @@
     "School/Globalization/Week 1",
     "School/Globalization",
     "School/Intro to Psychology/Week 1",
-    "Python.md",
-    "Ports.md",
-    "AWS/EC2/EC2 On Demand.md",
     "AWS/EC2/ec2 instance purchasing options.png",
     "AWS/EC2/Security groups diagram.png",
     "Security groups diagram.png",
