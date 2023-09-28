@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is globalization.md",
+                "file": "School/Psychology/Psychology.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,19 +21,33 @@
             }
           },
           {
-            "id": "1706f152571017b0",
+            "id": "aad19bcbf2cfa474",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Technical Workplace Writ. Skills/Audience and Purpose/Audience Analysis.md",
+                "file": "The central nervous system.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b93e70ea0a4b99e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neurons and neurotransmitters.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "adfa5f409e0597ea",
@@ -111,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What is globalization.md",
+                "file": "The central nervous system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is globalization.md",
+                "file": "The central nervous system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What is globalization.md"
+                "file": "The central nervous system.md"
               }
             }
           }
@@ -178,44 +193,46 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0d607a60062c06f1",
+  "active": "aad19bcbf2cfa474",
   "lastOpenFiles": [
+    "School/Psychology/Psychology.md",
+    "Neurons and neurotransmitters.md",
+    "Pasted image 20230921093349.png",
+    "School/Technical Workplace Writ. Skills/Audience and Purpose/Audience Analysis.md",
+    "Observational Research.md",
+    "What is psychology?.md",
+    "Experimental Research.md",
+    "The cerebrum.md",
+    "Right brain and left brain.md",
+    "The peripheral nervous system.md",
+    "The central nervous system.md",
+    "Pasted image 20230921085122.png",
+    "cause and effect.md",
+    "scientific method.md",
+    "Pasted image 20230920083334.png",
+    "School/Globalization/Globalization.md",
+    "School/Psychology",
+    "What is globalization.md",
+    "daily/2023/September/2023-09-20.md",
     "Information revolution.md",
     "sources/Site/Wiki - Information revolution.md",
-    "What is globalization.md",
-    "School/Globalization/Globalization.md",
     "sources/Book/Globalization - A Very Short Introduction.md",
     "sources/Book/Happiness by Thich Nhat Hanh.md",
     "School/Technical Workplace Writ. Skills/Audience and Purpose/common purposes for communication in the workplace.md",
     "School/Globalization",
     "daily/2023/September/2023-09-13.md",
-    "School/Technical Workplace Writ. Skills/Audience and Purpose/Audience Analysis.md",
     "School/Technical Workplace Writ. Skills/Audience and Purpose/Audience and Purpose.md",
     "School/Technical Workplace Writ. Skills/Welcome Document online 220.pdf",
     "daily/2023/September/2023-09-12.md",
     "Changelog.md",
     "Audience Types.md",
-    "Audience.md",
-    "Primary Audience.md",
-    "Secondary Audience.md",
-    "sources/principles of effective technical communication.md",
-    "audience.md",
     "School/Technical Workplace Writ. Skills/Audience and Purpose",
-    "AWS/EC2/EC2.md",
-    "AWS/EC2/EC2 Capacity Reservations.md",
-    "School/Technical Workplace Writ. Skills/Week 1/Untitled.md",
-    "daily/2023/September/2023-09-04.md",
-    "Day Planners/Day Planner-20230721.md",
-    "Templates/day planner.md",
-    "Templates/daily note.md",
-    "Self Help.md",
     "School/Technical Workplace Writ. Skills/Week 1",
     "School/Technical Workplace Writ. Skills",
     "School/Career Path Development/Week 1",
     "School/Career Path Development",
     "School/Globalization/Week 1",
     "School/Globalization",
-    "School/Intro to Psychology/Week 1",
     "AWS/EC2/ec2 instance purchasing options.png",
     "AWS/EC2/Security groups diagram.png",
     "Security groups diagram.png",
