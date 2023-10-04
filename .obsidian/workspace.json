@@ -4,63 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "8c459e4ae55459fa",
+        "id": "df8d038429ad84af",
         "type": "tabs",
         "children": [
           {
-            "id": "0d607a60062c06f1",
+            "id": "5c655729a8cff42d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/CS50/CS50.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a963e4d046731ec4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 0 - Scratch.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "baca670fb2fceaf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Abstraction.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b93e70ea0a4b99e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neurons and neurotransmitters.md",
+                "file": "Indirect Structure.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 0 - Scratch.md",
+                "file": "Indirect Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 0 - Scratch.md",
+                "file": "Indirect Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 0 - Scratch.md"
+                "file": "Indirect Structure.md"
               }
             }
           }
@@ -205,12 +165,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a963e4d046731ec4",
+  "active": "5c655729a8cff42d",
   "lastOpenFiles": [
-    "Abstraction.md",
-    "Week 0 - Scratch.md",
+    "1as6r4v4.bmp",
+    "School/Technical Workplace Writ. Skills/Technical Workplace Writ. Skills.md",
+    "Indirect Structure.md",
+    "Formatting Emails., Memos, and Letters.md",
+    "Choosing a Document Type.md",
+    "School/Technical Workplace Writ. Skills/Composing workplace correspondence.md",
+    "School/Technical Workplace Writ. Skills/Welcome Document online 220.pdf",
     "School/CS50/CS50.md",
     "daily/2023/October/2023-10-04.md",
+    "Abstraction.md",
+    "Week 0 - Scratch.md",
     "School/CS50",
     "School/Psychology/Psychology.md",
     "daily/2023/October",
@@ -233,14 +200,7 @@
     "School/Psychology",
     "What is globalization.md",
     "daily/2023/September/2023-09-20.md",
-    "Information revolution.md",
-    "sources/Site/Wiki - Information revolution.md",
-    "sources/Book/Globalization - A Very Short Introduction.md",
-    "sources/Book/Happiness by Thich Nhat Hanh.md",
-    "School/Technical Workplace Writ. Skills/Audience and Purpose/common purposes for communication in the workplace.md",
     "School/Globalization",
-    "daily/2023/September/2023-09-13.md",
-    "School/Technical Workplace Writ. Skills/Welcome Document online 220.pdf",
     "School/Technical Workplace Writ. Skills/Audience and Purpose",
     "School/Technical Workplace Writ. Skills/Week 1",
     "School/Technical Workplace Writ. Skills",
