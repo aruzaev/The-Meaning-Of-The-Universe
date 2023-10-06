@@ -17,3 +17,14 @@ Main topics:
 - [[The cerebrum]]
 - [[Right brain and left brain]]
 - [[The peripheral nervous system]]
+
+## Module 3
+---
+This module will focus on the different types and stages of **consciousness**
+
+Main topics:
+- [[Circadian rhythms]]
+- [[Stages of sleep]]
+- [[Parasomnias and and sleep disorders]]
+- [[Hypnosis and meditation]]
+- [[Psychoactive drugs]]
