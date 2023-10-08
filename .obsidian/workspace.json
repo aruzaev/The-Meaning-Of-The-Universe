@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indirect Structure.md",
+                "file": "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bceb8c3402dbbd26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paradigms Lost.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indirect Structure.md",
+                "file": "Paradigms Lost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indirect Structure.md",
+                "file": "Paradigms Lost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indirect Structure.md"
+                "file": "Paradigms Lost.md"
               }
             }
           }
@@ -165,14 +179,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5c655729a8cff42d",
+  "active": "bceb8c3402dbbd26",
   "lastOpenFiles": [
-    "1as6r4v4.bmp",
+    "paradigm.md",
+    "Paradigms Lost.md",
+    "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
     "School/Technical Workplace Writ. Skills/Technical Workplace Writ. Skills.md",
-    "Indirect Structure.md",
-    "Formatting Emails., Memos, and Letters.md",
+    "School/Intro to Arts & Sciences",
     "Choosing a Document Type.md",
+    "Formatting Emails., Memos, and Letters.md",
     "School/Technical Workplace Writ. Skills/Composing workplace correspondence.md",
+    "daily/2023/October/2023-10-08.md",
+    "Indirect Structure.md",
+    "1as6r4v4.bmp",
     "School/Technical Workplace Writ. Skills/Welcome Document online 220.pdf",
     "School/CS50/CS50.md",
     "daily/2023/October/2023-10-04.md",
@@ -196,16 +215,12 @@
     "cause and effect.md",
     "scientific method.md",
     "Pasted image 20230920083334.png",
-    "School/Globalization/Globalization.md",
     "School/Psychology",
-    "What is globalization.md",
-    "daily/2023/September/2023-09-20.md",
     "School/Globalization",
     "School/Technical Workplace Writ. Skills/Audience and Purpose",
     "School/Technical Workplace Writ. Skills/Week 1",
     "School/Technical Workplace Writ. Skills",
     "School/Career Path Development/Week 1",
-    "School/Career Path Development",
     "AWS/EC2/ec2 instance purchasing options.png",
     "AWS/EC2/Security groups diagram.png",
     "Security groups diagram.png",
