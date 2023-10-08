@@ -21,25 +21,15 @@
             }
           },
           {
-            "id": "bceb8c3402dbbd26",
+            "id": "bb3c83de2d25235b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Intro to Arts & Sciences/Journal 1 - Scientific Ways Of Knowing.md",
+                "file": "Economics and Globalization Part 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "3e33bc6b1631f4a8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
               }
             }
           }
@@ -94,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "adfa5f409e0597ea",
@@ -123,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Intro to Arts & Sciences/Journal 1 - Scientific Ways Of Knowing.md",
+                "file": "Economics and Globalization Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Intro to Arts & Sciences/Journal 1 - Scientific Ways Of Knowing.md",
+                "file": "Economics and Globalization Part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Intro to Arts & Sciences/Journal 1 - Scientific Ways Of Knowing.md"
+                "file": "Economics and Globalization Part 1.md"
               }
             }
           }
@@ -190,18 +179,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bceb8c3402dbbd26",
+  "active": "bb3c83de2d25235b",
   "lastOpenFiles": [
-    "sources/Article/2020's alternative universe is not going away.md",
+    "keynesianism.md",
+    "Economics and Globalization Part 1.md",
+    "neoliberalism.md",
+    "bipartisan.md",
+    "School/Globalization/Globalization.md",
+    "Bretton Woods Agreement.md",
+    "What is globalization.md",
     "School/Intro to Arts & Sciences/Journal 1 - Scientific Ways Of Knowing.md",
+    "daily/2023/October/2023-10-08.md",
+    "sources/Article/2020's alternative universe is not going away.md",
     "sources/Article/Fact check COVID-19 is not a hoax, it can cause pneumonia and the vaccine will not contain a microchip.md",
     "sources/Article/Why are some COVID-19 debates so polarizing? U of T health expert breaks down the issues.md",
     "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
     "Paradigms Lost.md",
     "School/Technical Workplace Writ. Skills/Technical Workplace Writ. Skills.md",
     "School/Technical Workplace Writ. Skills/Composing workplace correspondence.md",
-    "School/Globalization/Globalization.md",
-    "daily/2023/October/2023-10-08.md",
     "paradigm.md",
     "School/Intro to Arts & Sciences",
     "Choosing a Document Type.md",
@@ -217,13 +212,7 @@
     "School/Psychology/Psychology.md",
     "daily/2023/October",
     "daily/2023/September/2023-09-28.md",
-    "The central nervous system.md",
-    "Neurons and neurotransmitters.md",
     "Pasted image 20230921093349.png",
-    "School/Technical Workplace Writ. Skills/Audience and Purpose/Audience Analysis.md",
-    "Observational Research.md",
-    "What is psychology?.md",
-    "Experimental Research.md",
     "Pasted image 20230921085122.png",
     "Pasted image 20230920083334.png",
     "School/Psychology",
