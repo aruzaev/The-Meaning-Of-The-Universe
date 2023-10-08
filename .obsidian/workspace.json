@@ -26,10 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paradigms Lost.md",
+                "file": "School/Intro to Arts & Sciences/Journal 1 - Scientific Ways Of Knowing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "3e33bc6b1631f4a8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
               }
             }
           }
@@ -84,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "adfa5f409e0597ea",
@@ -112,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paradigms Lost.md",
+                "file": "School/Intro to Arts & Sciences/Journal 1 - Scientific Ways Of Knowing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paradigms Lost.md",
+                "file": "School/Intro to Arts & Sciences/Journal 1 - Scientific Ways Of Knowing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paradigms Lost.md"
+                "file": "School/Intro to Arts & Sciences/Journal 1 - Scientific Ways Of Knowing.md"
               }
             }
           }
@@ -181,15 +192,20 @@
   },
   "active": "bceb8c3402dbbd26",
   "lastOpenFiles": [
-    "paradigm.md",
-    "Paradigms Lost.md",
+    "sources/Article/2020's alternative universe is not going away.md",
+    "School/Intro to Arts & Sciences/Journal 1 - Scientific Ways Of Knowing.md",
+    "sources/Article/Fact check COVID-19 is not a hoax, it can cause pneumonia and the vaccine will not contain a microchip.md",
+    "sources/Article/Why are some COVID-19 debates so polarizing? U of T health expert breaks down the issues.md",
     "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
+    "Paradigms Lost.md",
     "School/Technical Workplace Writ. Skills/Technical Workplace Writ. Skills.md",
+    "School/Technical Workplace Writ. Skills/Composing workplace correspondence.md",
+    "School/Globalization/Globalization.md",
+    "daily/2023/October/2023-10-08.md",
+    "paradigm.md",
     "School/Intro to Arts & Sciences",
     "Choosing a Document Type.md",
     "Formatting Emails., Memos, and Letters.md",
-    "School/Technical Workplace Writ. Skills/Composing workplace correspondence.md",
-    "daily/2023/October/2023-10-08.md",
     "Indirect Structure.md",
     "1as6r4v4.bmp",
     "School/Technical Workplace Writ. Skills/Welcome Document online 220.pdf",
@@ -208,12 +224,7 @@
     "Observational Research.md",
     "What is psychology?.md",
     "Experimental Research.md",
-    "The cerebrum.md",
-    "Right brain and left brain.md",
-    "The peripheral nervous system.md",
     "Pasted image 20230921085122.png",
-    "cause and effect.md",
-    "scientific method.md",
     "Pasted image 20230920083334.png",
     "School/Psychology",
     "School/Globalization",
