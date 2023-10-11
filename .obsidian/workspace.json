@@ -1,67 +1,37 @@
 {
   "main": {
-    "id": "2d1ecf7aea040c0b",
+    "id": "2ae01902bebcc335",
     "type": "split",
     "children": [
       {
-        "id": "8c459e4ae55459fa",
+        "id": "b39dcce677b46aa0",
         "type": "tabs",
         "children": [
           {
-            "id": "0d607a60062c06f1",
+            "id": "6ae25301b22d61bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "School/Psychology/Psychology.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af47143c80063630",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Circadian rhythms.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aad19bcbf2cfa474",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The central nervous system.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "School/Technical Workplace Writ. Skills/Welcome Document online 220.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e5c2ab93661fba16",
+    "id": "2c3eb1f00db0c5ca",
     "type": "split",
     "children": [
       {
-        "id": "08948d058591221b",
+        "id": "3f727b0a16031a01",
         "type": "tabs",
         "children": [
           {
-            "id": "f192bd5c6de7c8c7",
+            "id": "0c13c379cb5cf380",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -71,12 +41,12 @@
             }
           },
           {
-            "id": "800eb8a0c3e9d177",
+            "id": "d55e4aa899abb2b3",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "cheat she",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +56,7 @@
             }
           },
           {
-            "id": "bb32a9f8ba7008ac",
+            "id": "c2282cc56c68cb49",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,51 +67,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "adfa5f409e0597ea",
+    "id": "c8153b1c1fd732b4",
     "type": "split",
     "children": [
       {
-        "id": "3da102f9b1054262",
+        "id": "235d2e26c0b52924",
         "type": "tabs",
-        "dimension": 35.81560283687943,
         "children": [
           {
-            "id": "165280d1c1c16f87",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "03415b7196fdba7e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Circadian rhythms.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "65a92c4c8ce3123f",
-        "type": "tabs",
-        "dimension": 64.18439716312056,
-        "children": [
-          {
-            "id": "adb85a6dab17df22",
+            "id": "9d613f4ad75506e2",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -149,29 +86,52 @@
             }
           },
           {
-            "id": "a93f22a06745a0c3",
+            "id": "2f6ddf2cc16b55ad",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Circadian rhythms.md",
+                "file": "School/Technical Workplace Writ. Skills/Welcome Document online 220.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f5dc157e06036aca",
+            "id": "207611dd334c07ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "School/Technical Workplace Writ. Skills/Welcome Document online 220.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96304d61da07460c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9c706554c4a7d81a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Circadian rhythms.md"
+                "file": "School/Technical Workplace Writ. Skills/Welcome Document online 220.pdf"
               }
             }
           }
@@ -179,64 +139,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
       "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "af47143c80063630",
+  "active": "6ae25301b22d61bc",
   "lastOpenFiles": [
-    "School/Psychology/Psychology.md",
-    "daily/2023/September/2023-09-29.md",
-    "Circadian rhythms.md",
-    "The central nervous system.md",
-    "daily/2023/September/2023-09-28.md",
-    "Neurons and neurotransmitters.md",
-    "Pasted image 20230921093349.png",
-    "School/Technical Workplace Writ. Skills/Audience and Purpose/Audience Analysis.md",
-    "Observational Research.md",
-    "What is psychology?.md",
-    "Experimental Research.md",
-    "The cerebrum.md",
-    "Right brain and left brain.md",
-    "The peripheral nervous system.md",
-    "Pasted image 20230921085122.png",
-    "cause and effect.md",
-    "scientific method.md",
-    "Pasted image 20230920083334.png",
-    "School/Globalization/Globalization.md",
-    "School/Psychology",
-    "What is globalization.md",
-    "daily/2023/September/2023-09-20.md",
-    "Information revolution.md",
-    "sources/Site/Wiki - Information revolution.md",
-    "sources/Book/Globalization - A Very Short Introduction.md",
-    "sources/Book/Happiness by Thich Nhat Hanh.md",
-    "School/Technical Workplace Writ. Skills/Audience and Purpose/common purposes for communication in the workplace.md",
-    "School/Globalization",
-    "daily/2023/September/2023-09-13.md",
-    "School/Technical Workplace Writ. Skills/Audience and Purpose/Audience and Purpose.md",
-    "School/Technical Workplace Writ. Skills/Welcome Document online 220.pdf",
-    "daily/2023/September/2023-09-12.md",
-    "School/Technical Workplace Writ. Skills/Audience and Purpose",
-    "School/Technical Workplace Writ. Skills/Week 1",
-    "School/Technical Workplace Writ. Skills",
-    "School/Career Path Development/Week 1",
-    "School/Career Path Development",
-    "School/Globalization/Week 1",
-    "School/Globalization",
-    "AWS/EC2/ec2 instance purchasing options.png",
-    "AWS/EC2/Security groups diagram.png",
-    "Security groups diagram.png",
-    "Untitled.canvas"
+    "daily/2023/October/2023-10-06.md"
   ]
 }

@@ -18,6 +18,7 @@ Main topics:
 - [[Right brain and left brain]]
 - [[The peripheral nervous system]]
 
+<<<<<<< HEAD
 ## Module 3
 ---
 This module will focus on the different types and stages of **consciousness**
@@ -28,3 +29,7 @@ Main topics:
 - [[Parasomnias and and sleep disorders]]
 - [[Hypnosis and meditation]]
 - [[Psychoactive drugs]]
+=======
+## Module 3 
+---
+>>>>>>> 03d3f6eb1e1a321e9f5c3c76aa87331ef28aed82
