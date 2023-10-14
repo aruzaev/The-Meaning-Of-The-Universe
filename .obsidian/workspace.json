@@ -1,47 +1,22 @@
 {
   "main": {
-    "id": "2ae01902bebcc335",
+    "id": "1d0a4caa975cab42",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "b39dcce677b46aa0",
+        "id": "91c4736fcb51ccde",
         "type": "tabs",
         "children": [
           {
-            "id": "6ae25301b22d61bc",
-=======
-        "id": "df8d038429ad84af",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5c655729a8cff42d",
->>>>>>> f32d543116484ee075be0d2a2b52d97487a3e51f
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-<<<<<<< HEAD
-                "file": "School/Technical Workplace Writ. Skills/Welcome Document online 220.pdf"
-=======
-                "file": "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb3c83de2d25235b",
+            "id": "9cfea8b2874d4156",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics and Globalization Part 1.md",
+                "file": "daily/2023/October/2023-10-14.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
->>>>>>> f32d543116484ee075be0d2a2b52d97487a3e51f
               }
             }
           }
@@ -51,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2c3eb1f00db0c5ca",
+    "id": "a7e427431f663eb4",
     "type": "split",
     "children": [
       {
-        "id": "3f727b0a16031a01",
+        "id": "4407fbaa78cd3d43",
         "type": "tabs",
         "children": [
           {
-            "id": "0c13c379cb5cf380",
+            "id": "bb7c95e1c570991c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -69,7 +44,7 @@
             }
           },
           {
-            "id": "d55e4aa899abb2b3",
+            "id": "77b176dcdd2fcf91",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -84,7 +59,7 @@
             }
           },
           {
-            "id": "c2282cc56c68cb49",
+            "id": "d2adb8d02c5368f7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -98,15 +73,15 @@
     "width": 300
   },
   "right": {
-    "id": "c8153b1c1fd732b4",
+    "id": "83be02f8b9e96760",
     "type": "split",
     "children": [
       {
-        "id": "235d2e26c0b52924",
+        "id": "8d149e787401a840",
         "type": "tabs",
         "children": [
           {
-            "id": "9d613f4ad75506e2",
+            "id": "581ec92cc25c28d5",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -114,72 +89,52 @@
             }
           },
           {
-            "id": "2f6ddf2cc16b55ad",
+            "id": "a15bdaded99d69fc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "School/Technical Workplace Writ. Skills/Welcome Document online 220.pdf",
+                "file": "daily/2023/October/2023-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-=======
-                "file": "Economics and Globalization Part 1.md",
-                "linksCollapsed": false,
->>>>>>> f32d543116484ee075be0d2a2b52d97487a3e51f
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "207611dd334c07ab",
+            "id": "151b5e84173f5800",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Technical Workplace Writ. Skills/Welcome Document online 220.pdf",
+                "file": "daily/2023/October/2023-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "96304d61da07460c",
+            "id": "c63fa25ec992b898",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-<<<<<<< HEAD
                 "sortOrder": "frequency",
                 "useHierarchy": true
-=======
-                "file": "Economics and Globalization Part 1.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
->>>>>>> f32d543116484ee075be0d2a2b52d97487a3e51f
               }
             }
           },
           {
-            "id": "9c706554c4a7d81a",
+            "id": "8561948cbca5ef03",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "School/Technical Workplace Writ. Skills/Welcome Document online 220.pdf"
-=======
-                "file": "Economics and Globalization Part 1.md"
->>>>>>> f32d543116484ee075be0d2a2b52d97487a3e51f
+                "file": "daily/2023/October/2023-10-14.md"
               }
             }
           }
@@ -201,57 +156,8 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "6ae25301b22d61bc",
+  "active": "9cfea8b2874d4156",
   "lastOpenFiles": [
-    "daily/2023/October/2023-10-06.md"
-=======
-  "active": "bb3c83de2d25235b",
-  "lastOpenFiles": [
-    "keynesianism.md",
-    "Economics and Globalization Part 1.md",
-    "neoliberalism.md",
-    "bipartisan.md",
-    "School/Globalization/Globalization.md",
-    "Bretton Woods Agreement.md",
-    "What is globalization.md",
-    "School/Intro to Arts & Sciences/Journal 1 - Scientific Ways Of Knowing.md",
-    "daily/2023/October/2023-10-08.md",
-    "sources/Article/2020's alternative universe is not going away.md",
-    "sources/Article/Fact check COVID-19 is not a hoax, it can cause pneumonia and the vaccine will not contain a microchip.md",
-    "sources/Article/Why are some COVID-19 debates so polarizing? U of T health expert breaks down the issues.md",
-    "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
-    "Paradigms Lost.md",
-    "School/Technical Workplace Writ. Skills/Technical Workplace Writ. Skills.md",
-    "School/Technical Workplace Writ. Skills/Composing workplace correspondence.md",
-    "paradigm.md",
-    "School/Intro to Arts & Sciences",
-    "Choosing a Document Type.md",
-    "Formatting Emails., Memos, and Letters.md",
-    "Indirect Structure.md",
-    "1as6r4v4.bmp",
-    "School/Technical Workplace Writ. Skills/Welcome Document online 220.pdf",
-    "School/CS50/CS50.md",
-    "daily/2023/October/2023-10-04.md",
-    "Abstraction.md",
-    "Week 0 - Scratch.md",
-    "School/CS50",
-    "School/Psychology/Psychology.md",
-    "daily/2023/October",
-    "daily/2023/September/2023-09-28.md",
-    "Pasted image 20230921093349.png",
-    "Pasted image 20230921085122.png",
-    "Pasted image 20230920083334.png",
-    "School/Psychology",
-    "School/Globalization",
-    "School/Technical Workplace Writ. Skills/Audience and Purpose",
-    "School/Technical Workplace Writ. Skills/Week 1",
-    "School/Technical Workplace Writ. Skills",
-    "School/Career Path Development/Week 1",
-    "AWS/EC2/ec2 instance purchasing options.png",
-    "AWS/EC2/Security groups diagram.png",
-    "Security groups diagram.png",
-    "Untitled.canvas"
->>>>>>> f32d543116484ee075be0d2a2b52d97487a3e51f
+    "daily/2023/October/2023-10-14.md"
   ]
 }
