@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "91c4736fcb51ccde",
+        "id": "99b685f63aa65e25",
         "type": "tabs",
         "children": [
           {
-            "id": "9cfea8b2874d4156",
+            "id": "74e9f872b2a97ddf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023/October/2023-10-14.md",
+                "file": "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff3a9c131feebd09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Does the Internet Make You Smarter or Dumber.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023/October/2023-10-14.md",
+                "file": "Does the Internet Make You Smarter or Dumber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023/October/2023-10-14.md",
+                "file": "Does the Internet Make You Smarter or Dumber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023/October/2023-10-14.md"
+                "file": "Does the Internet Make You Smarter or Dumber.md"
               }
             }
           }
@@ -156,8 +170,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9cfea8b2874d4156",
+  "active": "ff3a9c131feebd09",
   "lastOpenFiles": [
-    "daily/2023/October/2023-10-14.md"
+    "inductive problem solving.md",
+    "Inductive Reasoning.md",
+    "Does the Internet Make You Smarter or Dumber.md",
+    "visual literacy.md",
+    "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
+    "Paradigms Lost.md",
+    "School/Globalization/Globalization.md",
+    "Study Guide - Does the Internet Make You Dumber by Nicholas Carr.pdf",
+    "daily/2023/October/2023-10-14.md",
+    "School/Intro to Arts & Sciences/Journal 1 - Scientific Ways Of Knowing.md",
+    "winfetch"
   ]
 }
