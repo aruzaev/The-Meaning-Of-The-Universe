@@ -1,4 +1,4 @@
-- 2023-10-15 at 16h26 · [[The Evolution of Life In Conceptual Integrated Science]]
+- 2023-10-15 at 16h45 · [[The Evolution of Life In Conceptual Integrated Science]]
 - 2023-10-15 at 15h18 · [[Intro to Arts & Sciences]]
 - 2023-10-15 at 15h15 · [[Technical Workplace Writ. Skills]]
 - 2023-10-15 at 15h14 · [[2023-10-15]]
