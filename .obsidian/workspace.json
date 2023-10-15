@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "ff3a9c131feebd09",
+            "id": "5e51687c24992c0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Does the Internet Make You Smarter or Dumber.md",
+                "file": "The Evolution of Life In Conceptual Integrated Science.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Does the Internet Make You Smarter or Dumber.md",
+                "file": "The Evolution of Life In Conceptual Integrated Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Does the Internet Make You Smarter or Dumber.md",
+                "file": "The Evolution of Life In Conceptual Integrated Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Does the Internet Make You Smarter or Dumber.md"
+                "file": "The Evolution of Life In Conceptual Integrated Science.md"
               }
             }
           }
@@ -170,13 +170,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff3a9c131feebd09",
+  "active": "bb7c95e1c570991c",
   "lastOpenFiles": [
+    "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
+    "The Evolution of Life In Conceptual Integrated Science.md",
+    "School/Technical Workplace Writ. Skills/Technical Workplace Writ. Skills.md",
+    "daily/2023/October/2023-10-15.md",
+    "Does the Internet Make You Smarter or Dumber.md",
     "inductive problem solving.md",
     "Inductive Reasoning.md",
-    "Does the Internet Make You Smarter or Dumber.md",
     "visual literacy.md",
-    "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
     "Paradigms Lost.md",
     "School/Globalization/Globalization.md",
     "Study Guide - Does the Internet Make You Dumber by Nicholas Carr.pdf",
