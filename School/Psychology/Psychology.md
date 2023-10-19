@@ -33,3 +33,14 @@ Main topics:
 ## Module 3 
 ---
 >>>>>>> 03d3f6eb1e1a321e9f5c3c76aa87331ef28aed82
+
+
+## Module 5
+---
+This Module will focus on the process of acquiring skills and information
+
+Main topics:
+- [[Three memory processes]]
+- [[Three systems of memory]]
+- [[Measuring memory]]
+- [[Forgetting and how not to]]
