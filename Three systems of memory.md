@@ -7,6 +7,8 @@ There are three, interacting systems of memory:
 3. Long-term
 
 ![[DIAGRAM-1.jpg]]
+
+![[DIAGRAM-2.jpg]]
 ## Sensory
 ---
 
@@ -50,3 +52,62 @@ The prefrontal cortex is plays an important role in this
 
 The work involved is sometimes important processes called **memory strategies**
 
+Rote rehearsal isn't a good way to remember things 
+- this is called *shallow* processing which is encoding things based on the sound of a word
+
+A better way is with *deep* processing (encoding based on the meaning of the info), the deeper the processing is, the better it gets remembered in long term memory
+- one strat is by relating the new information to information you already know really well
+- these types of strategies are called *elaboration strategies*
+
+## Long-term
+---
+Holds all the knowledge we've gained, skills, and memories
+
+Information in LTM is usually stored in semantic form
+
+There are two subsystems of LTM:
+
+- declarative memory
+- non-declarative memory
+
+![[CHART-1.jpg]]
+
+### Declarative Memory
+---
+Also called *explicit memory*
+
+Stored facts, information, and personal life events that can be remembered verbally or with images
+
+There are two types of declarative memory:
+
+- episodic memory
+- semantic memory
+
+#### Episodic Memory
+
+is the memory of events that we experienced personally like:
+
+- people that we have known
+- places we've seen
+- personal experiences we've had
+
+This is a mental diary of the episodes of our lives
+
+#### Semantic Memory
+
+is the memory for general knowledge, objective facts, and information
+
+its our mental dictionary of stored knowledge like:
+
+> 1 + 1 = 2
+
+### Non-Declarative Memory
+---
+Also called *implicit memory*
+
+Consists of:
+- motor skills
+- habits
+- classically conditioned responses
+
+Motor skills occur through repeated practice and are learned slowly, but once learned they become habit and can be carried out with no conscious effort

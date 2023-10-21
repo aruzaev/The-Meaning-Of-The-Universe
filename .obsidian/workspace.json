@@ -13,7 +13,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Psychology/Psychology.md",
+                "file": "Three systems of memory.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f890ff071f8be2e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Three systems of memory.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12fbaa2396415a74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Measuring memory.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11f3274bc513aecd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forgetting and how not to.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76308e02007f790a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Measuring memory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,15 +78,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Three systems of memory.md",
+                "file": "daily/2023/October/2023-10-20.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,15 +221,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d5ef0382a8964bd",
+  "active": "74e9f872b2a97ddf",
   "lastOpenFiles": [
     "School/Psychology/Psychology.md",
+    "Three memory processes.md",
+    "Measuring memory.md",
+    "Forgetting and how not to.md",
+    "Three systems of memory.md",
+    "GRAPHIC-2.jpg",
+    "DIAGRAM-2.jpg",
+    "CHART-1.jpg",
+    "daily/2023/October/2023-10-20.md",
     "The central nervous system.md",
     "The cerebrum.md",
     "Right brain and left brain.md",
-    "Three systems of memory.md",
     "DIAGRAM-1.jpg",
-    "Three memory processes.md",
     "daily/2023/October/2023-10-18.md",
     "What is globalization.md",
     "School/Globalization/Globalization.md",
@@ -196,8 +253,6 @@
     "visual literacy.md",
     "Paradigms Lost.md",
     "Study Guide - Does the Internet Make You Dumber by Nicholas Carr.pdf",
-    "daily/2023/October/2023-10-14.md",
-    "School/Intro to Arts & Sciences/Journal 1 - Scientific Ways Of Knowing.md",
     "winfetch"
   ]
 }
