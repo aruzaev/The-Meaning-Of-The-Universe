@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "99b685f63aa65e25",
+        "id": "8fe85b5d38ebd379",
         "type": "tabs",
         "children": [
           {
-            "id": "f890ff071f8be2e6",
+            "id": "8a8be91aeee6eb22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1 - C.md",
+                "file": "The Evolution of Life In Conceptual Integrated Science.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,71 +21,20 @@
             }
           },
           {
-            "id": "cd850c78a3fb3e05",
+            "id": "473d4288d149b183",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023/October/2023-10-22.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12fbaa2396415a74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Measuring memory.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11f3274bc513aecd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forgetting and how not to.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76308e02007f790a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Measuring memory.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d5ef0382a8964bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2023/October/2023-10-20.md",
+                "file": "The Complexity of Identity.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "83be02f8b9e96760",
@@ -160,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1 - C.md",
+                "file": "The Complexity of Identity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 1 - C.md",
+                "file": "The Complexity of Identity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1 - C.md"
+                "file": "The Complexity of Identity.md"
               }
             }
           }
@@ -222,22 +170,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f890ff071f8be2e6",
+  "active": "473d4288d149b183",
   "lastOpenFiles": [
-    "School/CS50/CS50.md",
+    "The Evolution of Life In Conceptual Integrated Science.md",
+    "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
+    "The Complexity of Identity.md",
+    "Introduction to Orienalism.md",
+    "daily/2023/October/2023-10-20.md",
+    "Measuring memory.md",
+    "Forgetting and how not to.md",
     "daily/2023/October/2023-10-22.md",
+    "daily/2023/October/2023-10-27.md",
     "Week 1 - C.md",
+    "School/CS50/CS50.md",
     "Week 0 - Scratch.md",
     "Three systems of memory.md",
     "daily/2023/October/2023-10-21.md",
     "School/Psychology/Psychology.md",
     "Three memory processes.md",
-    "Measuring memory.md",
-    "Forgetting and how not to.md",
     "GRAPHIC-2.jpg",
     "DIAGRAM-2.jpg",
     "CHART-1.jpg",
-    "daily/2023/October/2023-10-20.md",
     "The central nervous system.md",
     "The cerebrum.md",
     "Right brain and left brain.md",
@@ -245,15 +198,10 @@
     "daily/2023/October/2023-10-18.md",
     "What is globalization.md",
     "School/Globalization/Globalization.md",
-    "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
     "Globalization in history.md",
     "sources/Book/Globalization - A Very Short Introduction.md",
     "Economics and Globalization Part 1.md",
     "daily/2023/October/2023-10-16.md",
-    "The Evolution of Life In Conceptual Integrated Science.md",
-    "School/Technical Workplace Writ. Skills/Technical Workplace Writ. Skills.md",
-    "daily/2023/October/2023-10-15.md",
-    "Does the Internet Make You Smarter or Dumber.md",
     "Study Guide - Does the Internet Make You Dumber by Nicholas Carr.pdf",
     "winfetch"
   ]
