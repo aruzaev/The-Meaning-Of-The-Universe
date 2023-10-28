@@ -22,4 +22,4 @@ The Evolution Of Life
 ## Module 5
 ---
 [[The Complexity of Identity]]
-[[Introduction to Orienalism]]
+[[Introduction to Orientalism]]

@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Complexity of Identity.md",
+                "file": "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fabea9e2cc86e97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to Orientalism.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Complexity of Identity.md",
+                "file": "Introduction to Orientalism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Complexity of Identity.md",
+                "file": "Introduction to Orientalism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Complexity of Identity.md"
+                "file": "Introduction to Orientalism.md"
               }
             }
           }
@@ -170,12 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "473d4288d149b183",
+  "active": "0fabea9e2cc86e97",
   "lastOpenFiles": [
-    "The Evolution of Life In Conceptual Integrated Science.md",
     "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
+    "Introduction to Orientalism.md",
+    "daily/2023/October/2023-10-28.md",
     "The Complexity of Identity.md",
-    "Introduction to Orienalism.md",
+    "The Evolution of Life In Conceptual Integrated Science.md",
     "daily/2023/October/2023-10-20.md",
     "Measuring memory.md",
     "Forgetting and how not to.md",
@@ -200,8 +214,6 @@
     "School/Globalization/Globalization.md",
     "Globalization in history.md",
     "sources/Book/Globalization - A Very Short Introduction.md",
-    "Economics and Globalization Part 1.md",
-    "daily/2023/October/2023-10-16.md",
     "Study Guide - Does the Internet Make You Dumber by Nicholas Carr.pdf",
     "winfetch"
   ]
