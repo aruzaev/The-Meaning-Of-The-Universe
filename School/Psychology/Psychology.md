@@ -44,3 +44,16 @@ Main topics:
 - [[Three systems of memory]]
 - [[Measuring memory]]
 - [[Forgetting and how not to]]
+
+
+## Module 6
+---
+This module will focus on major psychological disorders and distinguishing normal and abnormal behavior
+
+Main topics:
+- [[What is abnormal]]
+- [[DSM 5]]
+- [[Anxiety disorders and OCD]]
+- [[Somatoforrm and dissociative disorders]]
+- [[Schizophrenia]]
+- [[Depressive and bipolar episodes]]
