@@ -4,63 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "197597e3ff761985",
+        "id": "bb83502f5186ed95",
         "type": "tabs",
         "children": [
           {
-            "id": "720f0b2c5156390a",
+            "id": "f8d19dffa73f3606",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Psychology/Psychology.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03c933b5e391f7c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anxiety disorders and OCD.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7124ce96a36b4b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSM 5.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05f92af1da874c2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2023/October/2023-10-31.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anxiety disorders and OCD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anxiety disorders and OCD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Anxiety disorders and OCD.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -196,12 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03c933b5e391f7c8",
+  "active": "f8d19dffa73f3606",
   "lastOpenFiles": [
-    "daily/2023/October/2023-10-31.md",
-    "Anxiety disorders and OCD.md",
     "School/Psychology/Psychology.md",
+    "Anxiety disorders and OCD.md",
     "DSM 5.md",
+    "daily/2023/October/2023-10-31.md",
     "2023-10-30.md",
     "What is abnormal.md",
     "GRAPHIC-2 1.jpg",
