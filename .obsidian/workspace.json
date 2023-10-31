@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "03c933b5e391f7c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anxiety disorders and OCD.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a7124ce96a36b4b7",
             "type": "leaf",
             "state": {
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023/October/2023-10-31.md",
+                "file": "Anxiety disorders and OCD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023/October/2023-10-31.md",
+                "file": "Anxiety disorders and OCD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023/October/2023-10-31.md"
+                "file": "Anxiety disorders and OCD.md"
               }
             }
           }
@@ -183,12 +196,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05f92af1da874c2f",
+  "active": "03c933b5e391f7c8",
   "lastOpenFiles": [
-    "2023-10-30.md",
     "daily/2023/October/2023-10-31.md",
-    "DSM 5.md",
+    "Anxiety disorders and OCD.md",
     "School/Psychology/Psychology.md",
+    "DSM 5.md",
+    "2023-10-30.md",
     "What is abnormal.md",
     "GRAPHIC-2 1.jpg",
     "GRAPHIC-1.jpg",
@@ -216,7 +230,6 @@
     "Right brain and left brain.md",
     "DIAGRAM-1.jpg",
     "daily/2023/October/2023-10-18.md",
-    "What is globalization.md",
     "Study Guide - Does the Internet Make You Dumber by Nicholas Carr.pdf",
     "winfetch"
   ]
