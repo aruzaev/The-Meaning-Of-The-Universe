@@ -8,14 +8,46 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f4ed735ac8e588c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2023/November/2023-11-01.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "650f0e6b2508d401",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Somatoform and dissociative disorders.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f8d19dffa73f3606",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "School/Psychology/Psychology.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "83be02f8b9e96760",
@@ -89,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Somatoform and dissociative disorders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Somatoform and dissociative disorders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Somatoform and dissociative disorders.md"
+              }
             }
           }
         ]
@@ -147,9 +184,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8d19dffa73f3606",
+  "active": "650f0e6b2508d401",
   "lastOpenFiles": [
     "School/Psychology/Psychology.md",
+    "daily/2023/November/2023-11-01.md",
+    "Somatoform and dissociative disorders.md",
+    "Day Planners/Day Planner-20230721.md",
+    "daily/2023/November",
     "Anxiety disorders and OCD.md",
     "DSM 5.md",
     "daily/2023/October/2023-10-31.md",
@@ -177,10 +218,7 @@
     "DIAGRAM-2.jpg",
     "CHART-1.jpg",
     "The central nervous system.md",
-    "The cerebrum.md",
-    "Right brain and left brain.md",
     "DIAGRAM-1.jpg",
-    "daily/2023/October/2023-10-18.md",
     "Study Guide - Does the Internet Make You Dumber by Nicholas Carr.pdf",
     "winfetch"
   ]

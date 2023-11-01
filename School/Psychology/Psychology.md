@@ -54,6 +54,6 @@ Main topics:
 - [[What is abnormal]]
 - [[DSM 5]]
 - [[Anxiety disorders and OCD]]
-- [[Somatoforrm and dissociative disorders]]
+- [[Somatoform and dissociative disorders]]
 - [[Schizophrenia]]
 - [[Depressive and bipolar episodes]]
