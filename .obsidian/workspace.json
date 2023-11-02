@@ -45,9 +45,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aefc45812616db85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schizophrenia.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Somatoform and dissociative disorders.md",
+                "file": "daily/2023/November/2023-11-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Somatoform and dissociative disorders.md",
+                "file": "daily/2023/November/2023-11-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Somatoform and dissociative disorders.md"
+                "file": "daily/2023/November/2023-11-01.md"
               }
             }
           }
@@ -184,8 +196,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "650f0e6b2508d401",
+  "active": "f4ed735ac8e588c7",
   "lastOpenFiles": [
+    "Schizophrenia.md",
     "School/Psychology/Psychology.md",
     "daily/2023/November/2023-11-01.md",
     "Somatoform and dissociative disorders.md",
@@ -217,7 +230,6 @@
     "GRAPHIC-2.jpg",
     "DIAGRAM-2.jpg",
     "CHART-1.jpg",
-    "The central nervous system.md",
     "DIAGRAM-1.jpg",
     "Study Guide - Does the Internet Make You Dumber by Nicholas Carr.pdf",
     "winfetch"
