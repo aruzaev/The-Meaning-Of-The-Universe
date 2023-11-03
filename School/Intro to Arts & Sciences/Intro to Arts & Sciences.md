@@ -23,3 +23,9 @@ The Evolution Of Life
 ---
 [[The Complexity of Identity]]
 [[Introduction to Orientalism]]
+
+## Module 6
+---
+What makes us behave the way we do?
+
+[[The Banality of Heroism]]
