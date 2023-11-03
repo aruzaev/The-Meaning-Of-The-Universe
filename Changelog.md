@@ -1,6 +1,6 @@
+- 2023-11-03 at 18h50 · [[2023-11-03]]
 - 2023-11-03 at 18h43 · [[What is politics and who cares anyway]]
 - 2023-11-03 at 10h53 · [[Intro to Arts & Sciences]]
-- 2023-11-03 at 10h13 · [[2023-11-03]]
 - 2023-11-03 at 09h40 · [[The Banality of Heroism]]
 - 2023-11-02 at 15h14 · [[2023-11-02]]
 - 2023-11-01 at 17h45 · [[2023-11-01]]
