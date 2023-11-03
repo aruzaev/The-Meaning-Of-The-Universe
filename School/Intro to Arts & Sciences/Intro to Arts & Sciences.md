@@ -29,3 +29,9 @@ The Evolution Of Life
 What makes us behave the way we do?
 
 [[The Banality of Heroism]]
+
+## Module 7
+---
+What is politics... and who cares anyway?
+
+[[What is politics and who cares anyway]]
