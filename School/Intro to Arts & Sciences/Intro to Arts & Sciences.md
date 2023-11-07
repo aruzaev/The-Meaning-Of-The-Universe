@@ -35,3 +35,9 @@ What makes us behave the way we do?
 What is politics... and who cares anyway?
 
 [[What is politics and who cares anyway]]
+
+## Module 8
+---
+Globalization
+
+[[Globalization - an overview]]
