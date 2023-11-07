@@ -41,3 +41,4 @@ What is politics... and who cares anyway?
 Globalization
 
 [[Globalization - an overview]]
+[[Point - Globalization Provides a Better Life for All by Jennifer Graham]]

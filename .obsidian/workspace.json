@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "51797631fafa6fe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Point - Globalization Provides a Better Life for All by Jennifer Graham.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "73189c2d7f38f631",
             "type": "leaf",
             "state": {
@@ -59,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
+                "file": "Point - Globalization Provides a Better Life for All by Jennifer Graham.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
+                "file": "Point - Globalization Provides a Better Life for All by Jennifer Graham.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md"
+                "file": "Point - Globalization Provides a Better Life for All by Jennifer Graham.md"
               }
             }
           }
@@ -195,12 +209,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4ed735ac8e588c7",
+  "active": "51797631fafa6fe7",
   "lastOpenFiles": [
     "Globalization - an overview.md",
+    "Point - Globalization Provides a Better Life for All by Jennifer Graham.md",
+    "daily/2023/November/2023-11-07.md",
     "School/Globalization/Globalization.md",
     "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
-    "daily/2023/November/2023-11-07.md",
     "Politics and Globalization Part 1.md",
     "daily/2023/November/2023-11-05.md",
     "daily/2023/November/2023-11-04.md",
@@ -225,8 +240,6 @@
     "GRAPHIC-1.jpg",
     "Introduction to Orientalism.md",
     "The Evolution of Life In Conceptual Integrated Science.md",
-    "The Complexity of Identity.md",
-    "daily/2023/October/2023-10-28.md",
     "GRAPHIC-2.jpg",
     "DIAGRAM-2.jpg",
     "CHART-1.jpg",
