@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
+                "file": "daily/2023/November/2023-11-08.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,59 +21,19 @@
             }
           },
           {
-            "id": "51797631fafa6fe7",
+            "id": "819263ae0f4efd1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Point - Globalization Provides a Better Life for All by Jennifer Graham.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73189c2d7f38f631",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Globalization - an overview.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c136a16c75495b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Globalization/Globalization.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61830063477c1a3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2023/November/2023-11-07.md",
+                "file": "Depressive and bipolar disorders.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Point - Globalization Provides a Better Life for All by Jennifer Graham.md",
+                "file": "daily/2023/November/2023-11-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Point - Globalization Provides a Better Life for All by Jennifer Graham.md",
+                "file": "daily/2023/November/2023-11-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Point - Globalization Provides a Better Life for All by Jennifer Graham.md"
+                "file": "daily/2023/November/2023-11-08.md"
               }
             }
           }
@@ -209,13 +169,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51797631fafa6fe7",
+  "active": "f4ed735ac8e588c7",
   "lastOpenFiles": [
-    "Globalization - an overview.md",
-    "Point - Globalization Provides a Better Life for All by Jennifer Graham.md",
-    "daily/2023/November/2023-11-07.md",
-    "School/Globalization/Globalization.md",
+    "School/Psychology/Psychology.md",
+    "Depressive and bipolar disorders.md",
+    "Depressive and bipolar episodes.md",
+    "daily/2023/November/2023-11-08.md",
+    "Schizophrenia.md",
+    "Pasted image 20231108135154.png",
+    "Somatoform and dissociative disorders.md",
     "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
+    "daily/2023/November/2023-11-07.md",
+    "Point - Globalization Provides a Better Life for All by Jennifer Graham.md",
+    "Globalization - an overview.md",
+    "School/Globalization/Globalization.md",
     "Politics and Globalization Part 1.md",
     "daily/2023/November/2023-11-05.md",
     "daily/2023/November/2023-11-04.md",
@@ -225,9 +192,6 @@
     "What is politics and who cares anyway.md",
     "Pyramid_of_different_social_and_economic_classes_by_population_and_wealth.jpg",
     "The Banality of Heroism.md",
-    "School/Psychology/Psychology.md",
-    "Somatoform and dissociative disorders.md",
-    "Schizophrenia.md",
     "daily/2023/November/2023-11-01.md",
     "Day Planners/Day Planner-20230721.md",
     "daily/2023/November",
@@ -238,8 +202,6 @@
     "What is abnormal.md",
     "GRAPHIC-2 1.jpg",
     "GRAPHIC-1.jpg",
-    "Introduction to Orientalism.md",
-    "The Evolution of Life In Conceptual Integrated Science.md",
     "GRAPHIC-2.jpg",
     "DIAGRAM-2.jpg",
     "CHART-1.jpg",

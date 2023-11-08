@@ -56,4 +56,4 @@ Main topics:
 - [[Anxiety disorders and OCD]]
 - [[Somatoform and dissociative disorders]]
 - [[Schizophrenia]]
-- [[Depressive and bipolar episodes]]
+- [[Depressive and bipolar disorders]]
