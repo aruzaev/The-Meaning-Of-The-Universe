@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023/November/2023-11-08.md",
+                "file": "Anxiety disorders and OCD.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,8 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f9855721a8f39d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2023/November/2023-11-08.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -169,12 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4ed735ac8e588c7",
+  "active": "1f9855721a8f39d9",
   "lastOpenFiles": [
-    "School/Psychology/Psychology.md",
     "Depressive and bipolar disorders.md",
-    "Depressive and bipolar episodes.md",
     "daily/2023/November/2023-11-08.md",
+    "Anxiety disorders and OCD.md",
+    "School/Psychology/Psychology.md",
+    "Depressive and bipolar episodes.md",
     "Schizophrenia.md",
     "Pasted image 20231108135154.png",
     "Somatoform and dissociative disorders.md",
@@ -195,7 +210,6 @@
     "daily/2023/November/2023-11-01.md",
     "Day Planners/Day Planner-20230721.md",
     "daily/2023/November",
-    "Anxiety disorders and OCD.md",
     "DSM 5.md",
     "daily/2023/October/2023-10-31.md",
     "2023-10-30.md",
