@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 - 2023-11-20 at 15h31 · [[Its Time for a New Economic Paradigm]]
 - 2023-11-20 at 15h30 · [[Intro to Arts & Sciences]]
 - 2023-11-20 at 15h28 · [[Davidson - Climate Change]]
@@ -8,3 +9,15 @@
 - 2023-11-20 at 11h10 · [[visual literacy]]
 - 2023-11-20 at 11h10 · [[principles of effective technical communication]]
 - 2023-11-20 at 11h10 · [[Obsidian - How to Plan Your Day]]
+=======
+- 2023-11-22 at 15h23 · [[2023-11-22]]
+- 2023-11-17 at 22h27 · [[Anxiety disorders and OCD]]
+- 2023-11-17 at 14h55 · [[2023-11-16]]
+- 2023-11-12 at 17h43 · [[Politics and Globalization Part 1]]
+- 2023-11-12 at 17h20 · [[2023-11-12]]
+- 2023-11-11 at 17h18 · [[2023-11-11]]
+- 2023-11-10 at 18h00 · [[2023-11-10]]
+- 2023-11-10 at 17h53 · [[Intro to Arts & Sciences]]
+- 2023-11-10 at 15h32 · [[Counterpoint - Globalization Benefits Powerful Businesses at the Expense of Poor Nations]]
+- 2023-11-09 at 11h32 · [[Flexbox]]
+>>>>>>> f0f6760d13a8a4ea25075f754402a820aed0cef6

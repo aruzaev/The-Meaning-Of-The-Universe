@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "9439265e42948c77",
+=======
+            "id": "43101b26084d711b",
+>>>>>>> f0f6760d13a8a4ea25075f754402a820aed0cef6
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
                 "mode": "source",
                 "backlinks": true,
@@ -40,14 +45,21 @@
               "type": "markdown",
               "state": {
                 "file": "Davidson - Climate Change.md",
+=======
+                "file": "daily/2023/November/2023-11-22.md",
+>>>>>>> f0f6760d13a8a4ea25075f754402a820aed0cef6
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
+<<<<<<< HEAD
         ],
         "currentTab": 1
+=======
+        ]
+>>>>>>> f0f6760d13a8a4ea25075f754402a820aed0cef6
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Its Time for a New Economic Paradigm.md",
+=======
+                "file": "daily/2023/November/2023-11-22.md",
+>>>>>>> f0f6760d13a8a4ea25075f754402a820aed0cef6
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +155,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Its Time for a New Economic Paradigm.md",
+=======
+                "file": "daily/2023/November/2023-11-22.md",
+>>>>>>> f0f6760d13a8a4ea25075f754402a820aed0cef6
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +182,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Its Time for a New Economic Paradigm.md"
+=======
+                "file": "daily/2023/November/2023-11-22.md"
+>>>>>>> f0f6760d13a8a4ea25075f754402a820aed0cef6
               }
             }
           }
@@ -184,6 +208,7 @@
       "templater-obsidian:Templater": false
     }
   },
+<<<<<<< HEAD
   "active": "4f03dbe164f3233c",
   "lastOpenFiles": [
     "Davidson - Climate Change.md",
@@ -195,26 +220,52 @@
     "daily/2023/November/2023-11-08.md",
     "School/Psychology/Psychology.md",
     "Depressive and bipolar episodes.md",
+=======
+  "active": "43101b26084d711b",
+  "lastOpenFiles": [
+>>>>>>> f0f6760d13a8a4ea25075f754402a820aed0cef6
     "Schizophrenia.md",
-    "Pasted image 20231108135154.png",
+    "daily/2023/November/2023-11-22.md",
+    "School/Psychology/Psychology.md",
     "Somatoform and dissociative disorders.md",
+<<<<<<< HEAD
     "daily/2023/November/2023-11-07.md",
     "Point - Globalization Provides a Better Life for All by Jennifer Graham.md",
     "Globalization - an overview.md",
+=======
+    "Anxiety disorders and OCD.md",
+    "daily/2023/November/2023-11-16.md",
+    "daily/2023/November/2023-11-12.md",
+>>>>>>> f0f6760d13a8a4ea25075f754402a820aed0cef6
     "School/Globalization/Globalization.md",
     "Politics and Globalization Part 1.md",
+    "daily/2023/November/2023-11-11.md",
+    "Globalization - an overview.md",
+    "Counterpoint - Globalization Benefits Powerful Businesses at the Expense of Poor Nations.md",
+    "Point - Globalization Provides a Better Life for All by Jennifer Graham.md",
+    "The Complexity of Identity.md",
+    "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
+    "daily/2023/November/2023-11-10.md",
+    "Flexbox.md",
+    "enabling-flexbox-dd3b59.cb39abcd.png",
+    "CSS/CSS.md",
+    "flex-container-and-flex-items-6234bb.7ffe361a.png",
+    "Observational Research.md",
+    "daily/2023/November/2023-11-09.md",
+    "CSS",
+    "daily/2023/November/2023-11-08.md",
+    "Depressive and bipolar disorders.md",
+    "Depressive and bipolar episodes.md",
+    "Pasted image 20231108135154.png",
+    "daily/2023/November/2023-11-07.md",
     "daily/2023/November/2023-11-05.md",
     "daily/2023/November/2023-11-04.md",
-    "daily/2023/November/2023-11-03.md",
-    "daily/2023/November/2023-11-02.md",
-    "Economics and Globalization Part 1.md",
-    "What is politics and who cares anyway.md",
     "Pyramid_of_different_social_and_economic_classes_by_population_and_wealth.jpg",
-    "The Banality of Heroism.md",
-    "daily/2023/November/2023-11-01.md",
-    "Day Planners/Day Planner-20230721.md",
     "daily/2023/November",
+<<<<<<< HEAD
     "DSM 5.md",
+=======
+>>>>>>> f0f6760d13a8a4ea25075f754402a820aed0cef6
     "GRAPHIC-2 1.jpg",
     "GRAPHIC-1.jpg",
     "GRAPHIC-2.jpg",
