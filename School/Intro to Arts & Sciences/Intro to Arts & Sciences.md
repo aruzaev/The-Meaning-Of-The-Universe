@@ -42,3 +42,4 @@ Globalization
 
 [[Globalization - an overview]]
 [[Point - Globalization Provides a Better Life for All by Jennifer Graham]]
+[[Counterpoint - Globalization Benefits Powerful Businesses at the Expense of Poor Nations]]

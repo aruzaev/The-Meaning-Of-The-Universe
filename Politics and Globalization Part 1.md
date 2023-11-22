@@ -85,3 +85,46 @@ World wealth is mostly situated in the north hemisphere in a few countries while
 The gap between North and South is widening rapidly
 
 The south asked for help and to redistribute wealth from the north but that didn't happen
+
+The past few decades saw an increase in former "Third World" countries have newly industrialized sections (China, Mexico, Malaysia, Singapore, Taiwan, HK, Thailand, Brazil, and Argentina)
+
+The end of the Cold War **made us realize that there can be substantial change in international politics** brought on by **globalization**
+
+--- 
+Globalization affects everything
+
+Rich countries developing an "Internet society" while poor, rural nations not really being affected by the raising telecommunications and internet (they miss out on the global market)
+
+---
+# Competing Approaches to International Politics
+
+There are three main theoretical orientations in world politics:
+
+- Realism
+- Liberalism
+- Marxism
+
+## Realism
+---
+Assumes that countries only care about economic or military power
+
+The international system is in a constant competition for power and this is the default thinking for most people who practice world affairs
+
+Cooperation between nations isn't likely
+
+Hans Morgenthau argues that human nature and societies are imperfect and **conflict is inherent**
+
+People who make policies should do so for the sake of maximizing power
+
+Realists believe that leaders can avoid war by not pursuing goals that they don't have the power to achieve, meaning that it is necessary to understand the goals and power of your opponents
+
+The state, or country, is the only thing that's important in international affairs and the one that holds the most power (not corporations or institutions
+
+**Realpolitik** - the approach to world politics that dictates that countries should practice politics based on power, and not morality
+
+After WW2, this was based on **balance of power** - where states try to have equal power to prevent a country or an alliance from dominating the world
+> can be done by: building own strength, allying yourself with others, and dividing your opponents
+
+
+
+
