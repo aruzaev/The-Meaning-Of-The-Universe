@@ -1,5 +1,6 @@
+- 2023-11-20 at 15h31 · [[Its Time for a New Economic Paradigm]]
+- 2023-11-20 at 15h30 · [[Intro to Arts & Sciences]]
 - 2023-11-20 at 15h28 · [[Davidson - Climate Change]]
-- 2023-11-20 at 11h16 · [[Intro to Arts & Sciences]]
 - 2023-11-20 at 11h11 · [[Anxiety disorders and OCD]]
 - 2023-11-20 at 11h11 · [[Depressive and bipolar disorders]]
 - 2023-11-20 at 11h11 · [[2023-11-20]]
@@ -7,4 +8,3 @@
 - 2023-11-20 at 11h10 · [[visual literacy]]
 - 2023-11-20 at 11h10 · [[principles of effective technical communication]]
 - 2023-11-20 at 11h10 · [[Obsidian - How to Plan Your Day]]
-- 2023-11-20 at 11h10 · [[Obsidian -  Beginner's Guide]]
