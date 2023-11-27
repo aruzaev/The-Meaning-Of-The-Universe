@@ -42,7 +42,7 @@ Globalization
 
 [[Globalization - an overview]]
 [[Point - Globalization Provides a Better Life for All by Jennifer Graham]]
-<<<<<<< HEAD
+[[Counterpoint - Globalization Benefits Powerful Businesses at the Expense of Poor Nations]]
 
 
 ## Module 9
@@ -51,6 +51,9 @@ Climate Change
 
 [[Davidson - Climate Change]]
 [[Its Time for a New Economic Paradigm]]
-=======
-[[Counterpoint - Globalization Benefits Powerful Businesses at the Expense of Poor Nations]]
->>>>>>> f0f6760d13a8a4ea25075f754402a820aed0cef6
+
+## Module 10
+---
+What makes us happy?
+
+[[The Futile Pursuit of Happiness]]
