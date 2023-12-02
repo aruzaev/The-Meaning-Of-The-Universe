@@ -8,12 +8,77 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d7ab6bb8f95f1f2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Developmental Psychology.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6d7e3978d641dc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Globalization/Globalization.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44180c3303d42b56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0dba1f93050712b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Globalization/Globalization.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ba29482b549851c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Globalization and Climate Change Part 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "43101b26084d711b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023/November/2023-11-26.md",
+                "file": "daily/2023/December/2023-12-01.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,7 +111,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023/November/2023-11-26.md",
+                "file": "Globalization and Climate Change Part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023/November/2023-11-26.md",
+                "file": "Globalization and Climate Change Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,11 +226,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023/November/2023-11-26.md"
+                "file": "Globalization and Climate Change Part 1.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,36 +249,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43101b26084d711b",
+  "active": "7ba29482b549851c",
   "lastOpenFiles": [
+    "School/Globalization/Globalization.md",
+    "Davidson - Climate Change.md",
     "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
+    "Globalization and Climate Change Part 1.md",
+    "The Cognitive Stages of Development.md",
+    "daily/2023/December/2023-12-01.md",
+    "daily/2023/November/2023-11-30.md",
+    "daily/2023/December",
+    "daily/2023/November/2023-11-29.md",
+    "Physical Development and Learning.md",
+    "Developmental Psychology.md",
     "The Futile Pursuit of Happiness.md",
+    "Heredity and Prenatal Development.md",
+    "Pasted image 20231129140025.png",
+    "School/Psychology/Psychology.md",
+    "2023-11-30.md",
     "daily/2023/November/2023-11-26.md",
     "Counterpoint - Globalization Benefits Powerful Businesses at the Expense of Poor Nations.md",
-    "Globalization and Climate Change Part 1.md",
-    "School/Globalization/Globalization.md",
     "daily/2023/November/2023-11-23.md",
     "daily/2023/November/2023-11-22.md",
     "daily/2023/November/2023-11-20.md",
     "Its Time for a New Economic Paradigm.md",
-    "Davidson - Climate Change.md",
     "Schizophrenia.md",
-    "School/Psychology/Psychology.md",
     "Somatoform and dissociative disorders.md",
     "Anxiety disorders and OCD.md",
     "daily/2023/November/2023-11-16.md",
     "daily/2023/November/2023-11-12.md",
     "Politics and Globalization Part 1.md",
-    "daily/2023/November/2023-11-11.md",
-    "Globalization - an overview.md",
-    "Point - Globalization Provides a Better Life for All by Jennifer Graham.md",
-    "The Complexity of Identity.md",
-    "daily/2023/November/2023-11-10.md",
-    "Flexbox.md",
     "enabling-flexbox-dd3b59.cb39abcd.png",
-    "CSS/CSS.md",
     "flex-container-and-flex-items-6234bb.7ffe361a.png",
-    "Observational Research.md",
     "CSS",
     "Pasted image 20231108135154.png",
     "Pyramid_of_different_social_and_economic_classes_by_population_and_wealth.jpg",
@@ -221,7 +290,6 @@
     "GRAPHIC-2.jpg",
     "DIAGRAM-2.jpg",
     "CHART-1.jpg",
-    "DIAGRAM-1.jpg",
     "Study Guide - Does the Internet Make You Dumber by Nicholas Carr.pdf",
     "winfetch"
   ]

@@ -57,3 +57,8 @@ Main topics:
 - [[Somatoform and dissociative disorders]]
 - [[Schizophrenia]]
 - [[Depressive and bipolar disorders]]
+
+## Module 8
+---
+
+[[Developmental Psychology]]
