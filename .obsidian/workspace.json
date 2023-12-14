@@ -4,23 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "99b685f63aa65e25",
+        "id": "bb83502f5186ed95",
         "type": "tabs",
         "children": [
           {
-            "id": "74e9f872b2a97ddf",
+            "id": "f4ed735ac8e588c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "The Evolution of Life In Conceptual Integrated Science.md",
+=======
+                "file": "Anxiety disorders and OCD.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "819263ae0f4efd1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Depressive and bipolar disorders.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f9855721a8f39d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2023/November/2023-11-08.md",
+>>>>>>> 20750dfd72ba6c814703ef36692872101e3f1745
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
+<<<<<<< HEAD
         ]
+=======
+        ],
+        "currentTab": 2
+>>>>>>> 20750dfd72ba6c814703ef36692872101e3f1745
       }
     ],
     "direction": "vertical"
@@ -95,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Evolution of Life In Conceptual Integrated Science.md",
+                "file": "daily/2023/November/2023-11-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Evolution of Life In Conceptual Integrated Science.md",
+                "file": "daily/2023/November/2023-11-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Evolution of Life In Conceptual Integrated Science.md"
+                "file": "daily/2023/November/2023-11-08.md"
               }
             }
           }
@@ -143,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -157,9 +192,22 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "74e9f872b2a97ddf",
+=======
+  "active": "1f9855721a8f39d9",
+>>>>>>> 20750dfd72ba6c814703ef36692872101e3f1745
   "lastOpenFiles": [
+    "Depressive and bipolar disorders.md",
+    "daily/2023/November/2023-11-08.md",
+    "Anxiety disorders and OCD.md",
+    "School/Psychology/Psychology.md",
+    "Depressive and bipolar episodes.md",
+    "Schizophrenia.md",
+    "Pasted image 20231108135154.png",
+    "Somatoform and dissociative disorders.md",
     "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
+<<<<<<< HEAD
     "daily/2023/October/2023-10-15.md",
     "The Evolution of Life In Conceptual Integrated Science.md",
     "School/Technical Workplace Writ. Skills/Technical Workplace Writ. Skills.md",
@@ -168,10 +216,35 @@
     "Inductive Reasoning.md",
     "visual literacy.md",
     "Paradigms Lost.md",
+=======
+    "daily/2023/November/2023-11-07.md",
+    "Point - Globalization Provides a Better Life for All by Jennifer Graham.md",
+    "Globalization - an overview.md",
+>>>>>>> 20750dfd72ba6c814703ef36692872101e3f1745
     "School/Globalization/Globalization.md",
+    "Politics and Globalization Part 1.md",
+    "daily/2023/November/2023-11-05.md",
+    "daily/2023/November/2023-11-04.md",
+    "daily/2023/November/2023-11-03.md",
+    "daily/2023/November/2023-11-02.md",
+    "Economics and Globalization Part 1.md",
+    "What is politics and who cares anyway.md",
+    "Pyramid_of_different_social_and_economic_classes_by_population_and_wealth.jpg",
+    "The Banality of Heroism.md",
+    "daily/2023/November/2023-11-01.md",
+    "Day Planners/Day Planner-20230721.md",
+    "daily/2023/November",
+    "DSM 5.md",
+    "daily/2023/October/2023-10-31.md",
+    "2023-10-30.md",
+    "What is abnormal.md",
+    "GRAPHIC-2 1.jpg",
+    "GRAPHIC-1.jpg",
+    "GRAPHIC-2.jpg",
+    "DIAGRAM-2.jpg",
+    "CHART-1.jpg",
+    "DIAGRAM-1.jpg",
     "Study Guide - Does the Internet Make You Dumber by Nicholas Carr.pdf",
-    "daily/2023/October/2023-10-14.md",
-    "School/Intro to Arts & Sciences/Journal 1 - Scientific Ways Of Knowing.md",
     "winfetch"
   ]
 }
