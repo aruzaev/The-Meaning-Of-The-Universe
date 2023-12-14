@@ -22,17 +22,10 @@
       }
     },
     {
-      "query": "path:python",
+      "query": "path:CSS  ",
       "color": {
         "a": 1,
         "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:self help",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
       }
     }
   ],
@@ -46,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.21860383599019179,
+  "scale": 0.21860383599019428,
   "close": false
 }

@@ -8,15 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f4ed735ac8e588c7",
+            "id": "d7ab6bb8f95f1f2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "The Evolution of Life In Conceptual Integrated Science.md",
 =======
                 "file": "Anxiety disorders and OCD.md",
+=======
+                "file": "Developmental Psychology.md",
+>>>>>>> f37ad63aacc28ba6525a91408a01b4b4d80a4777
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,12 +28,12 @@
             }
           },
           {
-            "id": "819263ae0f4efd1b",
+            "id": "e6d7e3978d641dc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Depressive and bipolar disorders.md",
+                "file": "School/Globalization/Globalization.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -37,13 +41,82 @@
             }
           },
           {
-            "id": "1f9855721a8f39d9",
+            "id": "44180c3303d42b56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "daily/2023/November/2023-11-08.md",
 >>>>>>> 20750dfd72ba6c814703ef36692872101e3f1745
+=======
+                "file": "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0dba1f93050712b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Globalization/Globalization.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ba29482b549851c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Globalization and Climate Change Part 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43101b26084d711b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2023/December/2023-12-01.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc2b2c90e031a2e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0372d24ccb996710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Futile Pursuit of Happiness.md",
+>>>>>>> f37ad63aacc28ba6525a91408a01b4b4d80a4777
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -54,8 +127,12 @@
         ]
 =======
         ],
+<<<<<<< HEAD
         "currentTab": 2
 >>>>>>> 20750dfd72ba6c814703ef36692872101e3f1745
+=======
+        "currentTab": 4
+>>>>>>> f37ad63aacc28ba6525a91408a01b4b4d80a4777
       }
     ],
     "direction": "vertical"
@@ -130,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023/November/2023-11-08.md",
+                "file": "Globalization and Climate Change Part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023/November/2023-11-08.md",
+                "file": "Globalization and Climate Change Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,11 +247,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023/November/2023-11-08.md"
+                "file": "Globalization and Climate Change Part 1.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,19 +271,40 @@
     }
   },
 <<<<<<< HEAD
+<<<<<<< HEAD
   "active": "74e9f872b2a97ddf",
 =======
   "active": "1f9855721a8f39d9",
 >>>>>>> 20750dfd72ba6c814703ef36692872101e3f1745
+=======
+  "active": "7ba29482b549851c",
+>>>>>>> f37ad63aacc28ba6525a91408a01b4b4d80a4777
   "lastOpenFiles": [
-    "Depressive and bipolar disorders.md",
-    "daily/2023/November/2023-11-08.md",
-    "Anxiety disorders and OCD.md",
+    "School/Globalization/Globalization.md",
+    "Davidson - Climate Change.md",
+    "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
+    "Globalization and Climate Change Part 1.md",
+    "The Cognitive Stages of Development.md",
+    "daily/2023/December/2023-12-01.md",
+    "daily/2023/November/2023-11-30.md",
+    "daily/2023/December",
+    "daily/2023/November/2023-11-29.md",
+    "Physical Development and Learning.md",
+    "Developmental Psychology.md",
+    "The Futile Pursuit of Happiness.md",
+    "Heredity and Prenatal Development.md",
+    "Pasted image 20231129140025.png",
     "School/Psychology/Psychology.md",
-    "Depressive and bipolar episodes.md",
+    "2023-11-30.md",
+    "daily/2023/November/2023-11-26.md",
+    "Counterpoint - Globalization Benefits Powerful Businesses at the Expense of Poor Nations.md",
+    "daily/2023/November/2023-11-23.md",
+    "daily/2023/November/2023-11-22.md",
+    "daily/2023/November/2023-11-20.md",
+    "Its Time for a New Economic Paradigm.md",
     "Schizophrenia.md",
-    "Pasted image 20231108135154.png",
     "Somatoform and dissociative disorders.md",
+<<<<<<< HEAD
     "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
 <<<<<<< HEAD
     "daily/2023/October/2023-10-15.md",
@@ -222,28 +321,23 @@
     "Globalization - an overview.md",
 >>>>>>> 20750dfd72ba6c814703ef36692872101e3f1745
     "School/Globalization/Globalization.md",
+=======
+    "Anxiety disorders and OCD.md",
+    "daily/2023/November/2023-11-16.md",
+    "daily/2023/November/2023-11-12.md",
+>>>>>>> f37ad63aacc28ba6525a91408a01b4b4d80a4777
     "Politics and Globalization Part 1.md",
-    "daily/2023/November/2023-11-05.md",
-    "daily/2023/November/2023-11-04.md",
-    "daily/2023/November/2023-11-03.md",
-    "daily/2023/November/2023-11-02.md",
-    "Economics and Globalization Part 1.md",
-    "What is politics and who cares anyway.md",
+    "enabling-flexbox-dd3b59.cb39abcd.png",
+    "flex-container-and-flex-items-6234bb.7ffe361a.png",
+    "CSS",
+    "Pasted image 20231108135154.png",
     "Pyramid_of_different_social_and_economic_classes_by_population_and_wealth.jpg",
-    "The Banality of Heroism.md",
-    "daily/2023/November/2023-11-01.md",
-    "Day Planners/Day Planner-20230721.md",
     "daily/2023/November",
-    "DSM 5.md",
-    "daily/2023/October/2023-10-31.md",
-    "2023-10-30.md",
-    "What is abnormal.md",
     "GRAPHIC-2 1.jpg",
     "GRAPHIC-1.jpg",
     "GRAPHIC-2.jpg",
     "DIAGRAM-2.jpg",
     "CHART-1.jpg",
-    "DIAGRAM-1.jpg",
     "Study Guide - Does the Internet Make You Dumber by Nicholas Carr.pdf",
     "winfetch"
   ]

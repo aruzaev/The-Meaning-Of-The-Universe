@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 - 2023-10-15 at 17h16 · [[The Evolution of Life In Conceptual Integrated Science]]
 - 2023-10-15 at 16h58 · [[2023-10-14]]
 - 2023-10-15 at 16h58 · [[2023-10-15]]
@@ -21,3 +22,15 @@
 - 2023-11-07 at 15h20 · [[Globalization - an overview]]
 - 2023-11-05 at 18h55 · [[2023-11-05]]
 >>>>>>> 20750dfd72ba6c814703ef36692872101e3f1745
+=======
+- 2023-12-01 at 20h20 · [[Davidson - Climate Change]]
+- 2023-12-01 at 13h55 · [[2023-12-01]]
+- 2023-11-30 at 15h32 · [[2023-11-30]]
+- 2023-11-29 at 19h06 · [[2023-11-29]]
+- 2023-11-29 at 17h33 · [[The Cognitive Stages of Development]]
+- 2023-11-29 at 17h00 · [[Physical Development and Learning]]
+- 2023-11-29 at 14h39 · [[Heredity and Prenatal Development]]
+- 2023-11-29 at 14h00 · [[Developmental Psychology]]
+- 2023-11-29 at 13h00 · [[Psychology]]
+- 2023-11-26 at 22h54 · [[2023-11-26]]
+>>>>>>> f37ad63aacc28ba6525a91408a01b4b4d80a4777
