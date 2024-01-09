@@ -8,51 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d7ab6bb8f95f1f2e",
+            "id": "e23bc05a0a245739",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developmental Psychology.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6d7e3978d641dc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Globalization/Globalization.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44180c3303d42b56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dba1f93050712b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Globalization/Globalization.md",
+                "file": "Politics and Globalization Part 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Globalization and Climate Change Part 1.md",
+                "file": "School/Globalization/Globalization.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,12 +34,12 @@
             }
           },
           {
-            "id": "43101b26084d711b",
+            "id": "f684305df5a324a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023/December/2023-12-01.md",
+                "file": "daily/2024/January/2024-01-09.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,33 +47,17 @@
             }
           },
           {
-            "id": "bc2b2c90e031a2e5",
+            "id": "bc8cdbc212464f9f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0372d24ccb996710",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Futile Pursuit of Happiness.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "currentVersion": "1.5.3"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -186,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Globalization and Climate Change Part 1.md",
+                "file": "daily/2024/January/2024-01-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Globalization and Climate Change Part 1.md",
+                "file": "daily/2024/January/2024-01-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Globalization and Climate Change Part 1.md"
+                "file": "daily/2024/January/2024-01-09.md"
               }
             }
           }
@@ -249,19 +194,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ba29482b549851c",
+  "active": "bc8cdbc212464f9f",
   "lastOpenFiles": [
-    "School/Globalization/Globalization.md",
-    "Davidson - Climate Change.md",
-    "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
+    "daily/2023/December/2023-12-19.md",
+    "daily/2024/January/2024-01-09.md",
+    "daily/2024/January",
+    "daily/2024",
+    "daily/2023/December/2023-12-18.md",
     "Globalization and Climate Change Part 1.md",
+    "School/Globalization/Globalization.md",
+    "daily/2023/December/2023-12-11.md",
+    "Politics and Globalization Part 1.md",
+    "Globalization and Health.md",
+    "daily/2023/December/2023-12-09.md",
+    "Developmental Psychology.md",
+    "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
+    "daily/2023/December/2023-12-06.md",
+    "daily/2023/December/2023-12-05.md",
+    "Davidson - Climate Change.md",
     "The Cognitive Stages of Development.md",
     "daily/2023/December/2023-12-01.md",
     "daily/2023/November/2023-11-30.md",
     "daily/2023/December",
     "daily/2023/November/2023-11-29.md",
     "Physical Development and Learning.md",
-    "Developmental Psychology.md",
     "The Futile Pursuit of Happiness.md",
     "Heredity and Prenatal Development.md",
     "Pasted image 20231129140025.png",
@@ -270,15 +226,6 @@
     "daily/2023/November/2023-11-26.md",
     "Counterpoint - Globalization Benefits Powerful Businesses at the Expense of Poor Nations.md",
     "daily/2023/November/2023-11-23.md",
-    "daily/2023/November/2023-11-22.md",
-    "daily/2023/November/2023-11-20.md",
-    "Its Time for a New Economic Paradigm.md",
-    "Schizophrenia.md",
-    "Somatoform and dissociative disorders.md",
-    "Anxiety disorders and OCD.md",
-    "daily/2023/November/2023-11-16.md",
-    "daily/2023/November/2023-11-12.md",
-    "Politics and Globalization Part 1.md",
     "enabling-flexbox-dd3b59.cb39abcd.png",
     "flex-container-and-flex-items-6234bb.7ffe361a.png",
     "CSS",
