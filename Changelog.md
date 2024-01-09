@@ -1,4 +1,4 @@
-- 2024-01-08 at 21h54 · [[Week 1 - Introduction]]
+- 2024-01-09 at 09h35 · [[Week 1 - Introduction]]
 - 2024-01-08 at 21h16 · [[Adv. Front-End Programming]]
 - 2024-01-08 at 21h09 · [[2024-01-08]]
 - 2024-01-08 at 21h05 · [[visual literacy]]

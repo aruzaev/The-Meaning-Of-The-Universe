@@ -41,3 +41,10 @@ MEAN/MERN stack
 
 ## Front End Frameworks
 
+When data is converted to a graphical interface that the user interacts with through the use of CSS, HTML, and JavaScript
+
+For JS, various front-end frameworks (React, Angular, Vue) are used to improve interactivity
+
+**CSS Frameworks are libraries that allow easier and more compliant design**
+
+An example of this is Bootstrap
