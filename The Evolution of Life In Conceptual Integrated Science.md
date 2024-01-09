@@ -74,3 +74,22 @@ Other adaptations allow the organism to **find mates** (*sexual selection*):
 
 ## Evolution and Genetics
 ---
+Natural selection doesn't only affect an organism's traits, it also affects the **genes** of the offspring
+
+Introducing genes into evolution described it as ***changes in the allele frequencies of genes over time**
+
+Allele - variations of genes
+
+Allele frequencies - how common different variations of genes are within a population
+
+A moth population may have a light allele (a) and a dark allele (A) for their body colour, these frequencies can be represented by:
+> 92% a and 8% A (there are far more light coloured moths than dark ones)
+
+Overtime, as the population becomes more polluted with black moths, there will be a higher percentage of A types and a lower percentage of a's
+
+This can be applied to natural selection by the same principle as the physical traits
+
+Natural selection ***affects*** genes but it doesn't directly ***impact the genes*** 
+> it impacts the physical traits and not the actual genome
+
+This means that even if the dark moth population is more numerous, they still have trace amounts of the a allele, it's just that their A allele is more *dominant* and a allele is *recessive*
