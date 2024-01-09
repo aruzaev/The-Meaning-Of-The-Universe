@@ -1,26 +1,19 @@
 {
   "main": {
-    "id": "1d0a4caa975cab42",
+    "id": "2b462283a6e1b1a5",
     "type": "split",
     "children": [
       {
-        "id": "bb83502f5186ed95",
+        "id": "1634b15857c28a93",
         "type": "tabs",
         "children": [
           {
-            "id": "d7ab6bb8f95f1f2e",
+            "id": "212356ec517f26be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "The Evolution of Life In Conceptual Integrated Science.md",
-=======
-                "file": "Anxiety disorders and OCD.md",
-=======
-                "file": "Developmental Psychology.md",
->>>>>>> f37ad63aacc28ba6525a91408a01b4b4d80a4777
+                "file": "School/Adv. Front-End Programming/Adv. Front-End Programming.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -28,125 +21,34 @@
             }
           },
           {
-            "id": "e6d7e3978d641dc7",
+            "id": "c1a0b5f0d5bd7c08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Globalization/Globalization.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44180c3303d42b56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "daily/2023/November/2023-11-08.md",
->>>>>>> 20750dfd72ba6c814703ef36692872101e3f1745
-=======
-                "file": "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dba1f93050712b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Globalization/Globalization.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ba29482b549851c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Globalization and Climate Change Part 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43101b26084d711b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2023/December/2023-12-01.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc2b2c90e031a2e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0372d24ccb996710",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Futile Pursuit of Happiness.md",
->>>>>>> f37ad63aacc28ba6525a91408a01b4b4d80a4777
+                "file": "Week 1 - Introduction.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-<<<<<<< HEAD
-        ]
-=======
         ],
-<<<<<<< HEAD
-        "currentTab": 2
->>>>>>> 20750dfd72ba6c814703ef36692872101e3f1745
-=======
-        "currentTab": 4
->>>>>>> f37ad63aacc28ba6525a91408a01b4b4d80a4777
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a7e427431f663eb4",
+    "id": "325aa5919bdd01f5",
     "type": "split",
     "children": [
       {
-        "id": "4407fbaa78cd3d43",
+        "id": "8cbdc9e2c8b22062",
         "type": "tabs",
         "children": [
           {
-            "id": "bb7c95e1c570991c",
+            "id": "6cc630ed3bff71ac",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -156,7 +58,7 @@
             }
           },
           {
-            "id": "77b176dcdd2fcf91",
+            "id": "37ffa5d61ddae907",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -171,7 +73,7 @@
             }
           },
           {
-            "id": "d2adb8d02c5368f7",
+            "id": "5d3cfe2db3ab94cb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -186,28 +88,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "83be02f8b9e96760",
+    "id": "85e13a696fa8c75c",
     "type": "split",
     "children": [
       {
-        "id": "8d149e787401a840",
+        "id": "4c0a5631e629630d",
         "type": "tabs",
         "children": [
           {
-            "id": "581ec92cc25c28d5",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "a15bdaded99d69fc",
+            "id": "f6fdddf402171e6c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Globalization and Climate Change Part 1.md",
+                "file": "Week 1 - Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,19 +113,19 @@
             }
           },
           {
-            "id": "151b5e84173f5800",
+            "id": "7a0b9470ce29752c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Globalization and Climate Change Part 1.md",
+                "file": "Week 1 - Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c63fa25ec992b898",
+            "id": "f263171fb6ae5004",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -242,103 +136,50 @@
             }
           },
           {
-            "id": "8561948cbca5ef03",
+            "id": "a0799ea6168629ed",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Globalization and Climate Change Part 1.md"
+                "file": "Week 1 - Introduction.md"
               }
             }
+          },
+          {
+            "id": "6197b68a8d575a6e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "active": "74e9f872b2a97ddf",
-=======
-  "active": "1f9855721a8f39d9",
->>>>>>> 20750dfd72ba6c814703ef36692872101e3f1745
-=======
-  "active": "7ba29482b549851c",
->>>>>>> f37ad63aacc28ba6525a91408a01b4b4d80a4777
+  "active": "c1a0b5f0d5bd7c08",
   "lastOpenFiles": [
-    "School/Globalization/Globalization.md",
-    "Davidson - Climate Change.md",
+    "Pasted image 20240108212048.png",
+    "School/Adv. Front-End Programming/Adv. Front-End Programming.md",
+    "Week 1 - Introduction.md",
     "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
-    "Globalization and Climate Change Part 1.md",
-    "The Cognitive Stages of Development.md",
-    "daily/2023/December/2023-12-01.md",
-    "daily/2023/November/2023-11-30.md",
-    "daily/2023/December",
-    "daily/2023/November/2023-11-29.md",
-    "Physical Development and Learning.md",
-    "Developmental Psychology.md",
-    "The Futile Pursuit of Happiness.md",
-    "Heredity and Prenatal Development.md",
-    "Pasted image 20231129140025.png",
-    "School/Psychology/Psychology.md",
-    "2023-11-30.md",
-    "daily/2023/November/2023-11-26.md",
-    "Counterpoint - Globalization Benefits Powerful Businesses at the Expense of Poor Nations.md",
-    "daily/2023/November/2023-11-23.md",
-    "daily/2023/November/2023-11-22.md",
-    "daily/2023/November/2023-11-20.md",
-    "Its Time for a New Economic Paradigm.md",
-    "Schizophrenia.md",
-    "Somatoform and dissociative disorders.md",
-<<<<<<< HEAD
-    "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
-<<<<<<< HEAD
-    "daily/2023/October/2023-10-15.md",
-    "The Evolution of Life In Conceptual Integrated Science.md",
-    "School/Technical Workplace Writ. Skills/Technical Workplace Writ. Skills.md",
-    "Does the Internet Make You Smarter or Dumber.md",
-    "inductive problem solving.md",
-    "Inductive Reasoning.md",
-    "visual literacy.md",
-    "Paradigms Lost.md",
-=======
-    "daily/2023/November/2023-11-07.md",
-    "Point - Globalization Provides a Better Life for All by Jennifer Graham.md",
-    "Globalization - an overview.md",
->>>>>>> 20750dfd72ba6c814703ef36692872101e3f1745
-    "School/Globalization/Globalization.md",
-=======
-    "Anxiety disorders and OCD.md",
-    "daily/2023/November/2023-11-16.md",
-    "daily/2023/November/2023-11-12.md",
->>>>>>> f37ad63aacc28ba6525a91408a01b4b4d80a4777
-    "Politics and Globalization Part 1.md",
-    "enabling-flexbox-dd3b59.cb39abcd.png",
-    "flex-container-and-flex-items-6234bb.7ffe361a.png",
-    "CSS",
-    "Pasted image 20231108135154.png",
-    "Pyramid_of_different_social_and_economic_classes_by_population_and_wealth.jpg",
-    "daily/2023/November",
-    "GRAPHIC-2 1.jpg",
-    "GRAPHIC-1.jpg",
-    "GRAPHIC-2.jpg",
-    "DIAGRAM-2.jpg",
-    "CHART-1.jpg",
-    "Study Guide - Does the Internet Make You Dumber by Nicholas Carr.pdf",
-    "winfetch"
+    "daily/2024/January/2024-01-08.md",
+    "School/Adv. Front-End Programming",
+    "daily/2024/January",
+    "daily/2024"
   ]
 }
