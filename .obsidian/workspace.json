@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "85e13a696fa8c75c",
@@ -186,12 +185,13 @@
   },
   "active": "6f058dba9e2e5a54",
   "lastOpenFiles": [
+    "daily/2024/January/2024-01-13.md",
+    "Chapter 1 - Introduction.md",
+    "Imperative vs declarative programming.md",
     "Model View Controller {MVC}.md",
     "Pasted image 20240113135222.png",
-    "Chapter 1 - Introduction.md",
     "Single Page Application.md",
     "School/Adv. Front-End Programming/Adv. Front-End Programming.md",
-    "daily/2024/January/2024-01-13.md",
     "Untitled.md",
     "daily/2024/January/2024-01-10.md",
     "School/Database Concepts & Design/Database Concepts & Design.md",
