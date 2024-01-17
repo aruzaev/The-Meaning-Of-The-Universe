@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024/January/2024-01-13.md",
+                "file": "School/Career Path Development/Lecture 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "85e13a696fa8c75c",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 1 - Introduction.md",
+                "file": "School/Career Path Development/Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 1 - Introduction.md",
+                "file": "School/Career Path Development/Lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 1 - Introduction.md"
+                "file": "School/Career Path Development/Lecture 2.md"
               }
             }
           },
@@ -183,16 +184,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6f058dba9e2e5a54",
+  "active": "6cc630ed3bff71ac",
   "lastOpenFiles": [
+    "Lecture 1.md",
+    "School/Career Path Development/Lecture 1.md",
+    "School/Career Path Development/Lecture 2.md",
+    "School/Career Path Development",
     "daily/2024/January/2024-01-13.md",
+    "daily/2024/January/2024-01-17.md",
     "Chapter 1 - Introduction.md",
+    "School/Adv. Front-End Programming/Adv. Front-End Programming.md",
     "Imperative vs declarative programming.md",
     "Model View Controller {MVC}.md",
     "Pasted image 20240113135222.png",
     "Single Page Application.md",
-    "School/Adv. Front-End Programming/Adv. Front-End Programming.md",
-    "Untitled.md",
     "daily/2024/January/2024-01-10.md",
     "School/Database Concepts & Design/Database Concepts & Design.md",
     "daily/2024/January",
