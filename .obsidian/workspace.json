@@ -13,7 +13,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Adv. Front-End Programming/Adv. Front-End Programming.md",
+                "file": "School/Database Concepts & Design/Database Concepts & Design.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3dd2253bbc1f363",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 2.3 - Entity Relationship Model.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "541fa75a1f35971f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 2.2 - Entities,  Instances, and Attributes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "600dbd34908c9d41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 2.1 - Conceptual and Physical Model.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Career Path Development/Lecture 2.md",
+                "file": "daily/2024/January/2024-01-23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Career Path Development/Lecture 2.md",
+                "file": "Lecture 2.3 - Entity Relationship Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Career Path Development/Lecture 2.md",
+                "file": "Lecture 2.3 - Entity Relationship Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Career Path Development/Lecture 2.md"
+                "file": "Lecture 2.3 - Entity Relationship Model.md"
               }
             }
           },
@@ -184,8 +223,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6cc630ed3bff71ac",
+  "active": "e3dd2253bbc1f363",
   "lastOpenFiles": [
+    "School/Database Concepts & Design/Database Concepts & Design.md",
+    "Lecture 2.3 - Entity Relationship Model.md",
+    "Lecture 2.2 - Entities,  Instances, and Attributes.md",
+    "Pasted image 20240123120036.png",
+    "Pasted image 20240123114947.png",
+    "Lecture 2.1 - Conceptual and Physical Model.md",
+    "School/Adv. Front-End Programming/Adv. Front-End Programming.md",
+    "daily/2024/January/2024-01-23.md",
+    "daily/2024/January/2024-01-20.md",
     "Lecture 1.md",
     "School/Career Path Development/Lecture 1.md",
     "School/Career Path Development/Lecture 2.md",
@@ -193,13 +241,11 @@
     "daily/2024/January/2024-01-13.md",
     "daily/2024/January/2024-01-17.md",
     "Chapter 1 - Introduction.md",
-    "School/Adv. Front-End Programming/Adv. Front-End Programming.md",
     "Imperative vs declarative programming.md",
     "Model View Controller {MVC}.md",
     "Pasted image 20240113135222.png",
     "Single Page Application.md",
     "daily/2024/January/2024-01-10.md",
-    "School/Database Concepts & Design/Database Concepts & Design.md",
     "daily/2024/January",
     "daily/2024",
     "Lecture - 1.3.md",
@@ -211,13 +257,8 @@
     "daily/2023/December/2023-12-05.md",
     "Globalization and Health.md",
     "Lecture - 1.2.md",
-    "daily/2024/January/2024-01-09.md",
-    "Lecture - 1.1.md",
-    "Week 1 - Introduction.md",
     "School/Database Concepts & Design",
     "Pasted image 20240108212048.png",
-    "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
-    "daily/2024/January/2024-01-08.md",
     "School/Adv. Front-End Programming"
   ]
 }
