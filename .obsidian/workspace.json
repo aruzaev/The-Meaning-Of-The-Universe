@@ -13,19 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Database Concepts & Design/Database Concepts & Design.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3dd2253bbc1f363",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Lecture 2.3 - Entity Relationship Model.md",
                 "mode": "source",
                 "backlinks": true,
@@ -58,35 +45,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6f058dba9e2e5a54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 1 - Introduction.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc192fcce6e190b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024/January/2024-01-23.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,23 +183,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e3dd2253bbc1f363",
+  "active": "212356ec517f26be",
   "lastOpenFiles": [
-    "daily/2024/January/2024-01-21.md",
+    "School/Database Concepts & Design/Database Concepts & Design.md",
+    "Lecture 2.1 - Conceptual and Physical Model.md",
+    "daily/2024/January/2024-01-23.md",
+    "Lecture 2.2 - Entities,  Instances, and Attributes.md",
+    "Lecture 2.3 - Entity Relationship Model.md",
     "Database Design for Mere Mortals.md",
     "1. The Relational Database.md",
+    "daily/2024/January/2024-01-21.md",
     "01-05.jpg",
     "01-04.jpg",
     "01-03.jpg",
     "01-01.jpg",
-    "School/Database Concepts & Design/Database Concepts & Design.md",
-    "Lecture 2.3 - Entity Relationship Model.md",
-    "Lecture 2.2 - Entities,  Instances, and Attributes.md",
     "Pasted image 20240123120036.png",
     "Pasted image 20240123114947.png",
-    "Lecture 2.1 - Conceptual and Physical Model.md",
     "School/Adv. Front-End Programming/Adv. Front-End Programming.md",
-    "daily/2024/January/2024-01-23.md",
     "daily/2024/January/2024-01-20.md",
     "Lecture 1.md",
     "School/Career Path Development/Lecture 1.md",
