@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. The Relational Database.md",
+                "file": "daily/2024/January/2024-01-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. The Relational Database.md",
+                "file": "daily/2024/January/2024-01-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. The Relational Database.md",
+                "file": "daily/2024/January/2024-01-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. The Relational Database.md"
+                "file": "daily/2024/January/2024-01-24.md"
               }
             }
           },
@@ -211,19 +211,20 @@
   },
   "active": "ac02db0dca035e1d",
   "lastOpenFiles": [
+    "Career Path Development/Lecture 2.md",
+    "daily/2024/January/2024-01-24.md",
+    "1. The Relational Database.md",
     "01-05.jpg",
     "01-04.jpg",
     "01-03.jpg",
     "01-01.jpg",
-    "1. The Relational Database.md",
     "Database Design for Mere Mortals.md",
     "School/Database Concepts & Design/Database Concepts & Design.md",
     "daily/2024/January/2024-01-21.md",
     "School/Adv. Front-End Programming/Adv. Front-End Programming.md",
     "Lecture 1.md",
-    "School/Career Path Development/Lecture 1.md",
-    "School/Career Path Development/Lecture 2.md",
-    "School/Career Path Development",
+    "Career Path Development/Lecture 1.md",
+    "Career Path Development",
     "daily/2024/January/2024-01-13.md",
     "daily/2024/January/2024-01-17.md",
     "Chapter 1 - Introduction.md",
