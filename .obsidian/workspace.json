@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024/January/2024-01-24.md",
+                "file": "Career Path Development/Lecture 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024/January/2024-01-24.md",
+                "file": "Career Path Development/Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024/January/2024-01-24.md",
+                "file": "Career Path Development/Lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024/January/2024-01-24.md"
+                "file": "Career Path Development/Lecture 2.md"
               }
             }
           },
@@ -211,8 +211,8 @@
   },
   "active": "ac02db0dca035e1d",
   "lastOpenFiles": [
-    "Career Path Development/Lecture 2.md",
     "daily/2024/January/2024-01-24.md",
+    "Career Path Development/Lecture 2.md",
     "1. The Relational Database.md",
     "01-05.jpg",
     "01-04.jpg",
