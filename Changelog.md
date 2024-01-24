@@ -1,3 +1,4 @@
+- 2024-01-24 at 18h55 · [[Lecture 3]]
 - 2024-01-23 at 12h44 · [[Lecture 2.3 - Entity Relationship Model]]
 - 2024-01-23 at 12h40 · [[Database Concepts & Design]]
 - 2024-01-23 at 12h38 · [[2024-01-21]]
@@ -7,4 +8,3 @@
 - 2024-01-23 at 11h38 · [[Lecture 2.1 - Conceptual and Physical Model]]
 - 2024-01-23 at 11h08 · [[2024-01-23]]
 - 2024-01-20 at 12h47 · [[2024-01-20]]
-- 2024-01-17 at 18h55 · [[Lecture 2]]

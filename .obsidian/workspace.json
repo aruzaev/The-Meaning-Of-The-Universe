@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 2.3 - Entity Relationship Model.md",
+                "file": "School/Career Path Development/Lecture 3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 2.3 - Entity Relationship Model.md",
+                "file": "School/Career Path Development/Lecture 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 2.3 - Entity Relationship Model.md",
+                "file": "School/Career Path Development/Lecture 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 2.3 - Entity Relationship Model.md"
+                "file": "School/Career Path Development/Lecture 3.md"
               }
             }
           },
@@ -185,11 +185,12 @@
   },
   "active": "212356ec517f26be",
   "lastOpenFiles": [
+    "Lecture 2.3 - Entity Relationship Model.md",
+    "School/Career Path Development/Lecture 3.md",
     "School/Database Concepts & Design/Database Concepts & Design.md",
     "Lecture 2.1 - Conceptual and Physical Model.md",
     "daily/2024/January/2024-01-23.md",
     "Lecture 2.2 - Entities,  Instances, and Attributes.md",
-    "Lecture 2.3 - Entity Relationship Model.md",
     "Database Design for Mere Mortals.md",
     "1. The Relational Database.md",
     "daily/2024/January/2024-01-21.md",
@@ -220,7 +221,6 @@
     "daily/2023/December/2023-12-18.md",
     "daily/2023/December/2023-12-11.md",
     "daily/2023/December/2023-12-09.md",
-    "daily/2023/December/2023-12-06.md",
     "School/Database Concepts & Design",
     "Pasted image 20240108212048.png",
     "School/Adv. Front-End Programming"
