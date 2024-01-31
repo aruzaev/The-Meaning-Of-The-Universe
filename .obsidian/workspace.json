@@ -1,45 +1,19 @@
 {
   "main": {
-    "id": "2b462283a6e1b1a5",
+    "id": "c195cfd876d4793e",
     "type": "split",
     "children": [
       {
-        "id": "1634b15857c28a93",
+        "id": "b309ebabd2812065",
         "type": "tabs",
         "children": [
           {
-            "id": "212356ec517f26be",
+            "id": "9f94b739ba8ea871",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career Path Development/Lecture 3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "541fa75a1f35971f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture 2.2 - Entities,  Instances, and Attributes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "600dbd34908c9d41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture 2.1 - Conceptual and Physical Model.md",
+                "file": "Career Path Development/Lecture 4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "325aa5919bdd01f5",
+    "id": "28a0b788a95809e0",
     "type": "split",
     "children": [
       {
-        "id": "8cbdc9e2c8b22062",
+        "id": "9d660bd58e8912cd",
         "type": "tabs",
         "children": [
           {
-            "id": "6cc630ed3bff71ac",
+            "id": "f7bd7b1911db38e4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -70,7 +44,7 @@
             }
           },
           {
-            "id": "37ffa5d61ddae907",
+            "id": "4cfcf82cf357c4e6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -85,7 +59,7 @@
             }
           },
           {
-            "id": "5d3cfe2db3ab94cb",
+            "id": "6ec689a3ceb187ad",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -99,20 +73,28 @@
     "width": 300
   },
   "right": {
-    "id": "85e13a696fa8c75c",
+    "id": "459b6683eb8589c5",
     "type": "split",
     "children": [
       {
-        "id": "4c0a5631e629630d",
+        "id": "ea1fddf6ea1eeb93",
         "type": "tabs",
         "children": [
           {
-            "id": "f6fdddf402171e6c",
+            "id": "fdb97f57e9aeeb81",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "240b6406726324b5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career Path Development/Lecture 3.md",
+                "file": "Career Path Development/Lecture 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,19 +106,19 @@
             }
           },
           {
-            "id": "7a0b9470ce29752c",
+            "id": "d53e2bad9e604e6e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career Path Development/Lecture 3.md",
+                "file": "Career Path Development/Lecture 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f263171fb6ae5004",
+            "id": "e781f241f58444c1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -147,21 +129,13 @@
             }
           },
           {
-            "id": "a0799ea6168629ed",
+            "id": "80bf074298ffd987",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Career Path Development/Lecture 3.md"
+                "file": "Career Path Development/Lecture 4.md"
               }
-            }
-          },
-          {
-            "id": "6197b68a8d575a6e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ]
@@ -173,67 +147,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "212356ec517f26be",
+  "active": "9f94b739ba8ea871",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "daily/2024/January/2024-01-24.md",
-    "daily/2024/January/2024-01-23.md",
-    "daily/2024/January/2024-01-20.md",
-    "Pasted image 20240123120036.png",
-    "Pasted image 20240123114947.png",
-    "Lecture 2.3 - Entity Relationship Model.md",
-    "Lecture 2.2 - Entities,  Instances, and Attributes.md",
-    "Lecture 2.1 - Conceptual and Physical Model.md",
-=======
-    "Lecture 2.3 - Entity Relationship Model.md",
-    "School/Career Path Development/Lecture 3.md",
-    "daily/2024/January/2024-01-24.md",
-    "Career Path Development/Lecture 3.md",
->>>>>>> 11c1e81ddfb2d3382eebbee6fd43119ed2359ace
-    "Career Path Development/Lecture 2.md",
-    "Career Path Development/Lecture 1.md",
-    "Career Path Development",
+    "School/Intro to Arts & Sciences/Journal 1 - Scientific Ways Of Knowing.md",
+    "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
+    "School/Globalization/Globalization.md",
     "School/Database Concepts & Design/Database Concepts & Design.md",
-    "Lecture 2.1 - Conceptual and Physical Model.md",
-    "daily/2024/January/2024-01-23.md",
-    "Lecture 2.2 - Entities,  Instances, and Attributes.md",
-    "Database Design for Mere Mortals.md",
-    "1. The Relational Database.md",
-    "daily/2024/January/2024-01-21.md",
-    "01-05.jpg",
-    "01-04.jpg",
-    "01-03.jpg",
-    "01-01.jpg",
-    "Pasted image 20240123120036.png",
-    "Pasted image 20240123114947.png",
-    "School/Adv. Front-End Programming/Adv. Front-End Programming.md",
-    "daily/2024/January/2024-01-20.md",
-    "Lecture 1.md",
-    "School/Career Path Development/Lecture 1.md",
-    "School/Career Path Development/Lecture 2.md",
-    "School/Career Path Development",
-    "daily/2024/January/2024-01-13.md",
-    "daily/2024/January/2024-01-17.md",
-    "Chapter 1 - Introduction.md",
-    "Imperative vs declarative programming.md",
-    "Model View Controller {MVC}.md",
-    "Pasted image 20240113135222.png",
-    "Single Page Application.md",
-    "daily/2024/January/2024-01-10.md",
-    "daily/2024/January",
-    "daily/2024",
-    "Lecture - 1.3.md",
-    "School/Database Concepts & Design",
-    "Pasted image 20240108212048.png",
-    "School/Adv. Front-End Programming"
+    "Career Path Development/Lecture 4.md",
+    "School/Technical Workplace Writ. Skills/Technical Workplace Writ. Skills.md",
+    "Career Path Development/Lecture 3.md",
+    "daily/2024/January/2024-01-31.md"
   ]
 }
