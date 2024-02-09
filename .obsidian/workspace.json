@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career Path Development/Lecture 4.md",
+                "file": "Career Path Development/Lecture 5.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career Path Development/Lecture 4.md",
+                "file": "Career Path Development/Lecture 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career Path Development/Lecture 4.md",
+                "file": "Career Path Development/Lecture 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Career Path Development/Lecture 4.md"
+                "file": "Career Path Development/Lecture 5.md"
               }
             }
           }
@@ -158,11 +158,14 @@
   },
   "active": "9f94b739ba8ea871",
   "lastOpenFiles": [
+    "Career Path Development/Lecture 4.md",
+    "Career Path Development/Lecture 5.md",
+    "daily/2024/February/2024-02-07.md",
+    "daily/2024/February",
     "School/Intro to Arts & Sciences/Journal 1 - Scientific Ways Of Knowing.md",
     "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
     "School/Globalization/Globalization.md",
     "School/Database Concepts & Design/Database Concepts & Design.md",
-    "Career Path Development/Lecture 4.md",
     "School/Technical Workplace Writ. Skills/Technical Workplace Writ. Skills.md",
     "Career Path Development/Lecture 3.md",
     "daily/2024/January/2024-01-31.md"
