@@ -13,5 +13,16 @@
 [[Lecture 2.3 - Entity Relationship Model]]
 
 
+## Week 3
+
+[[Lecture 3.1 - Identifying Relationships]]
+[[Lecture 3.3 - Relationship Types]]
+
+## Week 5
+
+[[Lecture 5.1 - Normalization and First Normal Form]]
+[[Lecture 5.2 - Normalization and Second Normal Form]]
+[[Lecture 5.3 - Normalization and Third Normal Form]]
+
 [[Database Design for Mere Mortals]]
 
