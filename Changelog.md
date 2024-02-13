@@ -1,3 +1,5 @@
+- 2024-02-13 at 16h27 · [[2024-02-07]]
+- 2024-02-13 at 16h27 · [[Lecture 5]]
 - 2024-02-13 at 16h23 · [[Lecture 6.2 - Understanding CRUD Requirements]]
 - 2024-02-13 at 16h14 · [[Database Concepts & Design]]
 - 2024-02-13 at 16h13 · [[Lecture 6.1 - Relationship Transferability]]
@@ -6,5 +8,3 @@
 - 2024-02-11 at 12h26 · [[Lecture 2.1 - Conceptual and Physical Model]]
 - 2024-02-11 at 12h24 · [[Lecture 2.3 - Entity Relationship Model]]
 - 2024-02-11 at 12h08 · [[2024-02-10]]
-- 2024-02-11 at 12h00 · [[Lecture 5.2 - Normalization and Second Normal Form]]
-- 2024-02-11 at 12h00 · [[Lecture 5.3 - Normalization and Third Normal Form]]
