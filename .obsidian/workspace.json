@@ -1,19 +1,18 @@
 {
   "main": {
-    "id": "c195cfd876d4793e",
+    "id": "5af9769bc5aca395",
     "type": "split",
     "children": [
       {
-        "id": "b309ebabd2812065",
+        "id": "d52bfd84e6a06f7c",
         "type": "tabs",
         "children": [
           {
-            "id": "9f94b739ba8ea871",
+            "id": "3220595e430b1421",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "School/Database Concepts & Design/Database Concepts & Design.md",
                 "mode": "source",
                 "backlinks": true,
@@ -22,12 +21,12 @@
             }
           },
           {
-            "id": "6d0b9e672a2cce55",
+            "id": "3e9fd6eb1d9d34dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 5.3 - Normalization and Third Normal Form.md",
+                "file": "Lecture 6.2 - Understanding CRUD Requirements.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -35,15 +34,38 @@
             }
           },
           {
-            "id": "f420a1c07139c84c",
+            "id": "a6ba3f1a5f894cba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024/February/2024-02-06.md",
-=======
-                "file": "Career Path Development/Lecture 4.md",
->>>>>>> f98e60623cdb8da0ef91a85d1d9d4b1d6078d6d6
+                "file": "School/Database Concepts & Design/Database Concepts & Design.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddab6f78fde307d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 2.1 - Conceptual and Physical Model.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "166a01dc5a70cd15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 2.3 - Entity Relationship Model.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -51,21 +73,21 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "28a0b788a95809e0",
+    "id": "c540c569cfd23d07",
     "type": "split",
     "children": [
       {
-        "id": "9d660bd58e8912cd",
+        "id": "9d6cd0de64a002fe",
         "type": "tabs",
         "children": [
           {
-            "id": "f7bd7b1911db38e4",
+            "id": "eaa22ed2e8998e25",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -75,7 +97,7 @@
             }
           },
           {
-            "id": "4cfcf82cf357c4e6",
+            "id": "18100cb92369519b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -90,7 +112,7 @@
             }
           },
           {
-            "id": "6ec689a3ceb187ad",
+            "id": "47ae579d7c62a1a5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -105,15 +127,15 @@
     "collapsed": true
   },
   "right": {
-    "id": "459b6683eb8589c5",
+    "id": "2a937730a9fb4551",
     "type": "split",
     "children": [
       {
-        "id": "ea1fddf6ea1eeb93",
+        "id": "abbf3b4bc4cd7746",
         "type": "tabs",
         "children": [
           {
-            "id": "fdb97f57e9aeeb81",
+            "id": "79d70d75ff008fa2",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -121,16 +143,12 @@
             }
           },
           {
-            "id": "240b6406726324b5",
+            "id": "13614353b822211b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "daily/2024/February/2024-02-06.md",
-=======
-                "file": "Career Path Development/Lecture 4.md",
->>>>>>> f98e60623cdb8da0ef91a85d1d9d4b1d6078d6d6
+                "file": "Lecture 6.2 - Understanding CRUD Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,23 +160,19 @@
             }
           },
           {
-            "id": "d53e2bad9e604e6e",
+            "id": "7a52081bc71c20e6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "daily/2024/February/2024-02-06.md",
-=======
-                "file": "Career Path Development/Lecture 4.md",
->>>>>>> f98e60623cdb8da0ef91a85d1d9d4b1d6078d6d6
+                "file": "Lecture 6.2 - Understanding CRUD Requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e781f241f58444c1",
+            "id": "f2845ed5f3d90a45",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -169,16 +183,12 @@
             }
           },
           {
-            "id": "80bf074298ffd987",
+            "id": "2dbe34290d8a6c57",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "daily/2024/February/2024-02-06.md"
-=======
-                "file": "Career Path Development/Lecture 4.md"
->>>>>>> f98e60623cdb8da0ef91a85d1d9d4b1d6078d6d6
+                "file": "Lecture 6.2 - Understanding CRUD Requirements.md"
               }
             }
           }
@@ -200,62 +210,28 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "f420a1c07139c84c",
+  "active": "3e9fd6eb1d9d34dc",
   "lastOpenFiles": [
-    "Lecture 5.3 - Normalization and Third Normal Form.md",
-    "Screenshot 2024-02-06 at 10.38.53 AM.png",
-    "Pasted image 20240206103856.png",
-    "Pasted image 20240206103839.png",
-    "Lecture 5.2 - Normalization and Second Normal Form.md",
-    "Pasted image 20240206103115.png",
-    "Pasted image 20240206103026.png",
     "School/Database Concepts & Design/Database Concepts & Design.md",
-    "daily/2024/February/2024-02-06.md",
-    "Lecture 5.1 - Normalization and First Normal Form.md",
-    "Pasted image 20240206090854.png",
-    "Pasted image 20240206090830.png",
-    "Pasted image 20240206085943.png",
-    "Lecture 3.1 - Identifying Relationships.md",
-    "daily/2024/February/2024-02-04.md",
-    "daily/2024/February/2024-02-02.md",
-    "daily/2024/February/2024-02-01.md",
-    "Career Path Development/Lecture 3.md",
-    "daily/2024/February",
-    "daily/2024/January/2024-01-31.md",
-    "Lecture 3.3 - Relationship Types.md",
+    "Lecture 6.2 - Understanding CRUD Requirements.md",
+    "Lecture 6.1 - Relationship Transferability.md",
     "Lecture 2.1 - Conceptual and Physical Model.md",
     "Lecture 2.2 - Entities,  Instances, and Attributes.md",
-    "daily/2024/January/2024-01-30.md",
-    "daily/2024/January/2024-01-26.md",
+    "daily/2024/February/2024-02-13.md",
+    "daily/2024/February/2024-02-11.md",
     "Lecture 2.3 - Entity Relationship Model.md",
-    "School/Career Path Development/Lecture 3.md",
-    "daily/2024/January/2024-01-24.md",
-    "Career Path Development/Lecture 2.md",
-    "Career Path Development/Lecture 1.md",
-    "Career Path Development",
-    "daily/2024/January/2024-01-23.md",
-    "Database Design for Mere Mortals.md",
-    "1. The Relational Database.md",
-    "daily/2024/January/2024-01-21.md",
-    "01-05.jpg",
-    "01-04.jpg",
-    "School/Career Path Development",
-    "daily/2024/January",
-    "daily/2024",
-    "School/Database Concepts & Design",
-    "School/Adv. Front-End Programming"
-=======
-  "active": "9f94b739ba8ea871",
-  "lastOpenFiles": [
-    "School/Intro to Arts & Sciences/Journal 1 - Scientific Ways Of Knowing.md",
-    "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
-    "School/Globalization/Globalization.md",
-    "School/Database Concepts & Design/Database Concepts & Design.md",
-    "Career Path Development/Lecture 4.md",
-    "School/Technical Workplace Writ. Skills/Technical Workplace Writ. Skills.md",
-    "Career Path Development/Lecture 3.md",
-    "daily/2024/January/2024-01-31.md"
->>>>>>> f98e60623cdb8da0ef91a85d1d9d4b1d6078d6d6
+    "Lecture 5.3 - Normalization and Third Normal Form.md",
+    "2024-02-10.md",
+    "daily/2024/February/2024-02-09.md",
+    "Lecture 5.2 - Normalization and Second Normal Form.md",
+    "Pasted image 20240211115604.png",
+    "Pasted image 20240211115354.png",
+    "Pasted image 20240211113820.png",
+    "Lecture 3.3 - Relationship Types.md",
+    "Lecture 5.1 - Normalization and First Normal Form.md",
+    "Trial by Fire - How to do the painful work.md",
+    "Pasted image 20240209234403.png",
+    "Pasted image 20240209234147.png",
+    "Pasted image 20240209231447.png"
   ]
 }

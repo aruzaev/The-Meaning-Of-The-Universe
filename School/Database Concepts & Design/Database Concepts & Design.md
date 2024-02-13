@@ -24,5 +24,9 @@
 [[Lecture 5.2 - Normalization and Second Normal Form]]
 [[Lecture 5.3 - Normalization and Third Normal Form]]
 
+## Week 6
+
+[[Lecture 6.1 - Relationship Transferability]]
+[[Lecture 6.2 - Understanding CRUD Requirements]]
 [[Database Design for Mere Mortals]]
 
