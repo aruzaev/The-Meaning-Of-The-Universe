@@ -11,6 +11,13 @@ Some examples include:
 
 Understanding and analyzing information can also prevent mistakes and misunderstanding
 
+**Steps in database design**:
+
+1. **Requirement Analysis:** Understanding the business requirements and rules.
+2. **Conceptual Design:** Creating an ERD to represent the high-level structure of the database without delving into details specific to any database management system (DBMS).
+3. **Logical Design:** Refining the ERD to include keys, precise data types, and constraints, transitioning from a conceptual model to a logical model.
+4. **Physical Design:** Translating the logical model into a physical schema that can be implemented in a specific DBMS. This involves defining tables, columns, data types, constraints, and indexes.
+
 ## What is a Conceptual Model?
 
 A conceptual model is a structured business view of the data required to support the daily operations of a business
