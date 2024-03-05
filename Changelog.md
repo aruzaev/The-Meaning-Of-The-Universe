@@ -1,31 +1,10 @@
-<<<<<<< HEAD
-- 2024-02-07 at 18h18 · [[Lecture 5]]
-- 2024-02-07 at 16h23 · [[2024-02-07]]
-=======
-<<<<<<< HEAD
-- 2024-02-06 at 10h58 · [[2024-02-06]]
-- 2024-02-06 at 10h39 · [[Lecture 5.3 - Normalization and Third Normal Form]]
-- 2024-02-06 at 10h33 · [[Lecture 5.2 - Normalization and Second Normal Form]]
-- 2024-02-06 at 09h08 · [[Lecture 5.1 - Normalization and First Normal Form]]
-- 2024-02-06 at 08h40 · [[Database Concepts & Design]]
-- 2024-02-04 at 12h46 · [[2024-02-04]]
-- 2024-02-02 at 12h58 · [[2024-02-02]]
-- 2024-02-01 at 11h32 · [[2024-02-01]]
-- 2024-01-31 at 14h35 · [[2024-01-31]]
-- 2024-01-30 at 15h24 · [[Lecture 3.3 - Relationship Types]]
-=======
->>>>>>> 5fa4f99ad4ee7d7da7901ec7507fb8b05fa5afee
-- 2024-01-31 at 18h55 · [[Database Concepts & Design]]
-- 2024-01-31 at 18h52 · [[Lecture 4]]
-- 2024-01-31 at 17h14 · [[Lecture 3]]
-- 2024-01-31 at 17h07 · [[2024-01-31]]
-- 2024-01-24 at 15h51 · [[2024-01-23]]
-- 2024-01-24 at 15h51 · [[2024-01-20]]
-- 2024-01-24 at 15h51 · [[Lecture 2.3 - Entity Relationship Model]]
-- 2024-01-24 at 15h51 · [[Lecture 2.2 - Entities,  Instances, and Attributes]]
-<<<<<<< HEAD
-=======
-- 2024-01-24 at 15h51 · [[Lecture 2.1 - Conceptual and Physical Model]]
-- 2024-01-24 at 15h43 · [[2024-01-24]]
->>>>>>> f98e60623cdb8da0ef91a85d1d9d4b1d6078d6d6
->>>>>>> 5fa4f99ad4ee7d7da7901ec7507fb8b05fa5afee
+- 2024-02-21 at 12h42 · [[2024-02-21]]
+- 2024-02-19 at 14h57 · [[2024-02-19]]
+- 2024-02-14 at 17h42 · [[Lecture 6]]
+- 2024-02-14 at 12h16 · [[Lecture 5]]
+- 2024-02-14 at 12h16 · [[2024-02-14]]
+- 2024-02-09 at 18h33 · [[2024-02-09]]
+- 2024-02-09 at 12h09 · [[2024-01-26]]
+- 2024-02-09 at 12h09 · [[2024-01-30]]
+- 2024-02-09 at 12h09 · [[2024-02-04]]
+- 2024-02-09 at 12h09 · [[2024-02-06]]

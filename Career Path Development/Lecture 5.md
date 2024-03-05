@@ -20,7 +20,7 @@ When you apply for jobs, go into it with the mentality that you will get rejecte
 
 ---
 
-Sometimes we struggle to find the right words to best represent what we want to say in our resume and what skills we have
+Sometimes we struggle to find the right words to best represent what we want to say in our resume and what skills we 
 
 Use Jobscan
 

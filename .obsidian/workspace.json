@@ -1,75 +1,40 @@
 {
   "main": {
-    "id": "c195cfd876d4793e",
+    "id": "bcce901c9d38674b",
     "type": "split",
     "children": [
       {
-        "id": "b309ebabd2812065",
+        "id": "cdf58bb2fd669b9d",
         "type": "tabs",
         "children": [
           {
-            "id": "9f94b739ba8ea871",
+            "id": "c161d6d04df52bfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Career Path Development/Lecture 5.md",
-=======
-<<<<<<< HEAD
-                "file": "School/Database Concepts & Design/Database Concepts & Design.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d0b9e672a2cce55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture 5.3 - Normalization and Third Normal Form.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f420a1c07139c84c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024/February/2024-02-06.md",
-=======
-                "file": "Career Path Development/Lecture 4.md",
->>>>>>> f98e60623cdb8da0ef91a85d1d9d4b1d6078d6d6
->>>>>>> 5fa4f99ad4ee7d7da7901ec7507fb8b05fa5afee
+                "file": "daily/2024/February/2024-02-21.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "28a0b788a95809e0",
+    "id": "66168a373537eaac",
     "type": "split",
     "children": [
       {
-        "id": "9d660bd58e8912cd",
+        "id": "ffbbbf3aa5a44f09",
         "type": "tabs",
         "children": [
           {
-            "id": "f7bd7b1911db38e4",
+            "id": "5b9a615983770daf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -79,7 +44,7 @@
             }
           },
           {
-            "id": "4cfcf82cf357c4e6",
+            "id": "6ac5da4ab1b069b1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +59,7 @@
             }
           },
           {
-            "id": "6ec689a3ceb187ad",
+            "id": "b776785c5f8c03c1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -105,19 +70,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "459b6683eb8589c5",
+    "id": "2c38e206fec08175",
     "type": "split",
     "children": [
       {
-        "id": "ea1fddf6ea1eeb93",
+        "id": "22aa23a954368d19",
         "type": "tabs",
         "children": [
           {
-            "id": "fdb97f57e9aeeb81",
+            "id": "d19d573de02a5adf",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -125,20 +89,12 @@
             }
           },
           {
-            "id": "240b6406726324b5",
+            "id": "88eb5707d462472d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Career Path Development/Lecture 5.md",
-=======
-<<<<<<< HEAD
-                "file": "daily/2024/February/2024-02-06.md",
-=======
-                "file": "Career Path Development/Lecture 4.md",
->>>>>>> f98e60623cdb8da0ef91a85d1d9d4b1d6078d6d6
->>>>>>> 5fa4f99ad4ee7d7da7901ec7507fb8b05fa5afee
+                "file": "daily/2024/February/2024-02-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,27 +106,19 @@
             }
           },
           {
-            "id": "d53e2bad9e604e6e",
+            "id": "ee27e20883018a7f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Career Path Development/Lecture 5.md",
-=======
-<<<<<<< HEAD
-                "file": "daily/2024/February/2024-02-06.md",
-=======
-                "file": "Career Path Development/Lecture 4.md",
->>>>>>> f98e60623cdb8da0ef91a85d1d9d4b1d6078d6d6
->>>>>>> 5fa4f99ad4ee7d7da7901ec7507fb8b05fa5afee
+                "file": "daily/2024/February/2024-02-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e781f241f58444c1",
+            "id": "a1c4b0e806526631",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -181,20 +129,12 @@
             }
           },
           {
-            "id": "80bf074298ffd987",
+            "id": "b44dcaabbed3d009",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Career Path Development/Lecture 5.md"
-=======
-<<<<<<< HEAD
-                "file": "daily/2024/February/2024-02-06.md"
-=======
-                "file": "Career Path Development/Lecture 4.md"
->>>>>>> f98e60623cdb8da0ef91a85d1d9d4b1d6078d6d6
->>>>>>> 5fa4f99ad4ee7d7da7901ec7507fb8b05fa5afee
+                "file": "daily/2024/February/2024-02-21.md"
               }
             }
           }
@@ -216,65 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "f420a1c07139c84c",
+  "active": "c161d6d04df52bfa",
   "lastOpenFiles": [
-    "Lecture 5.3 - Normalization and Third Normal Form.md",
-    "Screenshot 2024-02-06 at 10.38.53 AM.png",
-    "Pasted image 20240206103856.png",
-    "Pasted image 20240206103839.png",
-    "Lecture 5.2 - Normalization and Second Normal Form.md",
-    "Pasted image 20240206103115.png",
-    "Pasted image 20240206103026.png",
-    "School/Database Concepts & Design/Database Concepts & Design.md",
-    "daily/2024/February/2024-02-06.md",
-    "Lecture 5.1 - Normalization and First Normal Form.md",
-    "Pasted image 20240206090854.png",
-    "Pasted image 20240206090830.png",
-    "Pasted image 20240206085943.png",
-    "Lecture 3.1 - Identifying Relationships.md",
-    "daily/2024/February/2024-02-04.md",
-    "daily/2024/February/2024-02-02.md",
-    "daily/2024/February/2024-02-01.md",
-    "Career Path Development/Lecture 3.md",
-    "daily/2024/February",
-    "daily/2024/January/2024-01-31.md",
-    "Lecture 3.3 - Relationship Types.md",
-    "Lecture 2.1 - Conceptual and Physical Model.md",
-    "Lecture 2.2 - Entities,  Instances, and Attributes.md",
-    "daily/2024/January/2024-01-30.md",
-    "daily/2024/January/2024-01-26.md",
-    "Lecture 2.3 - Entity Relationship Model.md",
-    "School/Career Path Development/Lecture 3.md",
-    "daily/2024/January/2024-01-24.md",
-    "Career Path Development/Lecture 2.md",
-    "Career Path Development/Lecture 1.md",
-    "Career Path Development",
-    "daily/2024/January/2024-01-23.md",
-    "Database Design for Mere Mortals.md",
-    "1. The Relational Database.md",
-    "daily/2024/January/2024-01-21.md",
-    "01-05.jpg",
-    "01-04.jpg",
-    "School/Career Path Development",
-    "daily/2024/January",
-    "daily/2024",
-    "School/Database Concepts & Design",
-    "School/Adv. Front-End Programming"
-=======
-  "active": "9f94b739ba8ea871",
-  "lastOpenFiles": [
-    "Career Path Development/Lecture 4.md",
+    "daily/2024/February/2024-02-19.md",
+    "daily/2024/February/2024-02-21.md",
+    "Career Path Development/Lecture 6.md",
     "Career Path Development/Lecture 5.md",
-    "daily/2024/February/2024-02-07.md",
-    "daily/2024/February",
-    "School/Intro to Arts & Sciences/Journal 1 - Scientific Ways Of Knowing.md",
-    "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
-    "School/Globalization/Globalization.md",
-    "School/Database Concepts & Design/Database Concepts & Design.md",
-    "School/Technical Workplace Writ. Skills/Technical Workplace Writ. Skills.md",
-    "Career Path Development/Lecture 3.md",
-    "daily/2024/January/2024-01-31.md"
->>>>>>> f98e60623cdb8da0ef91a85d1d9d4b1d6078d6d6
+    "daily/2024/February/2024-02-14.md",
+    "daily/2024/February/2024-02-09.md"
   ]
 }
