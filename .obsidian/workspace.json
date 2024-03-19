@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 6.2 - Understanding CRUD Requirements.md",
+                "file": "daily/2024/February/2024-02-27.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "261e253fb3d4f419",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Career Path Development/Lecture 6.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 6.2 - Understanding CRUD Requirements.md",
+                "file": "Career Path Development/Lecture 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 6.2 - Understanding CRUD Requirements.md",
+                "file": "Career Path Development/Lecture 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 6.2 - Understanding CRUD Requirements.md"
+                "file": "Career Path Development/Lecture 6.md"
               }
             }
           }
@@ -210,12 +223,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e9fd6eb1d9d34dc",
+  "active": "261e253fb3d4f419",
   "lastOpenFiles": [
+    "daily/2024/March/2024-03-13.md",
+    "Career Path Development/Lecture 6.md",
+    "daily/2024/March/2024-03-06.md",
+    "daily/2024/March",
+    "daily/2024/February/2024-02-16.md",
+    "daily/2024/February/2024-02-27.md",
+    "Lecture 6.2 - Understanding CRUD Requirements.md",
     "daily/2024/February/2024-02-07.md",
     "Career Path Development/Lecture 5.md",
     "School/Database Concepts & Design/Database Concepts & Design.md",
-    "Lecture 6.2 - Understanding CRUD Requirements.md",
     "Lecture 6.1 - Relationship Transferability.md",
     "Lecture 2.1 - Conceptual and Physical Model.md",
     "Lecture 2.2 - Entities,  Instances, and Attributes.md",
