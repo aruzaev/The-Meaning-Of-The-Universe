@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Elevator pitch is a brief professional introduction in a clear and crisp way
 
 It is called elevator because it takes the same amount of time to introduce yourself as it does to ride the elevator
@@ -10,3 +11,12 @@ one achievement and your institution
 say passion and what youre passionate about
 smile so much
 include numbers (how many books i read, hours studies)
+=======
+the picture and the banner is the most important element of your linkedin
+
+your profile is your way to brand yourself
+
+Your profile picture should show at least your torso, keep it professional
+
+Use hashtags to be more searchable
+>>>>>>> 966412def9aa5ac9eebf7348f20757af391571a3

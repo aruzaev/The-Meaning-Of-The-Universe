@@ -1,5 +1,16 @@
 {
   "main": {
+<<<<<<< HEAD
+    "id": "bcce901c9d38674b",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdf58bb2fd669b9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c161d6d04df52bfa",
+=======
     "id": "5af9769bc5aca395",
     "type": "split",
     "children": [
@@ -9,10 +20,14 @@
         "children": [
           {
             "id": "3220595e430b1421",
+>>>>>>> 7a30c196731ac313f9de7a5c8ccd4a2284a82cf1
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
+                "file": "daily/2024/February/2024-02-21.md",
+=======
                 "file": "School/Database Concepts & Design/Database Concepts & Design.md",
                 "mode": "source",
                 "backlinks": true,
@@ -79,19 +94,39 @@
               "type": "markdown",
               "state": {
                 "file": "Lecture 2.3 - Entity Relationship Model.md",
+>>>>>>> 7a30c196731ac313f9de7a5c8ccd4a2284a82cf1
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
+<<<<<<< HEAD
+        ]
+=======
         ],
+<<<<<<< HEAD
         "currentTab": 2
+=======
+        "currentTab": 1
+>>>>>>> 7a30c196731ac313f9de7a5c8ccd4a2284a82cf1
+>>>>>>> 966412def9aa5ac9eebf7348f20757af391571a3
       }
     ],
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
+    "id": "66168a373537eaac",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffbbbf3aa5a44f09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b9a615983770daf",
+=======
     "id": "c540c569cfd23d07",
     "type": "split",
     "children": [
@@ -101,6 +136,7 @@
         "children": [
           {
             "id": "eaa22ed2e8998e25",
+>>>>>>> 7a30c196731ac313f9de7a5c8ccd4a2284a82cf1
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -110,7 +146,11 @@
             }
           },
           {
+<<<<<<< HEAD
+            "id": "6ac5da4ab1b069b1",
+=======
             "id": "18100cb92369519b",
+>>>>>>> 7a30c196731ac313f9de7a5c8ccd4a2284a82cf1
             "type": "leaf",
             "state": {
               "type": "search",
@@ -125,7 +165,11 @@
             }
           },
           {
+<<<<<<< HEAD
+            "id": "b776785c5f8c03c1",
+=======
             "id": "47ae579d7c62a1a5",
+>>>>>>> 7a30c196731ac313f9de7a5c8ccd4a2284a82cf1
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -136,10 +180,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
+<<<<<<< HEAD
+    "id": "2c38e206fec08175",
+    "type": "split",
+    "children": [
+      {
+        "id": "22aa23a954368d19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d19d573de02a5adf",
+=======
     "id": "2a937730a9fb4551",
     "type": "split",
     "children": [
@@ -149,6 +203,7 @@
         "children": [
           {
             "id": "79d70d75ff008fa2",
+>>>>>>> 7a30c196731ac313f9de7a5c8ccd4a2284a82cf1
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -156,12 +211,24 @@
             }
           },
           {
+<<<<<<< HEAD
+            "id": "88eb5707d462472d",
+=======
             "id": "13614353b822211b",
+>>>>>>> 7a30c196731ac313f9de7a5c8ccd4a2284a82cf1
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Career Path Development/Lecture 6.md",
+=======
+<<<<<<< HEAD
+                "file": "daily/2024/February/2024-02-21.md",
+=======
+                "file": "Lecture 6.2 - Understanding CRUD Requirements.md",
+>>>>>>> 7a30c196731ac313f9de7a5c8ccd4a2284a82cf1
+>>>>>>> 966412def9aa5ac9eebf7348f20757af391571a3
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,19 +240,35 @@
             }
           },
           {
+<<<<<<< HEAD
+            "id": "ee27e20883018a7f",
+=======
             "id": "7a52081bc71c20e6",
+>>>>>>> 7a30c196731ac313f9de7a5c8ccd4a2284a82cf1
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Career Path Development/Lecture 6.md",
+=======
+<<<<<<< HEAD
+                "file": "daily/2024/February/2024-02-21.md",
+=======
+                "file": "Lecture 6.2 - Understanding CRUD Requirements.md",
+>>>>>>> 7a30c196731ac313f9de7a5c8ccd4a2284a82cf1
+>>>>>>> 966412def9aa5ac9eebf7348f20757af391571a3
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
+<<<<<<< HEAD
+            "id": "a1c4b0e806526631",
+=======
             "id": "f2845ed5f3d90a45",
+>>>>>>> 7a30c196731ac313f9de7a5c8ccd4a2284a82cf1
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -196,12 +279,24 @@
             }
           },
           {
+<<<<<<< HEAD
+            "id": "b44dcaabbed3d009",
+=======
             "id": "2dbe34290d8a6c57",
+>>>>>>> 7a30c196731ac313f9de7a5c8ccd4a2284a82cf1
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Career Path Development/Lecture 6.md"
+=======
+<<<<<<< HEAD
+                "file": "daily/2024/February/2024-02-21.md"
+=======
+                "file": "Lecture 6.2 - Understanding CRUD Requirements.md"
+>>>>>>> 7a30c196731ac313f9de7a5c8ccd4a2284a82cf1
+>>>>>>> 966412def9aa5ac9eebf7348f20757af391571a3
               }
             }
           }
@@ -223,7 +318,21 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "261e253fb3d4f419",
+=======
+<<<<<<< HEAD
+  "active": "c161d6d04df52bfa",
+  "lastOpenFiles": [
+    "daily/2024/February/2024-02-19.md",
+    "daily/2024/February/2024-02-21.md",
+    "Career Path Development/Lecture 6.md",
+    "Career Path Development/Lecture 5.md",
+    "daily/2024/February/2024-02-14.md",
+    "daily/2024/February/2024-02-09.md"
+=======
+  "active": "3e9fd6eb1d9d34dc",
+>>>>>>> 966412def9aa5ac9eebf7348f20757af391571a3
   "lastOpenFiles": [
     "daily/2024/March/2024-03-13.md",
     "Career Path Development/Lecture 6.md",
@@ -254,5 +363,6 @@
     "Pasted image 20240209234403.png",
     "Pasted image 20240209234147.png",
     "Pasted image 20240209231447.png"
+>>>>>>> 7a30c196731ac313f9de7a5c8ccd4a2284a82cf1
   ]
 }
