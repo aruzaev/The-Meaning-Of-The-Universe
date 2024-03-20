@@ -13,7 +13,80 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Career Path Development/Lecture 6.md",
+=======
+<<<<<<< HEAD
+                "file": "daily/2024/February/2024-02-21.md",
+=======
+                "file": "School/Database Concepts & Design/Database Concepts & Design.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e9fd6eb1d9d34dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024/February/2024-02-27.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "261e253fb3d4f419",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Career Path Development/Lecture 6.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6ba3f1a5f894cba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Database Concepts & Design/Database Concepts & Design.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddab6f78fde307d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 2.1 - Conceptual and Physical Model.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "166a01dc5a70cd15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 2.3 - Entity Relationship Model.md",
+>>>>>>> 7a30c196731ac313f9de7a5c8ccd4a2284a82cf1
+>>>>>>> 9f289f51d4781646d192673dd361fe5e8a02f7b0
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,6 +94,17 @@
             }
           }
         ]
+<<<<<<< HEAD
+=======
+=======
+        ],
+<<<<<<< HEAD
+        "currentTab": 2
+=======
+        "currentTab": 1
+>>>>>>> 7a30c196731ac313f9de7a5c8ccd4a2284a82cf1
+>>>>>>> 966412def9aa5ac9eebf7348f20757af391571a3
+>>>>>>> 9f289f51d4781646d192673dd361fe5e8a02f7b0
       }
     ],
     "direction": "vertical"
@@ -94,7 +178,19 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Career Path Development/Lecture 6.md",
+=======
+<<<<<<< HEAD
+                "file": "Career Path Development/Lecture 6.md",
+=======
+<<<<<<< HEAD
+                "file": "daily/2024/February/2024-02-21.md",
+=======
+                "file": "Lecture 6.2 - Understanding CRUD Requirements.md",
+>>>>>>> 7a30c196731ac313f9de7a5c8ccd4a2284a82cf1
+>>>>>>> 966412def9aa5ac9eebf7348f20757af391571a3
+>>>>>>> 9f289f51d4781646d192673dd361fe5e8a02f7b0
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +207,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Career Path Development/Lecture 6.md",
+=======
+<<<<<<< HEAD
+                "file": "Career Path Development/Lecture 6.md",
+=======
+<<<<<<< HEAD
+                "file": "daily/2024/February/2024-02-21.md",
+=======
+                "file": "Lecture 6.2 - Understanding CRUD Requirements.md",
+>>>>>>> 7a30c196731ac313f9de7a5c8ccd4a2284a82cf1
+>>>>>>> 966412def9aa5ac9eebf7348f20757af391571a3
+>>>>>>> 9f289f51d4781646d192673dd361fe5e8a02f7b0
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +242,19 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Career Path Development/Lecture 6.md"
+=======
+<<<<<<< HEAD
+                "file": "Career Path Development/Lecture 6.md"
+=======
+<<<<<<< HEAD
+                "file": "daily/2024/February/2024-02-21.md"
+=======
+                "file": "Lecture 6.2 - Understanding CRUD Requirements.md"
+>>>>>>> 7a30c196731ac313f9de7a5c8ccd4a2284a82cf1
+>>>>>>> 966412def9aa5ac9eebf7348f20757af391571a3
+>>>>>>> 9f289f51d4781646d192673dd361fe5e8a02f7b0
               }
             }
           }
@@ -156,13 +276,40 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "b94f6cb3f0416b35",
+=======
+<<<<<<< HEAD
+  "active": "261e253fb3d4f419",
+=======
+<<<<<<< HEAD
+  "active": "c161d6d04df52bfa",
+>>>>>>> 9f289f51d4781646d192673dd361fe5e8a02f7b0
   "lastOpenFiles": [
     "Career Path Development/Lecture 4.md",
     "Career Path Development/Lecture 5.md",
     "Career Path Development/Lecture 6.md",
+<<<<<<< HEAD
     "Lecture 6.2 - Understanding CRUD Requirements.md",
     "daily/2024/March/2024-03-13.md",
+=======
+    "Career Path Development/Lecture 5.md",
+    "daily/2024/February/2024-02-14.md",
+    "daily/2024/February/2024-02-09.md"
+=======
+  "active": "3e9fd6eb1d9d34dc",
+>>>>>>> 966412def9aa5ac9eebf7348f20757af391571a3
+  "lastOpenFiles": [
+    "daily/2024/March/2024-03-13.md",
+    "Career Path Development/Lecture 6.md",
+    "daily/2024/March/2024-03-06.md",
+    "daily/2024/March",
+    "daily/2024/February/2024-02-16.md",
+    "daily/2024/February/2024-02-27.md",
+    "Lecture 6.2 - Understanding CRUD Requirements.md",
+    "daily/2024/February/2024-02-07.md",
+    "Career Path Development/Lecture 5.md",
+>>>>>>> 9f289f51d4781646d192673dd361fe5e8a02f7b0
     "School/Database Concepts & Design/Database Concepts & Design.md",
     "Lecture 6.1 - Relationship Transferability.md",
     "daily/2024/March/2024-03-05.md",
