@@ -28,5 +28,7 @@
 
 [[Lecture 6.1 - Relationship Transferability]]
 [[Lecture 6.2 - Understanding CRUD Requirements]]
+
+
 [[Database Design for Mere Mortals]]
 
