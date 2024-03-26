@@ -29,7 +29,6 @@
 [[Lecture 6.1 - Relationship Transferability]]
 [[Lecture 6.2 - Understanding CRUD Requirements]]
 
-<<<<<<< HEAD
 ## Week 8
 [[Lecture 8.1 - Intro to Relations]]
 [[Lecture 8.2 - Basic Mapping]]
@@ -38,8 +37,6 @@
 [[Lecture 8.3 - Relational Mapping]]
 [[Lecture 8.4 - Subtype Mapping]]
 
-=======
->>>>>>> da9ccac2f48c17ee735b937c133035e9b1092756
 
 [[Database Design for Mere Mortals]]
 
