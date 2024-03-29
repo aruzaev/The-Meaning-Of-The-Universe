@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024/March/2024-03-26.md",
+                "file": "Career Path Development/Lecture 8.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Database Concepts & Design/Database Concepts & Design.md",
+                "file": "Lecture 8.3 - Relational Mapping.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6015d6f7e9d4004e",
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024/March/2024-03-26.md",
+                "file": "Career Path Development/Lecture 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024/March/2024-03-26.md",
+                "file": "Career Path Development/Lecture 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024/March/2024-03-26.md"
+                "file": "Career Path Development/Lecture 8.md"
               }
             }
           }
@@ -198,29 +197,41 @@
   },
   "active": "360aad8817b74517",
   "lastOpenFiles": [
+    "daily/2024/March/2024-03-27.md",
+    "School/Technical Workplace Writ. Skills/Audience and Purpose/Audience and Purpose.md",
+    "School/Technical Workplace Writ. Skills/Audience and Purpose/Audience Analysis.md",
+    "School/Technical Workplace Writ. Skills/Composing workplace correspondence.md",
+    "School/Technical Workplace Writ. Skills/Technical Workplace Writ. Skills.md",
+    "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
+    "School/Intro to Arts & Sciences/Journal 1 - Scientific Ways Of Knowing.md",
+    "School/Globalization/Globalization.md",
+    "What is globalization.md",
+    "Politics and Globalization Part 1.md",
+    "Introduction to Orientalism.md",
+    "The Complexity of Identity.md",
     "School/Database Concepts & Design/Database Concepts & Design.md",
+    "Lecture 2.1 - Conceptual and Physical Model.md",
+    "School/Adv. Front-End Programming/Adv. Front-End Programming.md",
     "daily/2024/March/2024-03-26.md",
-    "daily/2024/March/2024-03-22.md",
     "Lecture 8.4 - Subtype Mapping.md",
+    "Lecture 8.3 - Relational Mapping.md",
+    "Lecture 8.2 - Basic Mapping.md",
+    "Lecture 8.1 - Intro to Relations.md",
+    "daily/2024/March/2024-03-22.md",
     "daily/2024/March/2024-03-05.md",
     "Career Path Development/Lecture 8.md",
     "Pasted image 20240322161559.png",
     "Pasted image 20240322161541.png",
     "Pasted image 20240322160317.png",
     "Pasted image 20240322155943.png",
-    "Lecture 8.3 - Relational Mapping.md",
     "Pasted image 20240322154720.png",
     "Pasted image 20240322154634.png",
     "Pasted image 20240322154354.png",
     "Pasted image 20240322154201.png",
-    "Lecture 8.2 - Basic Mapping.md",
     "Pasted image 20240322153848.png",
     "Pasted image 20240322153657.png",
-    "Lecture 8.1 - Intro to Relations.md",
     "daily/2024/March/2024-03-21.md",
     "Untitled.md",
-    "daily/2024/March/2024-03-20.md",
-    "Career Path Development/Lecture 6.md",
-    "daily/2024/March/2024-03-19.md"
+    "daily/2024/March/2024-03-20.md"
   ]
 }
