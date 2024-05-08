@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 - 2024-04-10 at 17h19 · [[Lecture 6]]
 - 2024-04-10 at 15h45 · [[2024-04-10]]
 - 2024-04-06 at 13h09 · [[2024-04-06]]
@@ -8,3 +9,15 @@
 - 2024-03-24 at 18h54 · [[daily note]]
 - 2024-03-24 at 18h54 · [[day planner]]
 - 2024-03-24 at 18h54 · [[The Banality of Heroism]]
+=======
+- 2024-05-08 at 09h32 · [[Introduction to big O]]
+- 2024-05-08 at 09h32 · [[Introduction]]
+- 2024-05-08 at 09h29 · [[Leetcode Crash Course]]
+- 2024-05-07 at 11h51 · [[Untitled 1]]
+- 2024-05-07 at 11h49 · [[2024-05-07]]
+- 2024-04-23 at 08h45 · [[Static Typing]]
+- 2024-04-23 at 08h39 · [[2024-04-23]]
+- 2024-04-09 at 16h08 · [[Lecture 9.3 - Modelling Change Price]]
+- 2024-04-09 at 15h53 · [[Database Concepts & Design]]
+- 2024-04-09 at 15h52 · [[Lecture 9.4 - Drawing Conventions for Readability]]
+>>>>>>> 664bdb3ad55fefd867a8c8c093202a939237a1f1
