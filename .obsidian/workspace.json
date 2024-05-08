@@ -1,14 +1,27 @@
 {
   "main": {
-    "id": "bff846098f80c1b2",
+    "id": "44183e3a06d7d646",
     "type": "split",
     "children": [
       {
-        "id": "7f52fe58b7904bf5",
+        "id": "62db3168e709c838",
         "type": "tabs",
         "children": [
           {
-            "id": "67a270a03328772b",
+            "id": "2a830fe91b2833b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024/May/2024-05-07.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94b6796d931a41a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +34,7 @@
             }
           },
           {
-            "id": "e8ef1df2bf0efffe",
+            "id": "3091c51b51592838",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,7 +47,33 @@
             }
           },
           {
-            "id": "4a48c3ac799654e5",
+            "id": "25180ab1601b6cb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Leetcode Crash Course/Leetcode Crash Course.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02d5149893204187",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92a227fa187bc919",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,21 +86,21 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a98834af05947111",
+    "id": "a74ff9ca5c28c079",
     "type": "split",
     "children": [
       {
-        "id": "012586d45be85e0a",
+        "id": "a45fe27669994cee",
         "type": "tabs",
         "children": [
           {
-            "id": "5eaf16a2d1a8b001",
+            "id": "284617d525bd7a35",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -71,7 +110,7 @@
             }
           },
           {
-            "id": "fa22b05e09c2b4f0",
+            "id": "499d8792febc024e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -86,7 +125,7 @@
             }
           },
           {
-            "id": "f95ec94fccf75aee",
+            "id": "2d5ebb6552bca8ab",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,18 +136,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "d607366c5609a7eb",
+    "id": "6015d6f7e9d4004e",
     "type": "split",
     "children": [
       {
-        "id": "17e73b413e3d1518",
+        "id": "0bc104bb81bb4dee",
         "type": "tabs",
         "children": [
           {
-            "id": "21d0ed8f2fae2186",
+            "id": "e210845ec4ba16fe",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -116,7 +156,7 @@
             }
           },
           {
-            "id": "f1db99d480c817fd",
+            "id": "2dce71fd16fa777c",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -133,7 +173,7 @@
             }
           },
           {
-            "id": "265024830d2f4ea9",
+            "id": "093e11e212b66bb0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -145,7 +185,7 @@
             }
           },
           {
-            "id": "3083264b6296dcd1",
+            "id": "598e831534ea2861",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -156,7 +196,7 @@
             }
           },
           {
-            "id": "b9bb0a922e35071a",
+            "id": "c9537f2ef37ad462",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -183,10 +223,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a48c3ac799654e5",
+  "active": "284617d525bd7a35",
   "lastOpenFiles": [
+    "daily/2024/May/2024-05-08.md",
+    "daily/2024/March/2024-03-25.md",
+    "daily/2024/March/2024-03-24.md",
+    "daily/2024/April/2024-04-10.md",
+    "daily/2024/April/2024-04-06.md",
     "Introduction.md",
     "DSA/Leetcode Crash Course/Leetcode Crash Course.md",
-    "daily/2024/May/2024-05-08.md"
+    "Introduction to big O.md",
+    "Chapter 1 - Introduction.md",
+    "DSA/Intro1/Static Typing.md",
+    "DSA/Leetcode Crash Course",
+    "Untitled 1.md",
+    "Untitled",
+    "daily/2024/May/2024-05-07.md",
+    "daily/2024/May",
+    "daily/2024/April/2024-04-23.md",
+    "DSA/Intro1",
+    "Career Path Development/Lecture 8.md",
+    "Career Path Development/Lecture 5.md",
+    "Career Path Development/Lecture 6.md",
+    "Career Path Development/Lecture 4.md",
+    "daily/2024/April/2024-04-09.md",
+    "Lecture 9.4 - Drawing Conventions for Readability.md",
+    "daily/2024/March/2024-03-29.md",
+    "School/Database Concepts & Design/Database Concepts & Design.md",
+    "Lecture 9.3 - Modelling Change Price.md",
+    "Pasted image 20240409160719.png",
+    "Pasted image 20240409160355.png",
+    "Pasted image 20240409160145.png",
+    "Pasted image 20240409154745.png",
+    "Pasted image 20240409154412.png",
+    "Pasted image 20240409154208.png",
+    "Lecture 9.1 - Modelling Historical Data.md",
+    "daily/2024/April",
+    "Lecture 8.3 - Relational Mapping.md",
+    "daily/2024/March/2024-03-22.md",
+    "daily/2024/March/2024-03-27.md",
+    "Pasted image 20240322161559.png",
+    "Pasted image 20240322161541.png",
+    "Pasted image 20240322160317.png",
+    "Pasted image 20240322155943.png"
   ]
 }
