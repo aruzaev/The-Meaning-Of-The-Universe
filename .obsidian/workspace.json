@@ -1,72 +1,18 @@
 {
   "main": {
-    "id": "44183e3a06d7d646",
+    "id": "bff846098f80c1b2",
     "type": "split",
     "children": [
       {
-        "id": "62db3168e709c838",
+        "id": "7f52fe58b7904bf5",
         "type": "tabs",
         "children": [
           {
-            "id": "2a830fe91b2833b0",
+            "id": "67a270a03328772b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024/May/2024-05-07.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94b6796d931a41a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "Career Path Development/Lecture 6.md",
-=======
-                "file": "DSA/Leetcode Crash Course/Leetcode Crash Course.md",
->>>>>>> 664bdb3ad55fefd867a8c8c093202a939237a1f1
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3091c51b51592838",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "daily/2024/April/2024-04-06.md",
-=======
-                "file": "Introduction.md",
->>>>>>> 664bdb3ad55fefd867a8c8c093202a939237a1f1
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-<<<<<<< HEAD
-            "id": "ec2dd84427a476d5",
-=======
-            "id": "25180ab1601b6cb2",
->>>>>>> 664bdb3ad55fefd867a8c8c093202a939237a1f1
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "daily/2024/April/2024-04-10.md",
-=======
                 "file": "DSA/Leetcode Crash Course/Leetcode Crash Course.md",
                 "mode": "source",
                 "backlinks": true,
@@ -75,7 +21,7 @@
             }
           },
           {
-            "id": "02d5149893204187",
+            "id": "e8ef1df2bf0efffe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,13 +34,12 @@
             }
           },
           {
-            "id": "92a227fa187bc919",
+            "id": "4a48c3ac799654e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Introduction to big O.md",
->>>>>>> 664bdb3ad55fefd867a8c8c093202a939237a1f1
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,25 +47,21 @@
             }
           }
         ],
-<<<<<<< HEAD
-        "currentTab": 1
-=======
-        "currentTab": 5
->>>>>>> 664bdb3ad55fefd867a8c8c093202a939237a1f1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a74ff9ca5c28c079",
+    "id": "a98834af05947111",
     "type": "split",
     "children": [
       {
-        "id": "a45fe27669994cee",
+        "id": "012586d45be85e0a",
         "type": "tabs",
         "children": [
           {
-            "id": "284617d525bd7a35",
+            "id": "5eaf16a2d1a8b001",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -130,7 +71,7 @@
             }
           },
           {
-            "id": "499d8792febc024e",
+            "id": "fa22b05e09c2b4f0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -145,7 +86,7 @@
             }
           },
           {
-            "id": "2d5ebb6552bca8ab",
+            "id": "f95ec94fccf75aee",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -156,18 +97,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "6015d6f7e9d4004e",
+    "id": "d607366c5609a7eb",
     "type": "split",
     "children": [
       {
-        "id": "0bc104bb81bb4dee",
+        "id": "17e73b413e3d1518",
         "type": "tabs",
         "children": [
           {
-            "id": "e210845ec4ba16fe",
+            "id": "21d0ed8f2fae2186",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -175,16 +116,12 @@
             }
           },
           {
-            "id": "2dce71fd16fa777c",
+            "id": "f1db99d480c817fd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Career Path Development/Lecture 6.md",
-=======
                 "file": "Introduction to big O.md",
->>>>>>> 664bdb3ad55fefd867a8c8c093202a939237a1f1
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,23 +133,19 @@
             }
           },
           {
-            "id": "093e11e212b66bb0",
+            "id": "265024830d2f4ea9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Career Path Development/Lecture 6.md",
-=======
                 "file": "Introduction to big O.md",
->>>>>>> 664bdb3ad55fefd867a8c8c093202a939237a1f1
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "598e831534ea2861",
+            "id": "3083264b6296dcd1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -223,16 +156,12 @@
             }
           },
           {
-            "id": "c9537f2ef37ad462",
+            "id": "b9bb0a922e35071a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Career Path Development/Lecture 6.md"
-=======
                 "file": "Introduction to big O.md"
->>>>>>> 664bdb3ad55fefd867a8c8c093202a939237a1f1
               }
             }
           }
@@ -245,90 +174,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "1f24e1b8f969f21b",
-  "lastOpenFiles": [
-    "Career Path Development/Lecture 8.md",
-    "School/Database Concepts & Design/Database Concepts & Design.md",
-    "daily/2024/April/2024-04-06.md",
-    "daily/2024/April/2024-04-10.md",
-    "daily/2024/March/2024-03-25.md",
-    "daily/2024/April",
-    "daily/2024/March/2024-03-24.md",
-    "Lecture 8.4 - Subtype Mapping.md",
-    "daily/2024/March/2024-03-05.md",
-    "Pasted image 20240322161559.png",
-    "Pasted image 20240322161541.png",
-    "Pasted image 20240322160317.png",
-    "Pasted image 20240322155943.png",
-    "daily/2024/March/2024-03-22.md",
-    "Lecture 8.3 - Relational Mapping.md",
-    "Pasted image 20240322154720.png",
-    "Pasted image 20240322154634.png",
-    "Pasted image 20240322154354.png",
-    "Pasted image 20240322154201.png",
-    "Lecture 8.2 - Basic Mapping.md",
-    "Pasted image 20240322153848.png",
-    "Pasted image 20240322153657.png",
-    "Lecture 8.1 - Intro to Relations.md",
-    "daily/2024/March/2024-03-21.md",
-    "Untitled.md",
-    "daily/2024/March/2024-03-20.md",
-    "Career Path Development/Lecture 6.md",
-    "daily/2024/March/2024-03-19.md"
-=======
-  "active": "92a227fa187bc919",
+  "active": "4a48c3ac799654e5",
   "lastOpenFiles": [
     "Introduction.md",
     "DSA/Leetcode Crash Course/Leetcode Crash Course.md",
-    "Introduction to big O.md",
-    "Chapter 1 - Introduction.md",
-    "DSA/Intro1/Static Typing.md",
-    "DSA/Leetcode Crash Course",
-    "Untitled 1.md",
-    "Untitled",
-    "daily/2024/May/2024-05-07.md",
-    "daily/2024/May",
-    "daily/2024/April/2024-04-23.md",
-    "DSA/Intro1",
-    "Career Path Development/Lecture 8.md",
-    "Career Path Development/Lecture 5.md",
-    "Career Path Development/Lecture 6.md",
-    "Career Path Development/Lecture 4.md",
-    "daily/2024/April/2024-04-09.md",
-    "Lecture 9.4 - Drawing Conventions for Readability.md",
-    "daily/2024/March/2024-03-29.md",
-    "School/Database Concepts & Design/Database Concepts & Design.md",
-    "Lecture 9.3 - Modelling Change Price.md",
-    "Pasted image 20240409160719.png",
-    "Pasted image 20240409160355.png",
-    "Pasted image 20240409160145.png",
-    "Pasted image 20240409154745.png",
-    "Pasted image 20240409154412.png",
-    "Pasted image 20240409154208.png",
-    "Lecture 9.1 - Modelling Historical Data.md",
-    "daily/2024/April",
-    "Lecture 8.3 - Relational Mapping.md",
-    "daily/2024/March/2024-03-22.md",
-    "daily/2024/March/2024-03-27.md",
-    "School/Technical Workplace Writ. Skills/Audience and Purpose/Audience and Purpose.md",
-    "School/Technical Workplace Writ. Skills/Audience and Purpose/Audience Analysis.md",
-    "School/Technical Workplace Writ. Skills/Composing workplace correspondence.md",
-    "School/Technical Workplace Writ. Skills/Technical Workplace Writ. Skills.md",
-    "School/Intro to Arts & Sciences/Intro to Arts & Sciences.md",
-    "Pasted image 20240322161559.png",
-    "Pasted image 20240322161541.png",
-    "Pasted image 20240322160317.png",
-    "Pasted image 20240322155943.png"
->>>>>>> 664bdb3ad55fefd867a8c8c093202a939237a1f1
+    "daily/2024/May/2024-05-08.md"
   ]
 }
