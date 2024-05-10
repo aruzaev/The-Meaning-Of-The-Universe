@@ -1,3 +1,5 @@
+- 2024-05-09 at 08h43 · [[Chapter 2 - Basic SQL Statements]]
+- 2024-05-09 at 08h16 · [[Database Programming]]
 - 2024-05-08 at 13h03 · [[Introduction to big O]]
 - 2024-05-08 at 11h53 · [[2024-05-08]]
 - 2024-05-08 at 11h53 · [[2024-03-25]]
@@ -6,5 +8,3 @@
 - 2024-05-08 at 11h53 · [[2024-04-06]]
 - 2024-05-08 at 11h53 · [[Lecture 6]]
 - 2024-05-08 at 09h32 · [[Introduction]]
-- 2024-05-08 at 09h29 · [[Leetcode Crash Course]]
-- 2024-05-07 at 11h51 · [[Untitled 1]]
