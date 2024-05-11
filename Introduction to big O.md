@@ -18,7 +18,7 @@ If you had an array called `nums` filled with positive integers and you wanted t
 4. Print out `largestNumber`
 
 When working with Leetcode and interview questions, the following rules must be implemented:
-- Algorithms should be **deterministic** which means that when a particular **input** is given, the same **output** should be given (There shouldn't be any randomness or unpredictability)
+- Algorithms should be **deterministic** which means that when a particular **input** is given, the same **output** should be given in return (There shouldn't be any randomness or unpredictability)
 - An algorithm should work for any arbitrary valid **input**. In the numbers example, there can be an infinite amount of possibilities for our array with different values and sizes. However they can only work for valid inputs, meaning that only positive integers would work
 
 The above can also be used in normal programming, as it ensures that the code is clear and simple
@@ -80,13 +80,12 @@ The number of operations depends on `n` or `nums`, NOT the other misc. steps
 ### Rules
 
 1. We ignore constants
-   
+
    Big O notation focuses on describing how the number of operations grows with input size, not the exact number of operations that are found in the entire program
    
    This means that functions such as O(9999999n), O(Sn), and O(500n) are all the same as O(n)
    
    ***Example***
-   
    Lets say that Algorithm A has `n` operations and Algorithm B has `5n` operations, when `n = 100`, A uses 100 operations and B uses 500
    
    However, when we double the number `n` of elements in the array, A now uses 200 operations and B uses 1000, even though the operations are larger in B, both algorithms still need **double the operations, no matter what their constants are**
@@ -102,7 +101,6 @@ The number of operations depends on `n` or `nums`, NOT the other misc. steps
    This essentially means that all of the variables that are added or subtracted from the main `n` can be ignored since as the input size grows to **infinity**, those additions or subtractions become pretty much close to zero
    
    ***Example***
-   
    O(2^n + n^2 - 500n) = O(2^n)
    
    If we had an algorithm that required n + 500 operations with a time complexity of O(n)
@@ -129,3 +127,97 @@ When choosing one to represent the algorithm's space or time complexity, you sho
 The reason for this is because it allows for us to see if the system can handle the maximum expected load without issues in performance, which gives us a guarantee that the algorithm will perform well under any kind of circumstances
 
 ## Analyzing time complexity
+
+```
+// Given an integer array "arr" with length n,
+
+for (int num: arr) {
+    print(num)
+}
+```
+
+This algorithm has a time complexity of O(n); this means that for each iteration of the loop, we make a print
+
+Each element of the array `arr` is printed exactly once
+If the array has `n` elements, there will be `n` print operations
+
+This print costs us O(1). Since the for loop iterates `n` times, we get a time complexity of O(1 * n) = O(n)
+
+This means that we will have a direct execution where the time needed to execute is **directly proportional** to the number of elements in the array
+
+If we double the size of the array, we will double the amount of print statements executed, which will double the execution time
+
+```
+// Given an integer array "arr" with length n,
+
+for (int num: arr) {
+    for (int i = 0; i < 500,000; i++) {
+        print(num)
+    }
+}
+```
+
+This algorithm also has a time complexity of O(n), for each loop iteration, we are printing, which costs us O(1) for the print statement
+
+For each element of the array, the inner loop will execute 500,000 print executions, thereby causing a significant slowdown of the algorithm
+
+Since there is a constant factor to it, it would be described as O(n * 500000), however the constant will be ignored
+
+And once again, since the for loop iterates `n` times, we get a time complexity of O(n)
+
+**Important**
+Although constants are usually ignored when talking about increasing `n` input size (which is why the algorithm is still O(n) like the first one), it is worth noting that executing 500,000 print statements after each element iteration will significantly slow things down
+
+The algorithm scales very poorly due to the high constant factor
+
+```
+// Given an integer array "arr" with length n,
+
+for (int num: arr) {
+    for (int num2: arr) {
+        print(num * num2)
+    }
+}
+```
+
+This algorithm has a time complexity of O(n^2), for each inner loop iteration, we perform a multiplication and print, which both cost O(1)
+
+Both the inner and outer loops cost O(n) because each loop runs `n` times, this means that we get a complexity of O(n * n) = O(n^2)
+
+This means that if the size of the array doubles, then the total amount of operations will quadruple
+
+This makes it quite practical and efficient for small arrays however scaling in the future will be very poor
+
+```
+// Given integer arrays "arr" with length n and "arr2" with length m,
+
+for (int num: arr) {
+    print(num)
+}
+
+for (int num: arr) {
+    print(num)
+}
+
+for (int num: arr2) {
+    print(num)
+}
+```
+
+This algorithm has a time complexity of O(n + m)
+
+The first two loops both cost O(n) and the final loop costs O(m) since it uses a different dataset
+
+This means that there's a time complexity of O(2n + m) = O(n + m)
+
+```
+// Given an integer array "arr" with length n,
+
+for (int i = 0; i < arr.length; i++) {
+    for (int j = i; j < arr.length; j++) {
+        print(arr[i] + arr[j])
+    }
+}
+```
+
+

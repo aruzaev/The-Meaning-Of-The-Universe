@@ -21,12 +21,25 @@
             }
           },
           {
-            "id": "99ec6e68a155c2b6",
+            "id": "0cc936daebf4fd11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2 - Basic SQL Statements.md",
+                "file": "Introduction.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa200f75b93d539f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to big O.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6015d6f7e9d4004e",
@@ -108,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2 - Basic SQL Statements.md",
+                "file": "Introduction to big O.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2 - Basic SQL Statements.md",
+                "file": "Introduction to big O.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2 - Basic SQL Statements.md"
+                "file": "Introduction to big O.md"
               }
             }
           }
@@ -170,18 +184,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99ec6e68a155c2b6",
+  "active": "fa200f75b93d539f",
   "lastOpenFiles": [
-    "Pasted image 20240509083509.png",
-    "Pasted image 20240509082723.png",
     "Database Programming/Database Programming.md",
-    "Chapter 2 - Basic SQL Statements.md",
-    "1. The Relational Database.md",
-    "Database Programming",
-    "CSS/CSS.md",
     "Introduction to big O.md",
     "Introduction.md",
     "DSA/Leetcode Crash Course/Leetcode Crash Course.md",
+    "Chapter 2 - Basic SQL Statements.md",
+    "Pasted image 20240509083509.png",
+    "Pasted image 20240509082723.png",
+    "1. The Relational Database.md",
+    "Database Programming",
+    "CSS/CSS.md",
     "daily/2024/May/2024-05-07.md",
     "daily/2024/May/2024-05-08.md",
     "daily/2024/March/2024-03-25.md",
@@ -212,7 +226,6 @@
     "Pasted image 20240409154208.png",
     "daily/2024/April",
     "Pasted image 20240322161559.png",
-    "Pasted image 20240322161541.png",
-    "Pasted image 20240322160317.png"
+    "Pasted image 20240322161541.png"
   ]
 }

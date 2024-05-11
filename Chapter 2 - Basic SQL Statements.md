@@ -46,3 +46,9 @@ Each section inside of the figure that begins with a keyword is called a **claus
 ### Selecting aa
 
 
+bugs
+flow ux and usability
+functional testing
+should be 30 - 40 features tests
+
+3-4 gen ai products

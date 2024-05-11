@@ -1,6 +1,6 @@
-- 2024-05-09 at 08h43 · [[Chapter 2 - Basic SQL Statements]]
+- 2024-05-11 at 11h54 · [[Introduction to big O]]
+- 2024-05-11 at 08h17 · [[Chapter 2 - Basic SQL Statements]]
 - 2024-05-09 at 08h16 · [[Database Programming]]
-- 2024-05-08 at 13h03 · [[Introduction to big O]]
 - 2024-05-08 at 11h53 · [[2024-05-08]]
 - 2024-05-08 at 11h53 · [[2024-03-25]]
 - 2024-05-08 at 11h53 · [[2024-03-24]]
