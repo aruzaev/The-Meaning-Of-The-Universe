@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "0cc936daebf4fd11",
+            "id": "ae6e3ecca1af069c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction.md",
+                "file": "Chapter 4 - Constraints.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,25 @@
             }
           },
           {
-            "id": "fa200f75b93d539f",
+            "id": "e3096cf4ba147e65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to big O.md",
+                "file": "daily/2024/May/2024-05-30.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21b1cecd6c480f5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 8 - Restricting Rows and Sorting Data.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to big O.md",
+                "file": "Chapter 4 - Constraints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to big O.md",
+                "file": "Chapter 4 - Constraints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to big O.md"
+                "file": "Chapter 4 - Constraints.md"
               }
             }
           }
@@ -184,13 +197,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa200f75b93d539f",
+  "active": "ae6e3ecca1af069c",
   "lastOpenFiles": [
-    "Database Programming/Database Programming.md",
-    "Introduction to big O.md",
-    "Introduction.md",
-    "DSA/Leetcode Crash Course/Leetcode Crash Course.md",
+    "Chapter 8 - Restricting Rows and Sorting Data.md",
     "Chapter 2 - Basic SQL Statements.md",
+    "daily/2024/May/2024-05-17.md",
+    "Chapter 4 - Constraints.md",
+    "Database Programming/Database Programming.md",
+    "daily/2024/May/2024-05-30.md",
+    "Chapter 3 - Table Creation and Management.md",
+    "Pasted image 20240521084343.png",
+    "Introduction.md",
+    "Introduction to big O.md",
+    "Pasted image 20240515182146.png",
+    "daily/2024/May/2024-05-15.md",
+    "DSA/Leetcode Crash Course/Leetcode Crash Course.md",
     "Pasted image 20240509083509.png",
     "Pasted image 20240509082723.png",
     "1. The Relational Database.md",
@@ -213,19 +234,12 @@
     "Career Path Development/Lecture 8.md",
     "Career Path Development/Lecture 5.md",
     "Career Path Development/Lecture 6.md",
-    "Career Path Development/Lecture 4.md",
-    "daily/2024/April/2024-04-09.md",
-    "Lecture 9.4 - Drawing Conventions for Readability.md",
-    "daily/2024/March/2024-03-29.md",
-    "School/Database Concepts & Design/Database Concepts & Design.md",
     "Pasted image 20240409160719.png",
     "Pasted image 20240409160355.png",
     "Pasted image 20240409160145.png",
     "Pasted image 20240409154745.png",
     "Pasted image 20240409154412.png",
     "Pasted image 20240409154208.png",
-    "daily/2024/April",
-    "Pasted image 20240322161559.png",
-    "Pasted image 20240322161541.png"
+    "daily/2024/April"
   ]
 }
