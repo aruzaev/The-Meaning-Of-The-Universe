@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+< m <<<<<< HEAD
 Elevator pitch is a brief professional introduction in a clear and crisp way
 
 It is called elevator because it takes the same amount of time to introduce yourself as it does to ride the elevator

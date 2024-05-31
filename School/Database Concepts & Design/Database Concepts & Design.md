@@ -29,6 +29,22 @@
 [[Lecture 6.1 - Relationship Transferability]]
 [[Lecture 6.2 - Understanding CRUD Requirements]]
 
+## Week 8
+[[Lecture 8.1 - Intro to Relations]]
+[[Lecture 8.2 - Basic Mapping]]
 
+## Week 9
+
+[[Lecture 8.3 - Relational Mapping]]
+[[Lecture 8.4 - Subtype Mapping]]
+
+## Week 10
+[[Lecture 9.1 - Modelling Historical Data]]
+[[Lecture 9.2 - Modelling Change Time]]
+
+## Week 11
+
+[[Lecture 9.3 - Modelling Change Price]]
+[[Lecture 9.4 - Drawing Conventions for Readability]]
 [[Database Design for Mere Mortals]]
 
