@@ -1,4 +1,6 @@
-- 2024-05-30 at 09h05 · [[Chapter 4 - Constraints]]
+- 2024-06-09 at 13h45 · [[2024-06-09]]
+- 2024-06-04 at 11h27 · [[Chapter 4 - Constraints]]
+- 2024-06-04 at 07h38 · [[2024-06-04]]
 - 2024-05-30 at 08h58 · [[Database Programming]]
 - 2024-05-30 at 08h48 · [[2024-05-30]]
 - 2024-05-28 at 16h28 · [[Chapter 3 - Table Creation and Management]]
@@ -6,5 +8,3 @@
 - 2024-05-17 at 18h17 · [[2024-05-17]]
 - 2024-05-15 at 18h08 · [[2024-05-15]]
 - 2024-05-14 at 09h57 · [[Chapter 2 - Basic SQL Statements]]
-- 2024-05-11 at 11h54 · [[Introduction to big O]]
-- 2024-05-08 at 11h53 · [[2024-05-08]]

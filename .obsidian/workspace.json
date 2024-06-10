@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Programming/Database Programming.md",
+                "file": "Chapter 4 - Constraints.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b231a78d0cd652bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024/June/2024-06-04.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,15 +209,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae6e3ecca1af069c",
+  "active": "92a227fa187bc919",
   "lastOpenFiles": [
+    "daily/2024/June/2024-06-04.md",
+    "Chapter 4 - Constraints.md",
+    "daily/2024/May/2024-05-30.md",
     "Chapter 8 - Restricting Rows and Sorting Data.md",
+    "daily/2024/June/2024-06-09.md",
+    "Database Programming/Database Programming.md",
+    "Chapter 3 - Table Creation and Management.md",
+    "daily/2024/June",
     "Chapter 2 - Basic SQL Statements.md",
     "daily/2024/May/2024-05-17.md",
-    "Chapter 4 - Constraints.md",
-    "Database Programming/Database Programming.md",
-    "daily/2024/May/2024-05-30.md",
-    "Chapter 3 - Table Creation and Management.md",
     "Pasted image 20240521084343.png",
     "Introduction.md",
     "Introduction to big O.md",
@@ -232,8 +247,6 @@
     "daily/2024/April/2024-04-23.md",
     "DSA/Intro1",
     "Career Path Development/Lecture 8.md",
-    "Career Path Development/Lecture 5.md",
-    "Career Path Development/Lecture 6.md",
     "Pasted image 20240409160719.png",
     "Pasted image 20240409160355.png",
     "Pasted image 20240409160145.png",
