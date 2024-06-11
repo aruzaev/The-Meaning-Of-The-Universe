@@ -81,3 +81,94 @@ You can instruct Oracle to use DEFAULT values using the following methods:
 It isn't a requirement to have the `INSERT INTO` values be in the same sequence as the table, what **is a requirement is to have the values in** `VALUES` **clause be the same sequence as the** `INSERT INTO` **values**
 
 The order of the list dictates which data value is assigned to which column.
+
+### Inserting Data from an Existing Table
+
+If a table already exists, and you need to add a couple records from that table into another table you would do this:
+
+```
+INSERT INTO tablename [(columname, ...)]
+subquery;
+```
+
+The main difference between this and the previous `INSERT INTO` clause is that the `VALUES` clause isn't present
+
+> the data is derived from the subquery's results
+
+The subquery is also allowed to not be enclosed in parenthesis
+
+example:
+```
+INSERT INTO acctbonus (amid, amsal, region)
+	SELECT amid, amsal, region
+		FROM acctmanagerl
+```
+
+## Modifying Existing Rows
+
+To alter existing table data, you need to use the `UPDATE` command
+
+### Using the UPDATE command
+
+```
+UPDATE tablename
+SET columnname = new_datavalue, ...
+[WHERE condition];
+```
+
+The `SET` clause identifies which columns need to be changed and their new values
+
+The optional `WHERE` details the *exact records to be changed* using a condition statement, if it's removed, then the update in the `SET` clause is updates for *all records* in the table
+
+example:
+
+```
+UPDATE acctmanager
+	SET amedate = '01-AUG-09'
+	WHERE amid = 'J500';
+```
+
+You can also use `IN` instead of =:
+
+```
+UPDATE acctmanager
+	SET region = 'W'
+	WHERE region IN('NE', 'NW');
+```
+
+If you need to modify more than one column of a row, you can do this using commas:
+
+```
+UPDATE acctmanager
+	SET amedate = '10-OCT-09'
+		region = 'S'
+	WHERE amid = 'L500';
+```
+
+### Using Substitution Variables
+
+When adding or modifying a record that takes a lot of effort, such as when there's a lot of them, you can use a substitution variable instead of typing the same command over and over
+
+A **substitution variable** instructs ORACLE to create a value in place of a variable when the command is actually executed
+
+To create a substitution variable you just need to type a (&) symbol followed by the name of the variable:
+```
+UPDATE customers
+	SET region = '&Region'
+	WHERE state = '&State';
+```
+
+Executing this command will open up a prompt where you can type in the data for the variable, when OK is hit, then the next prompt for STATE will appear which will allow you to specify which rows to modify
+
+## Deleting Rows
+
+To delete a row the syntax is this:
+
+```
+DELETE FROM tablename
+[WHERE condition];
+```
+
+The `DELETE` doesn't specify any column names because it deletes an entire row of data
+
+The `WHERE` clause is optional and specifies what rows to be deleted specifically
