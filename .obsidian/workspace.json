@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "44183e3a06d7d646",
+    "id": "30008bc58aaf738d",
     "type": "split",
     "children": [
       {
-        "id": "62db3168e709c838",
+        "id": "bc9990350debd1a8",
         "type": "tabs",
         "children": [
           {
-            "id": "92a227fa187bc919",
+            "id": "7f47d77b4a12c314",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,51 +21,12 @@
             }
           },
           {
-            "id": "ae6e3ecca1af069c",
+            "id": "6a2e2bb3233912ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 4 - Constraints.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3096cf4ba147e65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024/May/2024-05-30.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21b1cecd6c480f5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 8 - Restricting Rows and Sorting Data.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "708bede1984a0909",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024/May/2024-05-31.md",
+                "file": "Chapter 3 - Table Creation and Management.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -79,15 +40,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a74ff9ca5c28c079",
+    "id": "2e7fdaf4718a7453",
     "type": "split",
     "children": [
       {
-        "id": "a45fe27669994cee",
+        "id": "122e213bae58d736",
         "type": "tabs",
         "children": [
           {
-            "id": "284617d525bd7a35",
+            "id": "dccc8037f3a1eaed",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -97,7 +58,7 @@
             }
           },
           {
-            "id": "499d8792febc024e",
+            "id": "526750c57d3be7c6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -112,7 +73,7 @@
             }
           },
           {
-            "id": "2d5ebb6552bca8ab",
+            "id": "df999b23c25b5ec7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -123,19 +84,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "6015d6f7e9d4004e",
+    "id": "358c92a14d717a8f",
     "type": "split",
     "children": [
       {
-        "id": "0bc104bb81bb4dee",
+        "id": "f383511ac7aa5bf9",
         "type": "tabs",
         "children": [
           {
-            "id": "e210845ec4ba16fe",
+            "id": "d19c3a4a3117d879",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -143,16 +103,12 @@
             }
           },
           {
-            "id": "2dce71fd16fa777c",
+            "id": "e69074d6c6fd569c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "daily/2024/May/2024-05-31.md",
-=======
-                "file": "Chapter 4 - Constraints.md",
->>>>>>> d515a964b1414f7c9923792eb933cbce297e694e
+                "file": "Chapter 3 - Table Creation and Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,23 +120,19 @@
             }
           },
           {
-            "id": "093e11e212b66bb0",
+            "id": "fdaf9add83849cc4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "daily/2024/May/2024-05-31.md",
-=======
-                "file": "Chapter 4 - Constraints.md",
->>>>>>> d515a964b1414f7c9923792eb933cbce297e694e
+                "file": "Chapter 3 - Table Creation and Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "598e831534ea2861",
+            "id": "070afd50b7052885",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -191,16 +143,12 @@
             }
           },
           {
-            "id": "c9537f2ef37ad462",
+            "id": "8a331031e460f449",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "daily/2024/May/2024-05-31.md"
-=======
-                "file": "Chapter 4 - Constraints.md"
->>>>>>> d515a964b1414f7c9923792eb933cbce297e694e
+                "file": "Chapter 3 - Table Creation and Management.md"
               }
             }
           }
@@ -222,57 +170,9 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "708bede1984a0909",
+  "active": "6a2e2bb3233912ff",
   "lastOpenFiles": [
-    "daily/2024/May/2024-05-31.md",
-    "daily/2024/May",
-    "Career Path Development/Lecture 6.md",
-=======
-  "active": "ae6e3ecca1af069c",
-  "lastOpenFiles": [
-    "Chapter 8 - Restricting Rows and Sorting Data.md",
-    "Chapter 2 - Basic SQL Statements.md",
-    "daily/2024/May/2024-05-17.md",
-    "Chapter 4 - Constraints.md",
     "Database Programming/Database Programming.md",
-    "daily/2024/May/2024-05-30.md",
-    "Chapter 3 - Table Creation and Management.md",
-    "Pasted image 20240521084343.png",
-    "Introduction.md",
-    "Introduction to big O.md",
-    "Pasted image 20240515182146.png",
-    "daily/2024/May/2024-05-15.md",
-    "DSA/Leetcode Crash Course/Leetcode Crash Course.md",
-    "Pasted image 20240509083509.png",
-    "Pasted image 20240509082723.png",
-    "1. The Relational Database.md",
-    "Database Programming",
-    "CSS/CSS.md",
-    "daily/2024/May/2024-05-07.md",
-    "daily/2024/May/2024-05-08.md",
-    "daily/2024/March/2024-03-25.md",
-    "daily/2024/March/2024-03-24.md",
-    "daily/2024/April/2024-04-10.md",
-    "daily/2024/April/2024-04-06.md",
-    "Chapter 1 - Introduction.md",
-    "DSA/Intro1/Static Typing.md",
-    "DSA/Leetcode Crash Course",
-    "Untitled 1.md",
-    "Untitled",
-    "daily/2024/May",
-    "daily/2024/April/2024-04-23.md",
-    "DSA/Intro1",
->>>>>>> d515a964b1414f7c9923792eb933cbce297e694e
-    "Career Path Development/Lecture 8.md",
-    "Career Path Development/Lecture 5.md",
-    "Career Path Development/Lecture 6.md",
-    "Pasted image 20240409160719.png",
-    "Pasted image 20240409160355.png",
-    "Pasted image 20240409160145.png",
-    "Pasted image 20240409154745.png",
-    "Pasted image 20240409154412.png",
-    "Pasted image 20240409154208.png",
-    "daily/2024/April"
+    "daily/2024/May/2024-05-31.md"
   ]
 }
