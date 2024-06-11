@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "21e145b00256d801",
+    "id": "44183e3a06d7d646",
     "type": "split",
     "children": [
       {
-        "id": "58d9691c3dcf2c6b",
+        "id": "62db3168e709c838",
         "type": "tabs",
         "children": [
           {
-            "id": "e5992aeccbc94a81",
+            "id": "92a227fa187bc919",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "4d153da505e2f68e",
+            "id": "15557d9c83450a36",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,15 +40,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "77c5a3ada2ef54c3",
+    "id": "a74ff9ca5c28c079",
     "type": "split",
     "children": [
       {
-        "id": "b63710421cc6f390",
+        "id": "a45fe27669994cee",
         "type": "tabs",
         "children": [
           {
-            "id": "fc130f3449bc5ee1",
+            "id": "284617d525bd7a35",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "c649d0f436d07504",
+            "id": "499d8792febc024e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "089e13772b2e0d37",
+            "id": "2d5ebb6552bca8ab",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,15 +88,15 @@
     "collapsed": true
   },
   "right": {
-    "id": "215f47328edc5459",
+    "id": "6015d6f7e9d4004e",
     "type": "split",
     "children": [
       {
-        "id": "b12e0e26612e2ba5",
+        "id": "0bc104bb81bb4dee",
         "type": "tabs",
         "children": [
           {
-            "id": "17ca09c7cf04e838",
+            "id": "e210845ec4ba16fe",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -104,7 +104,7 @@
             }
           },
           {
-            "id": "4903fe08bda13019",
+            "id": "2dce71fd16fa777c",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -121,7 +121,7 @@
             }
           },
           {
-            "id": "68a89c5e50683bfd",
+            "id": "093e11e212b66bb0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -133,7 +133,7 @@
             }
           },
           {
-            "id": "613168b7cf540d2a",
+            "id": "598e831534ea2861",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -144,7 +144,7 @@
             }
           },
           {
-            "id": "c760dbe6882dcea1",
+            "id": "c9537f2ef37ad462",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -171,9 +171,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d153da505e2f68e",
+  "active": "15557d9c83450a36",
   "lastOpenFiles": [
+    "daily/2024/June/2024-06-11.md",
+    "Pasted image 20240611074734.png",
+    "Pasted image 20240611074415.png",
+    "daily/2024/June/2024-06-04.md",
+    "Chapter 4 - Constraints.md",
+    "daily/2024/May/2024-05-30.md",
+    "Chapter 8 - Restricting Rows and Sorting Data.md",
+    "Chapter 5 - Data Manipulation and Transaction Control.md",
     "Database Programming/Database Programming.md",
-    "daily/2024/June/2024-06-11.md"
+    "daily/2024/May/2024-05-31.md",
+    "daily/2024/June/2024-06-09.md",
+    "Chapter 3 - Table Creation and Management.md",
+    "daily/2024/June",
+    "Chapter 2 - Basic SQL Statements.md",
+    "daily/2024/May/2024-05-17.md",
+    "Pasted image 20240521084343.png",
+    "Introduction.md",
+    "Introduction to big O.md",
+    "Pasted image 20240515182146.png",
+    "daily/2024/May/2024-05-15.md",
+    "DSA/Leetcode Crash Course/Leetcode Crash Course.md",
+    "Pasted image 20240509083509.png",
+    "Pasted image 20240509082723.png",
+    "1. The Relational Database.md",
+    "Database Programming",
+    "CSS/CSS.md",
+    "daily/2024/May/2024-05-07.md",
+    "daily/2024/May/2024-05-08.md",
+    "daily/2024/March/2024-03-25.md",
+    "daily/2024/March/2024-03-24.md",
+    "daily/2024/April/2024-04-10.md",
+    "daily/2024/April/2024-04-06.md",
+    "Chapter 1 - Introduction.md",
+    "DSA/Intro1/Static Typing.md",
+    "DSA/Leetcode Crash Course",
+    "Untitled",
+    "daily/2024/May",
+    "DSA/Intro1",
+    "Pasted image 20240409160719.png",
+    "Pasted image 20240409160355.png",
+    "Pasted image 20240409160145.png",
+    "Pasted image 20240409154745.png",
+    "daily/2024/April"
   ]
 }

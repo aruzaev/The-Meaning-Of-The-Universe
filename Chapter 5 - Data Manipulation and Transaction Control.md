@@ -172,3 +172,50 @@ DELETE FROM tablename
 The `DELETE` doesn't specify any column names because it deletes an entire row of data
 
 The `WHERE` clause is optional and specifies what rows to be deleted specifically
+
+## Using Transaction Control Statements
+
+When you execute an SQL statement, DML commands aren't saved to the table permanently
+
+After doing the DML commands, you need to do **transaction control** statements in order to permanently save the data changes in the table
+
+A transaction is a term that describes data actions caused by DML statements that should logically be performed together
+
+**Transaction control** determines at which points DML statements are saved permanently to the database
+
+### COMMIT and ROLLBACK Commands
+
+The `COMMIT` command is used either **implicitly** or **explicitly** and saves the DML statements that have been executed previously
+
+**Explicit `COMMIT`** - occurs when you enter a `COMMIT` statement
+**Implicit `COMMIT`** - occurs when you exit various tools, such as the SQL Developer.
+> It can also occur when a DDL (data definition language) commands are executed (`CREATE or ALTER TABLE`)
+> 
+> this means that if a user adds several data entries into a table and then makes a new table, the data entries will be saved
+
+**A transaction is a series of statements that have been executed but not committed**
+
+Unless the DML operation is committed, they can be undone by using the `ROLLBACK` command
+
+`ROLLBACK` will reverse every change made that hasn't been committed or saved and will reverse **until the last commit**
+
+However **DDL commands such as `CREATE TABLE, TRUNCATE TABLE, ALTER TABLE` CANNOT be rolled back** because they are commands that impact the structure of the table, NOT the data within the table
+
+### SAVEPOINT Command
+
+The `SAVEPOINT` command is sometimes used as a kind of bookmark for a transaction
+
+`SAVEPOINT` creates various `ROLLBACK` points to rollback to a certain point in the transaction
+
+The syntax for creating a `SAVEPOINT` is as follows:
+```
+SAVEPOINT name;
+```
+
+To rollback:
+
+```
+ROLLBACK TO SAVEPOINT name;
+```
+
+Commits still need to be made
