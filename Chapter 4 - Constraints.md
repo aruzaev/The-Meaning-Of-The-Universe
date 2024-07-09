@@ -75,3 +75,5 @@ requires that a value exists in the referenced column of another table
 NULL values allows
 keeps reference integrity 
 maps to the PRIMARY KEY in parent table
+
+Check constraint adss constraint 

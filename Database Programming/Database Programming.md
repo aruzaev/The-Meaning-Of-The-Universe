@@ -3,3 +3,4 @@
 [[Chapter 3 - Table Creation and Management]]
 [[Chapter 4 - Constraints]]
 [[Chapter 5 - Data Manipulation and Transaction Control]]
+[[Chapter 9 - Joining Data From Multiple Tables]]

@@ -219,3 +219,39 @@ ROLLBACK TO SAVEPOINT name;
 ```
 
 Commits still need to be made
+
+## Table Locks
+
+Table locks exist so that the rows that are locked cannot be changed by other users 
+
+This lock is a **shared lock** which means that other users can access the table and see the data but they cant do any DDL commands (changing the structure of the data)
+
+Rarely used but the user can issue the following command to explictly lock a table in share mode
+
+```
+LOCK TABLE tablename IN SHARED MODE;
+```
+
+You can also enforce an **exclusive lock**, which means that the user can't do any DDL or DML commands (changing the data)
+
+Also no other user will be able to place a shared or exclusive lock on the table
+
+```
+LOCK TABLE tablename IN EXCLUSIVE MODE;
+```
+
+### SELECT ... FOR UPDATE
+
+Since DML operations aren't stored in the database permanently until a `COMMIT` statement is ran, it causes a lot of issues when trying to edit a record that someone else just edited
+
+To avoid this you can use the `SELECT ... FOR UPDATE` command that will view a record's contents when you anticipate the record needs to be changed in the future
+
+The command places a shared lock in the records that need to be changed and prevent other users from locking the same records
+
+```
+SELECT columnames,...
+FROM tablename, ...
+[WHERE condition]
+FOR UPDATE;
+```
+
