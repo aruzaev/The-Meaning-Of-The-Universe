@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Programming/Database Programming.md",
+                "file": "Chapter 10 - Selected Single Row Functions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -27,6 +27,19 @@
               "type": "markdown",
               "state": {
                 "file": "Chapter 10 - Selected Single Row Functions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dab94d4ae44f8e21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024/July/2024-07-15.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,8 +98,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,9 +235,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c87733d7c7543bb",
+  "active": "92a227fa187bc919",
   "lastOpenFiles": [
     "Database Programming/Database Programming.md",
+    "daily/2024/July/2024-07-15.md",
     "Chapter 10 - Selected Single Row Functions.md",
     "Chapter 9 - Joining Data From Multiple Tables.md",
     "daily/2024/July/2024-07-09.md",
@@ -260,7 +273,6 @@
     "1. The Relational Database.md",
     "Database Programming",
     "CSS/CSS.md",
-    "daily/2024/May/2024-05-07.md",
     "DSA/Leetcode Crash Course",
     "Untitled",
     "daily/2024/May",
