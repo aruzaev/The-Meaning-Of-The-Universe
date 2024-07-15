@@ -154,6 +154,8 @@ This type of join is used when there is no equivalent rows in the tables to be j
 
 Similar to the above join, non equality joins can be performed with the WHERE clause and the JOIN ON
 
+A non-equality join enables you to store a range's minimum in one column and the maximum in another column
+
 #### Traditional Method
 
 Since BOOKS and PROMOTION doessnt have an equivalent column you can do this

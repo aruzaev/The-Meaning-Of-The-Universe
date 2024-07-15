@@ -4,3 +4,4 @@
 [[Chapter 4 - Constraints]]
 [[Chapter 5 - Data Manipulation and Transaction Control]]
 [[Chapter 9 - Joining Data From Multiple Tables]]
+[[Chapter 10 - Selected Single Row Functions]]
