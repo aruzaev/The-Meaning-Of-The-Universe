@@ -1,3 +1,4 @@
+- 2024-07-15 at 17h05 · [[2024-07-15]]
 - 2024-07-11 at 10h12 · [[Chapter 10 - Selected Single Row Functions]]
 - 2024-07-11 at 10h11 · [[Database Programming]]
 - 2024-07-09 at 09h54 · [[Chapter 9 - Joining Data From Multiple Tables]]
@@ -7,4 +8,3 @@
 - 2024-06-20 at 06h38 · [[Chapter 5 - Data Manipulation and Transaction Control]]
 - 2024-06-19 at 11h55 · [[2024-06-19]]
 - 2024-06-18 at 11h03 · [[2024-06-18]]
-- 2024-06-13 at 07h14 · [[2024-06-13]]

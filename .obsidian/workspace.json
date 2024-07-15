@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "8c87733d7c7543bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 10 - Selected Single Row Functions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7e8ea0f7256ceb87",
             "type": "leaf",
             "state": {
@@ -85,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 10 - Selected Single Row Functions.md",
+                "file": "Database Programming/Database Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 10 - Selected Single Row Functions.md",
+                "file": "Database Programming/Database Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 10 - Selected Single Row Functions.md"
+                "file": "Database Programming/Database Programming.md"
               }
             }
           }
@@ -223,10 +209,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c87733d7c7543bb",
+  "active": "92a227fa187bc919",
   "lastOpenFiles": [
-    "Database Programming/Database Programming.md",
+    "daily/2024/July/2024-07-15.md",
     "Chapter 10 - Selected Single Row Functions.md",
+    "Database Programming/Database Programming.md",
     "Chapter 9 - Joining Data From Multiple Tables.md",
     "daily/2024/July/2024-07-09.md",
     "Chapter 3 - Table Creation and Management.md",
@@ -260,7 +247,6 @@
     "1. The Relational Database.md",
     "Database Programming",
     "CSS/CSS.md",
-    "daily/2024/May/2024-05-07.md",
     "DSA/Leetcode Crash Course",
     "Untitled",
     "daily/2024/May",
