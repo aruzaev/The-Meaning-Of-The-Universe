@@ -21,35 +21,6 @@
             }
           },
           {
-<<<<<<< HEAD
-=======
-            "id": "8c87733d7c7543bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 10 - Selected Single Row Functions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dab94d4ae44f8e21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024/July/2024-07-15.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
->>>>>>> 5db83073ada61a7a1824d93c707293e948968874
             "id": "7e8ea0f7256ceb87",
             "type": "leaf",
             "state": {
@@ -176,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Programming/Database Programming.md",
+                "file": "Chapter 10 - Selected Single Row Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Programming/Database Programming.md",
+                "file": "Chapter 10 - Selected Single Row Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Programming/Database Programming.md"
+                "file": "Chapter 10 - Selected Single Row Functions.md"
               }
             }
           }
@@ -240,13 +211,10 @@
   },
   "active": "92a227fa187bc919",
   "lastOpenFiles": [
-<<<<<<< HEAD
-=======
+    "Pasted image 20240715173316.png",
     "Database Programming/Database Programming.md",
->>>>>>> 5db83073ada61a7a1824d93c707293e948968874
     "daily/2024/July/2024-07-15.md",
     "Chapter 10 - Selected Single Row Functions.md",
-    "Database Programming/Database Programming.md",
     "Chapter 9 - Joining Data From Multiple Tables.md",
     "daily/2024/July/2024-07-09.md",
     "Chapter 3 - Table Creation and Management.md",
@@ -279,7 +247,6 @@
     "Pasted image 20240509082723.png",
     "1. The Relational Database.md",
     "Database Programming",
-    "CSS/CSS.md",
     "DSA/Leetcode Crash Course",
     "Untitled",
     "daily/2024/May",
