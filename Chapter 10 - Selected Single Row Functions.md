@@ -218,4 +218,63 @@ WHERE state = 'FL';
 
 Used to replace a character in a string with a new value
 
-Different 
+Different than replace because it modifies single characters rather than an entire character string
+
+ Alloows for more than one substitution operation in a single translate clause
+```
+SELECT name, TRANSLATE(name, ',A', '-a')
+```
+
+The first substitution is a comma which is replace by a - and the second is an uppercase A which is replaces by lowercase
+
+### The CONCAT Function
+
+Instead of using the concatenation operator (||), you can use the function
+
+Only difference is that the operator allows for a long list of columns and strings but the function only allows you to concatenate two items
+
+## Number Functions
+
+### The ROUND Function
+
+Used to round numeric fields with a certain precision
+
+Syntax is 
+ROUND(n, p)
+where n is the number to be rounded and p is the position of the digits to which data should be rounded
+
+You can round to no decimal places with `ROUND(retail, 0)`
+You can also use negatives for the p which means to round to the symbol on the left of the decimal `ROUND(retail, -1)` will round the the nearest tens of dollars
+
+### The TRUNC Function
+
+This cuts out a numeric value to a certain position and any numbers after this position are removed
+
+Entering a positive number means a position to the right of decimal and a negative number is to the left
+
+The TRUNC function doesn't depend on what value  comes after the tenth's position, it simply drops any value beyond the first number after the decimal
+
+So `TRUNC(retail, 1)` is 30.9 from 30.95 rather than 31
+
+### The MOD Function
+
+Returns only the remained of a division operator
+
+It needs two operators, the numerator and denominator
+
+
+### The ABS Function
+
+Returns the absolute, or positive values when there is a calculation, removes all negatives
+
+## The Date Functions
+
+The date is actually stored as a nonnumeric field that is displayed in the DD-MON-YY format
+
+Even though they are nonnumeric, users can still do calculations with them like with numeric values
+
+The numeric version of the date is called the **JULIAN DATE** and it represents the number of days that have passed between Jan 1, 4712 BC and a specified data
+
+If you need to calculate the number of days between two days it just simply converts the dates to the julian format and then finds the differrence between the two
+
+To find the difference between the days you can do something as simple as final date-start date
