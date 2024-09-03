@@ -278,3 +278,9 @@ The numeric version of the date is called the **JULIAN DATE** and it represents 
 If you need to calculate the number of days between two days it just simply converts the dates to the julian format and then finds the differrence between the two
 
 To find the difference between the days you can do something as simple as final date-start date
+
+current date is the  current date and time from the current open session
+sysdate is the current date and time for the operating system where the database resides
+
+mi -  minutes
+mm - months

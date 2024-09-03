@@ -1,0 +1,306 @@
+# [[Chapter 12 - Subqueries and Merge Statements]]
+
+A subquery is a nested query, one complete query inside of another query
+
+The subquery output can be:
+- a single value (called a **single row query**)
+- multiple columns of data (called a **multiple row query**)
+
+```
+Single row subquery -- returns to the outer query one row consisting of ONE COLUMN
+
+Multiple row subquery -- returns to the outer query more than ONE ROW
+
+Multiple column subquery -- returns to the outer query more than ONE COLUMN
+
+Correlated subquery -- References a column in the outer query. For each row processed by the outer query, the subquery gets processed too
+
+DML subquery -- Uses a subquery to determine the rows affected whenever a DML action is performed
+```
+
+## Subqueries and their uses
+
+The subquery passes its result to the outer query (also called the parent query) and the outer query uses the value for its calculations to give its final output
+
+Subqueries are most commonly found in **WHERE or HAVING** clauses, and they return as a condition to the outer query
+
+They can also be used in the SELECT and FROM clauses
+
+Here are some rules for subqueries
+- a subquery must be a complete query (it must have a SELECT and FROM clause)
+- a subquery, except when its in the FROM clause, ***CANNOT HAVE AN ORDER BY CLAUSE***
+	- if you need to use it, use ORDER BY in the outer query
+- a subquery must be enclosed in parenthesis
+- Place subquery on the right side of the comparison operator
+
+## Single Row Subqueries
+
+This returns **one row of results consisting of only one column** to the outer query, rather than all of the columns of one row
+
+It can also be called a **single value query**
+
+They use =, >, <, >=, <=, and the <> operators because they are designed to compare single values
+
+### Single row subquery in a WHERE clause
+
+management requested a list of all computer books with a higher
+retail price than the book Database Implementation.
+
+You can find the retail price of DB IMPLEMENTATION book and then have another query using that value as a comparison in the WHERE clause or you can do this
+
+```
+SELECT category, title, cost
+FROM books
+WHERE cost >
+		(SELECT cost
+		 FROM books
+		 WHERE title = 'DATABASE IMPLEMENTATION')
+	AND category = 'COMPUTER';
+```
+
+First the inner query is ran first, the cost for the books with a certain title is extracted (single value), and then that value is used as a comparison for the outer query
+
+You will get an error if more than one value is returned
+
+Suppose management makes another request: the title of the most expensive book
+sold by JustLee Books. The MAX function covered in Chapter 11 handles this task
+
+You might be tempted to do this
+
+```
+SELECT title, MAX(retail)
+FROM books;
+```
+
+Normally you would fix this by adding a GROUP BY, but it wouldn't make sense here since every title would be in its own group
+
+To get the retail price of the most expensive book, a subquery is needed
+
+```
+SELECT title, retail
+FROM BOOKS
+WHERE retail = (SELECT MAX(RETAIL)
+                FROM books);
+```
+
+### Single row subquery in a HAVING clause
+
+Used when the group results of a query need to be restricted based on some condition
+
+```
+SELECT category, AVG(retail - cost) "Average Profit"
+FROM books
+GROUP BY category
+HAVING AVG(retail-cost) > (SELECT AVG(retail-cost)
+                           FROM books
+                           WHERE category = 'LITERATURE');
+```
+
+### Single row subquery in a SELECT clause
+
+This is usually used to perform calculations with a value produced from a subquery
+
+You just use a comma, as if you were listing another column, you can even give it an alias
+
+suppose management wants to compare the
+price of each book in inventory against the average price of all books in inventory.
+The query output must show each book’s price and the amount above or below the
+average
+
+```
+SELECT title, retail, (SELECT TO_CHAR(AVG(RETAIL), 999.99)
+						FROM books) "Overall Average"
+FROM books;
+```
+
+You can even do calculations with this
+
+```
+SELECT title, retail, retail - (SELECT TO_CHAR(AVG(RETAIL), 999.99)
+						FROM books) "Diff from AVG"
+FROM books;
+```
+
+## Multiple-Row Subqueries
+
+Nested queries that can return more than one row of results to the parent query
+
+Most commonly used in the WHERE and HAVING clauses
+
+### IN operator
+
+Most often used out of the three operators
+
+```
+SELECT title, retail, category
+FROM books
+WHERE retail IN (SELECT MAX(retail)
+				  FROM books
+				  GROUP BY category)
+ORDER BY category;
+```
+
+The IN operator here means that the records the outer query processes must match one of the values the subquery returns
+
+It returns the highest retail price in each category
+
+It creates an OR condition and follows this order of execution
+1. The subquery finds the price of the most expensive book in each category
+2. The most expensive retail price of each category is passed into the WHERE clause of the outer query
+3. The outer query compares each book price to the prices generated by the subquery
+4. If a book's retail price matches one of the prices returned by the subquery title, price, and category is displayed in the output
+
+### The ALL and ANY Operators
+
+Can be combined with other comparison operators to treat a subquery's results as a set of values instead of single values
+
+#### ALL
+
+Allows you to compare a value from a query with a set of values from a subquery
+
+If you want to find a retail price higher than all of the books in the FICTION category
+
+```
+SELECT title, retail
+FROM books
+WHERE retail > ALL (SELECT retail
+					FROM books
+					WHERE category = 'FICTION');	
+```
+
+`WHERE retail > ALL (subquery)` - checks to see if all the retail values given by the query is greater than all of the values in the subquery
+
+#### ANY
+
+Allows you to compare a value from a query with at least one other value in the subquery. For the condition to be true, the comparison must be true for at least one value
+
+Suppose you want to find the books that have a retail price higher than any book in a specific category, say "fiction".
+
+```
+
+SELECT title, retail
+FROM books
+WHERE retail > ANY (SELECT retail
+                    FROM books
+                    WHERE category = 'fiction');
+```
+
+`x > ALL (subquery)` means `x` is greater than every value in the subquery.
+
+`x > ANY (subquery)` means `x` is greater than the lowest value in the subquery.
+
+`x < ANY (subquery)` means `x` is less than the highest value in the subquery
+
+`>ALL` more than ALL
+`<ALL` less than ALL
+### Multiple-Row Subquery in a HAVING clause
+
+When the subquery’s results are compared to grouped data in the outer query, the subquery must be nested in a HAVING clause in the outer query
+
+The HAVING clause can be used to filter out values that are returned by aggregate functions, whereas WHERE cannot do that
+
+So if you want to use aggregate functions in your subquery, you need to use GROUP BY in the subquery, which would require you to have that subquery in a HAVING clause
+
+Suppose you have a table `sales` with the following columns: `sale_id`, `product_id`, `quantity`, and `total_amount`. You want to find products where the total sales amount is greater than the average sales amount across all products.
+
+```
+SELECT product_id, SUM(total_amount) AS total_sales
+FROM sales
+GROUP BY product_id
+HAVING SUM(total_amount) > (SELECT AVG(total_amount)
+                            FROM sales);
+```
+
+A single row subquery can only return ***one value*** but a multiple row subquery can return ***several values***
+
+That's why using single value comparisons (>, <, =>, <=, <>) don't work when the subquery returns more than one piece of data
+
+```
+SELECT title, cost
+FROM books
+WHERE cost > (SELECT AVG(cost)
+			  FROM books
+			  GROUP BY category);
+```
+
+This won't work
+
+## Multiple-column Subqueries
+
+Returns more than one column to the outer query
+
+Can be listed in the FROM, WHERE, or HAVING clause
+
+### FROM clause
+
+When the multi-column subquery is used in the outer query's FROM clause, it creates a temp table that can be references by other clauses of the outer query
+
+This table is formally called an **inline view**
+
+Suppose you need a list of all books in the BOOKS table that have a higher-
+than-average selling price compared with other books in the same category. For each
+book, you need to display the title, retail price, category, and average selling price of books
+in that category
+
+```
+SELECT b.title, b.retail, a.category, a.cataverage
+FROM books b, (SELECT category, AVG(retail) cataverage
+				FROM books
+				GROUP BY category) a
+WHERE b.category = a.category
+AND b.retail > a.cataverage;
+```
+
+The subquery creates a temporary table with the alias "a", this means that the columns from the subquery can be references by the other clauses in the outer query
+
+The entire query is referencing data from two different tables, except one table just so happens to be created at runtime (using the subquery)
+
+The tables can then be joined using the WHERE clause
+### WHERE clause
+
+When a multi column subquery is used in the WHERE or HAVING clause, the outer query uses the IN operator to evaluate the results of the subquery
+
+The subquery results will contain more than one column of results
+
+The syntax is this: `WHERE (columnname, columnname, ...) IN subquery`
+
+It has the following rules:
+- the column list must be enclosed in parenthesis since the WHERE clause contains more than one column name
+- Column names listed in the WHERE clause must be in the same order as they appear in the subquery's SELECT clause
+
+## Null Values
+
+NULL values can't be returned to an outer query since its not equal to anything, its nothing
+
+You need to use NVL if you want to return a NULL value to the outer query for comparison
+
+Some rules
+- null values from the inner query must occur in the outer query to be substititued
+- the value substituted for the null value can't possible exist anywhere else in the column
+
+## Correlated Subqueries
+
+This is when a subquery references columns from the outer query, which creates a dependancy
+
+This means that the subquery is executed for every row executed in the outer query, rather than the outer query being executed once
+
+We use the EXISTS operator to test whether the relationship between the inner and outer query is present
+
+```
+SELECT title
+FROM books
+WHERE EXISTS (SELECT isbn
+			  FROM orderitems
+			  WHERE books.isbn = orderitems.isbns);
+```
+
+1. The outer query processes the titles of the books one by one
+2. The EXISTS keyword verifies if the condition is true (if there is an isbn that is apparent in both the books and orderitems table)
+3. If the condition is true, it gets put into the final result, if false then no
+
+***A correlated subquery is executed once for each row in the outer query***\
+
+## Nested Subqueries
+
+Maximum of 255 subqueries if nested in the WHERE clause
+No maximum if nested in the FROM clause

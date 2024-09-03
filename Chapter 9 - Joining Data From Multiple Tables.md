@@ -218,11 +218,11 @@ SELECT c.lastname, c.firstname, o.order#
 
 The orders table is the "deficient table" because it has missing data "customers that haven't placed orders"
 
-The operator is places on the side of the deficient table
+The operator is placed on the side of the deficient table
 
 Some limitations
 - The operator can only be used for one table in the joining condition. You can't create NULL rows in both tables are the same time
-- A condition that has the outer join operator can't use the IN or OR operators
+- A condition that has the outer join operator **can't use the IN or OR operators**
 
 #### Join Method
 
