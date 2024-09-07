@@ -54,3 +54,14 @@ e.x. an order processing system for a shop
 
 ![[Pasted image 20240903083708.png]]
 
+It's important to have good systematic communication through the use of a standardized development process
+
+There are various models for this:
+
+- SDLC
+- Waterfall
+- Iterative
+- Agile Development Models
+\
+
+

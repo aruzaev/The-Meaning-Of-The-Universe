@@ -2,3 +2,4 @@
 
 [[Introduction to System Analysis and Design]]
 [[Difference between SDLC and Methodology]]
+[[Phases of SDLC]]

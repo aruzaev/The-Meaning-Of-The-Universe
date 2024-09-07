@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "62db3168e709c838",
+        "id": "f5d51cbec84b44c5",
         "type": "tabs",
         "children": [
           {
-            "id": "8c87733d7c7543bb",
+            "id": "4ab54024c5e4cf6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems_Design/Systems Design.md",
+                "file": "Phases of SDLC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,25 +21,25 @@
             }
           },
           {
-            "id": "ce86470d42c1b391",
+            "id": "ae353d6475b00082",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced DB Programming/Advanced Database Programming.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c3881d3601473aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "daily/2024/September/2024-09-07.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e19ca1ab6317f2e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024/August/2024-08-12.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6015d6f7e9d4004e",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systems_Design/Systems Design.md",
+                "file": "Phases of SDLC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systems_Design/Systems Design.md",
+                "file": "Phases of SDLC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems_Design/Systems Design.md"
+                "file": "Phases of SDLC.md"
               }
             }
           }
@@ -183,40 +182,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c87733d7c7543bb",
+  "active": "4ab54024c5e4cf6a",
   "lastOpenFiles": [
-    "daily/2024/September/2024-09-02.md",
-    "daily/2024/September/2024-09-07.md",
-    "Difference between SDLC and Methodology.md",
+    "Pasted image 20240907094901.png",
     "Systems_Design/Systems Design.md",
+    "Phases of SDLC.md",
+    "Difference between SDLC and Methodology.md",
     "Introduction to System Analysis and Design.md",
-    "Pasted image 20240903083708.png",
-    "ADB1.3.md",
-    "Systems_Design",
     "Advanced DB Programming/Advanced Database Programming.md",
-    "ADB1.1.md",
-    "ADB1.2.md",
     "daily/2024/September/2024-09-03.md",
-    "Chapter 11 - Group Functions.md",
-    "daily/2024/September",
-    "Database Programming/Database Programming.md",
-    "Chapter 12 - Subqueries and Merge Statements.md",
-    "Chapter 9 - Joining Data From Multiple Tables.md",
-    "Untitled 2.md",
-    "daily/2024/August/2024-08-12.md",
-    "Pasted image 20240808090401.png",
-    "daily/2024/August/2024-08-08.md",
-    "daily/2024/August/2024-08-05.md",
-    "daily/2024/August/2024-08-06.md",
-    "daily/2024/August",
     "daily/2024/July/2024-07-30.md",
-    "daily/2024/July/2024-07-09.md",
-    "daily/2024/July/2024-07-15.md",
-    "Chapter 10 - Selected Single Row Functions.md",
     "daily/2024/July/2024-07-23.md",
+    "daily/2024/August/2024-08-12.md",
+    "daily/2024/August/2024-08-08.md",
+    "daily/2024/August/2024-08-06.md",
+    "daily/2024/August/2024-08-05.md",
+    "daily/2024/August",
+    "Untitled 2.md",
+    "Systems_Design",
+    "Pasted image 20240903083708.png",
+    "Pasted image 20240808090401.png",
+    "Chapter 12 - Subqueries and Merge Statements.md",
+    "Chapter 11 - Group Functions.md",
+    "ADB1.3.md",
+    "ADB1.2.md",
+    "daily/2024/September/2024-09-07.md",
+    "ADB1.1.md",
+    "Chapter 10 - Selected Single Row Functions.md",
+    "daily/2024/July/2024-07-09.md",
+    "daily/2024/June/2024-06-13.md",
+    "daily/2024/June/2024-06-19.md",
+    "daily/2024/July/2024-07-15.md",
+    "daily/2024/September/2024-09-02.md",
+    "daily/2024/September",
     "Pasted image 20240715173316.png",
-    "Chapter 3 - Table Creation and Management.md",
-    "daily/2024/July/2024-07-01.md",
     "daily/2024/July",
     "Pasted image 20240618112120.png",
     "Pasted image 20240611074734.png",
