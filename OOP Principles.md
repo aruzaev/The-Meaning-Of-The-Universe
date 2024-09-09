@@ -174,3 +174,80 @@ public class Student extends Person {
 	}
 }
 ```
+
+### Inheritance: Important Aspects
+
+- You can't do multiple inheritance, a Java class cannot be derived from two classes
+- Inheritance is a transitive relation
+	- if C is derived from B, and B is derived from A, then C inherits A as well
+- Constructors are not inherited
+	- They need to be chained using superclass constructors
+
+### Inheritance: Important Features
+
+- A child class inherits all the properties and methods of the base class
+	- the derived class is just a specialized version of the base class
+	- it can add new members but cannot removed the derived ones
+- Declaring a method in a subclass with the same signature (name and arguments) as the one in the superclass overrides the inherited one
+- Declaring a static method with the same signature hides the inherited one 
+
+### Method Overriding
+
+Redefining the functionality of a base class method inside of a child class using the same list of parameters (or else it would be an entirely different method and won't override)
+
+When a method is called for a child object, we use the overridded method instead of the super class method
+
+### The `@Override` Annotation
+
+This tells the compiler that a method in the superclass is meant to be overridden
+
+The overriding method must have the same signature as the overridden base method
+
+The signature consists of
+- return type
+- method name
+- parameters list
+
+### Abstract Classes
+
+Used solely for the purpose of subclassing
+
+They are templates which define common sets of behavior that are shared by concrete classes that inherit them
+
+Declared with the word `abstract`
+
+### Abstract Class Features
+
+May be partially implemented or fully unimplemented without any errors
+- unimplemented methods are declared as `abstract` and left empty
+
+Cannot be instantiated
+
+A non-abstract class that is trying to inherit an abstract class must have all methods in the abstract class implemented
+
+Child classes that don't implement abstract methods must be declared as abstract
+
+![[Pasted image 20240909113139.png]]
+
+### Abstract Methods
+
+This is a method that doesn't have a body
+
+It declares the method signature and the return type that the concrete subclass must implement
+
+They have no body since it isn't the actual implementation
+
+Ends in a semicolon
+
+`abstract returnType methodName(Parameters);`
+
+### Abstract Method Features
+
+Abstract methods are created to be overridden in the concrete subclass
+
+These abstract declarations are only allowed inside of abstract classes
+- if a subclass doesn't have implementations for some of its parent's abstract method, the subclass also becomes ab abstract class
+  
+![[Pasted image 20240909113725.png]]
+
+
