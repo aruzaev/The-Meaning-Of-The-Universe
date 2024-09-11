@@ -174,3 +174,199 @@ public class Student extends Person {
 	}
 }
 ```
+
+### Inheritance: Important Aspects
+
+- You can't do multiple inheritance, a Java class cannot be derived from two classes
+- Inheritance is a transitive relation
+	- if C is derived from B, and B is derived from A, then C inherits A as well
+- Constructors are not inherited
+	- They need to be chained using superclass constructors
+
+### Inheritance: Important Features
+
+- A child class inherits all the properties and methods of the base class
+	- the derived class is just a specialized version of the base class
+	- it can add new members but cannot removed the derived ones
+- Declaring a method in a subclass with the same signature (name and arguments) as the one in the superclass overrides the inherited one
+- Declaring a static method with the same signature hides the inherited one 
+
+### Method Overriding
+
+Redefining the functionality of a base class method inside of a child class using the same list of parameters (or else it would be an entirely different method and won't override)
+
+When a method is called for a child object, we use the overridded method instead of the super class method
+
+### The `@Override` Annotation
+
+This tells the compiler that a method in the superclass is meant to be overridden
+
+The overriding method must have the same signature as the overridden base method
+
+The signature consists of
+- return type
+- method name
+- parameters list
+
+### Abstract Classes
+
+Used solely for the purpose of subclassing
+
+They are templates which define common sets of behavior that are shared by concrete classes that inherit them
+
+Declared with the word `abstract`
+
+### Abstract Class Features
+
+May be partially implemented or fully unimplemented without any errors
+- unimplemented methods are declared as `abstract` and left empty
+
+Cannot be instantiated
+
+A non-abstract class that is trying to inherit an abstract class must have all methods in the abstract class implemented
+
+Child classes that don't implement abstract methods must be declared as abstract
+
+![[Pasted image 20240909113139.png]]
+
+### Abstract Methods
+
+This is a method that doesn't have a body
+
+It declares the method signature and the return type that the concrete subclass must implement
+
+They have no body since it isn't the actual implementation
+
+Ends in a semicolon
+
+`abstract returnType methodName(Parameters);`
+
+### Abstract Method Features
+
+Abstract methods are created to be overridden in the concrete subclass
+
+These abstract declarations are only allowed inside of abstract classes
+- if a subclass doesn't have implementations for some of its parent's abstract method, the subclass also becomes ab abstract class
+  
+![[Pasted image 20240909113725.png]]
+
+## Polymorphism
+
+The ability to take many forms
+
+Allows the objects of subclasses to be treated as objects of a base class
+
+### Example
+
+Imagine a base class called Shape
+
+Different shapes have different ways of calculating the area, so we can define a different getArea() method for each type of shape
+
+Using a base class reference, calling the getArea() method on any type of shape will give the correct results
+
+![[Pasted image 20240911164038.png]]
+
+### Casting Objects
+
+An object of a subclass is able to be treated as if it was part of the parent class, or any of its ancestor classes
+
+This is called upcasting (we are casting up the hierarchy)
+
+### Upcasting
+
+There are two ways of upcasting:
+
+1. `Employee e = new Manager()` // making the reference be the base class object
+2. 
+   ```
+   public void giveRaise(Employee e) {...}
+   Manager m = new Manager();
+   giveRaise(m);
+   ```
+   
+   Through a method that accepts a reference to a base class object
+
+Upcasting doesn't change the object itself, it only gives it a different label
+
+The unique methods of the object are hidden because the parent class doesn't have those methods, hidden until it's downcasted
+
+### Accessing Members with Upcasting
+
+When upcasting happens, only the fields and methods declared by the base class are accessible
+
+When a method is called through the base class, if it is overridden by the subclass, the subclass version will be executed
+
+### Example
+
+![[Pasted image 20240911170954.png]]
+
+```
+Employee e = new Manager();
+
+e.setGoals(); // employee method ran since doesn't exist in manager
+e.getSalary(); // manager method ran since overide
+e.runReview(); // compile time error since employee doesn't have that method, its hidden
+```
+
+### Polymorphism Methodology
+
+Ensures that the appropriate method of the subclass through its base class reference
+
+Implemented using a technique called late method binding
+- the exact method to be called is determined at run time, just before making the call
+
+![[Pasted image 20240911171414.png]]
+
+![[Pasted image 20240911171427.png]]
+
+### Downcasting
+
+A higher class can be downcast to a subclass
+
+```
+Employee e = new Manager();
+...
+Manager m = (Manager) e;
+```
+
+This isn't safe and the object referenced must be a member of the downcast time
+
+Or else we get the `ClassCastExaption` at run time
+
+![[Pasted image 20240911171655.png]]
+
+The issue here is that Contractor and Manager are **sibling classes** meaning that they exist on the same hierarchy level and they don't have an "is-a" relationship
+
+One way to make this code work is by using something called the `instanceof` operator
+### instanseof Operator
+
+This is used to test whether an object is a member of a specific type
+
+Comparison operator
+
+Used to test whether a cast will work without an exception being thrown
+
+```
+Employee e = new Contractor();
+
+if (e instanceof Manager) {
+	Manage m = (Manager) e
+} else {
+	System.out.println("e is not a Manager");
+}
+```
+
+### Benefits of Polymorphism
+
+It enables programmers to deal with generalities, leading to less confusion when handling the specifics
+
+Programmers can command objects to behave in manners that are appropriate to the objects 
+- even before these objects are made
+
+Makes the code simpler
+- Can ignore type specific details
+
+Makes it easier to maintain
+
+Makes it very extensible
+- can add other subclasses later and have them work with the existing code
