@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataStructuresAndAlgorithms/Data Structures and Algorithms.md",
+                "file": "Systems_Design/Systems Design.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OOP Principles.md",
+                "file": "Systems_Design/Systems Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OOP Principles.md",
+                "file": "Systems_Design/Systems Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP Principles.md"
+                "file": "Systems_Design/Systems Design.md"
               }
             }
           }
@@ -197,15 +196,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb933ad8acf07275",
+  "active": "8c87733d7c7543bb",
   "lastOpenFiles": [
+    "DataStructuresAndAlgorithms/Data Structures and Algorithms.md",
+    "OOP Principles.md",
     "Pasted image 20240909113725.png",
     "Pasted image 20240909113139.png",
     "daily/2024/September/2024-09-09.md",
     "Pasted image 20240909085058.png",
     "Pasted image 20240909085036.png",
-    "DataStructuresAndAlgorithms/Data Structures and Algorithms.md",
-    "OOP Principles.md",
     "Systems_Design/Systems Design.md",
     "DataStructuresAndAlgorithms",
     "Phases of SDLC.md",
@@ -239,7 +238,6 @@
     "daily/2024/July",
     "Pasted image 20240618112120.png",
     "Pasted image 20240611074734.png",
-    "Pasted image 20240611074415.png",
     "daily/2024/June",
     "Database Programming",
     "DSA/Leetcode Crash Course",
