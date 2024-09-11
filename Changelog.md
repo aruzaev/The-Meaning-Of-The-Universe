@@ -1,3 +1,4 @@
+- 2024-09-11 at 14h02 · [[2024-09-11]]
 - 2024-09-09 at 09h54 · [[OOP Principles]]
 - 2024-09-09 at 08h45 · [[2024-09-09]]
 - 2024-09-09 at 08h44 · [[principles of effective technical communication]]
@@ -7,4 +8,3 @@
 - 2024-09-09 at 08h44 · [[Obsidian - How to Plan Your Day]]
 - 2024-09-09 at 08h44 · [[BYOL - Bring Your Own License]]
 - 2024-09-09 at 08h44 · [[Markdown Cheat Sheet]]
-- 2024-09-09 at 08h44 · [[Wiki - Information revolution]]
