@@ -13,6 +13,7 @@ User story - **the why**
 Acceptance criteria - **the why**
 Actual development during the sprint - **the how**
 
+## Types of User Stories
 
-
-
+- Functional user stories - features and functions that directly interact with the users ("as a user, I want to save my shopping cart)
+- Non-functional user stories - 
