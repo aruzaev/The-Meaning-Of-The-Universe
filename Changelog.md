@@ -1,3 +1,6 @@
+- 2024-09-17 at 14h32 · [[Planning Projects with User Stories]]
+- 2024-09-17 at 14h22 · [[Systems Design]]
+- 2024-09-17 at 14h21 · [[2024-09-17]]
 - 2024-09-11 at 17h25 · [[Data Structures and Algorithms]]
 - 2024-09-11 at 17h25 · [[2024-08-12]]
 - 2024-09-11 at 17h25 · [[2024-09-07]]
@@ -5,6 +8,3 @@
 - 2024-09-11 at 17h25 · [[2024-09-11]]
 - 2024-09-11 at 17h24 · [[OOP Principles]]
 - 2024-09-09 at 08h44 · [[principles of effective technical communication]]
-- 2024-09-09 at 08h44 · [[visual literacy]]
-- 2024-09-09 at 08h44 · [[Obsidian -  Beginner's Guide]]
-- 2024-09-09 at 08h44 · [[Obsidian - Cool Features]]
