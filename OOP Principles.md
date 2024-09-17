@@ -251,3 +251,6 @@ These abstract declarations are only allowed inside of abstract classes
 ![[Pasted image 20240909113725.png]]
 
 
+We just learned about inheritance and encapsulation. If you have any questions do not hesitate to bring them on the 15th. Let's start part of this series where we talk about obstruction very simple.
+
+Template.

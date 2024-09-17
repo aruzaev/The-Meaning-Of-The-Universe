@@ -1,4 +1,6 @@
-- 2024-09-09 at 11h37 · [[OOP Principles]]
+- 2024-09-17 at 07h45 · [[OOP Principles]]
+- 2024-09-17 at 07h44 · [[2024-09-17]]
+- 2024-09-11 at 17h16 · [[2024-09-11]]
 - 2024-09-09 at 10h30 · [[2024-09-09]]
 - 2024-09-09 at 07h56 · [[Data Structures and Algorithms]]
 - 2024-09-08 at 15h47 · [[Phases of SDLC]]
@@ -6,5 +8,3 @@
 - 2024-09-08 at 15h47 · [[Introduction to System Analysis and Design]]
 - 2024-09-07 at 09h33 · [[2024-09-02]]
 - 2024-09-07 at 09h33 · [[ADB1.1]]
-- 2024-09-07 at 09h33 · [[ADB1.2]]
-- 2024-09-07 at 09h33 · [[2024-09-07]]
