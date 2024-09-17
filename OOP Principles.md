@@ -250,7 +250,129 @@ These abstract declarations are only allowed inside of abstract classes
   
 ![[Pasted image 20240909113725.png]]
 
+## Polymorphism
 
+<<<<<<< HEAD
 We just learned about inheritance and encapsulation. If you have any questions do not hesitate to bring them on the 15th. Let's start part of this series where we talk about obstruction very simple.
 
 Template.
+=======
+The ability to take many forms
+
+Allows the objects of subclasses to be treated as objects of a base class
+
+### Example
+
+Imagine a base class called Shape
+
+Different shapes have different ways of calculating the area, so we can define a different getArea() method for each type of shape
+
+Using a base class reference, calling the getArea() method on any type of shape will give the correct results
+
+![[Pasted image 20240911164038.png]]
+
+### Casting Objects
+
+An object of a subclass is able to be treated as if it was part of the parent class, or any of its ancestor classes
+
+This is called upcasting (we are casting up the hierarchy)
+
+### Upcasting
+
+There are two ways of upcasting:
+
+1. `Employee e = new Manager()` // making the reference be the base class object
+2. 
+   ```
+   public void giveRaise(Employee e) {...}
+   Manager m = new Manager();
+   giveRaise(m);
+   ```
+   
+   Through a method that accepts a reference to a base class object
+
+Upcasting doesn't change the object itself, it only gives it a different label
+
+The unique methods of the object are hidden because the parent class doesn't have those methods, hidden until it's downcasted
+
+### Accessing Members with Upcasting
+
+When upcasting happens, only the fields and methods declared by the base class are accessible
+
+When a method is called through the base class, if it is overridden by the subclass, the subclass version will be executed
+
+### Example
+
+![[Pasted image 20240911170954.png]]
+
+```
+Employee e = new Manager();
+
+e.setGoals(); // employee method ran since doesn't exist in manager
+e.getSalary(); // manager method ran since overide
+e.runReview(); // compile time error since employee doesn't have that method, its hidden
+```
+
+### Polymorphism Methodology
+
+Ensures that the appropriate method of the subclass through its base class reference
+
+Implemented using a technique called late method binding
+- the exact method to be called is determined at run time, just before making the call
+
+![[Pasted image 20240911171414.png]]
+
+![[Pasted image 20240911171427.png]]
+
+### Downcasting
+
+A higher class can be downcast to a subclass
+
+```
+Employee e = new Manager();
+...
+Manager m = (Manager) e;
+```
+
+This isn't safe and the object referenced must be a member of the downcast time
+
+Or else we get the `ClassCastExaption` at run time
+
+![[Pasted image 20240911171655.png]]
+
+The issue here is that Contractor and Manager are **sibling classes** meaning that they exist on the same hierarchy level and they don't have an "is-a" relationship
+
+One way to make this code work is by using something called the `instanceof` operator
+### instanseof Operator
+
+This is used to test whether an object is a member of a specific type
+
+Comparison operator
+
+Used to test whether a cast will work without an exception being thrown
+
+```
+Employee e = new Contractor();
+
+if (e instanceof Manager) {
+	Manage m = (Manager) e
+} else {
+	System.out.println("e is not a Manager");
+}
+```
+
+### Benefits of Polymorphism
+
+It enables programmers to deal with generalities, leading to less confusion when handling the specifics
+
+Programmers can command objects to behave in manners that are appropriate to the objects 
+- even before these objects are made
+
+Makes the code simpler
+- Can ignore type specific details
+
+Makes it easier to maintain
+
+Makes it very extensible
+- can add other subclasses later and have them work with the existing code
+>>>>>>> 7f814dd57c178bd6cbf6cf8171f5695026b96eee
