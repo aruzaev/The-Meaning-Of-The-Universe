@@ -7,3 +7,5 @@
 ## Week 3
 
 [[Planning Projects with User Stories]]
+
+[[Midterm Learning]]
