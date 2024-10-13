@@ -8,38 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c87733d7c7543bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Systems_Design/Systems Design.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd235f04161b8809",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planning Projects with User Stories.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cb933ad8acf07275",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOP Principles.md",
+                "file": "DataStructuresAndAlgorithms/Data Structures and Algorithms.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +21,12 @@
             }
           },
           {
-            "id": "ce86470d42c1b391",
+            "id": "d0314d032c14addc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024/September/2024-09-07.md",
+                "file": "Multithreading.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,12 +34,77 @@
             }
           },
           {
-            "id": "e19ca1ab6317f2e9",
+            "id": "c9d7d27e0926b1d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024/August/2024-08-12.md",
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "651d22a6309e1949",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024/September/2024-09-30.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b43a7366252363a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024/October/2024-10-07.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1477f66628657d91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024/October/2024-10-08.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52ba5dacde4afbaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 7.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2462196e66f83b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introducing Interfaces.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -148,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planning Projects with User Stories.md",
+                "file": "Untitled 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planning Projects with User Stories.md",
+                "file": "Untitled 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planning Projects with User Stories.md"
+                "file": "Untitled 7.md"
               }
             }
           }
@@ -210,19 +249,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd235f04161b8809",
+  "active": "52ba5dacde4afbaa",
   "lastOpenFiles": [
+    "daily/2024/October/2024-10-08.md",
+    "Untitled 7.md",
+    "Untitled 6.md",
+    "daily/2024/October/2024-10-07.md",
+    "Untitled 5.md",
+    "daily/2024/October",
+    "daily/2024/September/2024-09-30.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Multithreading.md",
+    "DataStructuresAndAlgorithms/Data Structures and Algorithms.md",
+    "Introducing Interfaces.md",
+    "daily/2024/September/2024-09-07.md",
+    "daily/2024/August/2024-08-12.md",
+    "Changelog.md",
+    "OOP Principles.md",
+    "daily/2024/September/2024-09-21.md",
+    "daily/2024/September/2024-09-19.md",
+    "Planning Projects with User Stories.md",
     "Systems_Design/Systems Design.md",
     "daily/2024/September/2024-09-17.md",
-    "OOP Principles.md",
-    "Planning Projects with User Stories.md",
     "Pasted image 20240911171655.png",
     "Pasted image 20240911171427.png",
     "Pasted image 20240911171414.png",
     "Pasted image 20240911170954.png",
     "Pasted image 20240911164038.png",
     "daily/2024/September/2024-09-11.md",
-    "DataStructuresAndAlgorithms/Data Structures and Algorithms.md",
     "Pasted image 20240909113725.png",
     "Pasted image 20240909113139.png",
     "daily/2024/September/2024-09-09.md",
@@ -232,31 +287,15 @@
     "Phases of SDLC.md",
     "Pasted image 20240907094901.png",
     "daily/2024/September/2024-09-02.md",
-    "daily/2024/September/2024-09-07.md",
     "Difference between SDLC and Methodology.md",
     "Introduction to System Analysis and Design.md",
-    "ADB1.3.md",
     "Systems_Design",
-    "Advanced DB Programming/Advanced Database Programming.md",
-    "ADB1.1.md",
-    "ADB1.2.md",
-    "daily/2024/September/2024-09-03.md",
-    "Chapter 11 - Group Functions.md",
     "daily/2024/September",
-    "Database Programming/Database Programming.md",
-    "Chapter 12 - Subqueries and Merge Statements.md",
-    "Chapter 9 - Joining Data From Multiple Tables.md",
-    "Untitled 2.md",
-    "daily/2024/August/2024-08-12.md",
-    "daily/2024/August/2024-08-08.md",
-    "daily/2024/August/2024-08-05.md",
-    "daily/2024/August/2024-08-06.md",
     "daily/2024/August",
     "daily/2024/July",
     "daily/2024/June",
     "Database Programming",
     "DSA/Leetcode Crash Course",
-    "Untitled",
-    "daily/2024/May"
+    "Untitled"
   ]
 }
